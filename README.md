@@ -1,4 +1,4 @@
-# SurvivalAnalysis
+# Popt-RSF
 
 ***Prerequisites :*** <br/>
 The required dependencies for the analysis is R programming ***R version >= 3.6***
