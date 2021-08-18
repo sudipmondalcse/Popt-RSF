@@ -1,0 +1,4311 @@
+Date Announced,Age Bracket,Gender,Detected State,Current Status,Status Change Date,Duration
+30-01-2020,20,F,Kerala,Recovered,14-02-2020,15
+02-03-2020,45,M,Delhi,Recovered,15-03-2020,13
+02-03-2020,24,M,Telangana,Recovered,02-03-2020,0
+03-03-2020,69,M,Rajasthan,Recovered,03-03-2020,0
+04-03-2020,70,F,Rajasthan,Recovered,04-03-2020,0
+04-03-2020,45,F,Uttar Pradesh,Recovered,15-03-2020,11
+04-03-2020,16,M,Uttar Pradesh,Recovered,15-03-2020,11
+05-03-2020,27,M,Delhi,Hospitalized,05-03-2020,0
+05-03-2020,59,M,Uttar Pradesh,Recovered,05-03-2020,0
+07-03-2020,65,M,Ladakh,Hospitalized,07-03-2020,0
+07-03-2020,75,M,Ladakh,Hospitalized,07-03-2020,0
+07-03-2020,45,M,Tamil Nadu,Recovered,07-03-2020,0
+08-03-2020,24,M,Kerala,Recovered,27-03-2020,19
+08-03-2020,54,M,Kerala,Recovered,29-03-2020,21
+08-03-2020,53,F,Kerala,Recovered,29-03-2020,21
+08-03-2020,65,M,Kerala,Recovered,29-03-2020,21
+08-03-2020,61,F,Kerala,Recovered,29-03-2020,21
+09-03-2020,25,F,Delhi,Hospitalized,09-03-2020,0
+09-03-2020,63,F,Jammu and Kashmir,Hospitalized,09-03-2020,0
+09-03-2020,46,M,Karnataka,Recovered,27-03-2020,18
+09-03-2020,3,M,Kerala,Recovered,26-03-2020,17
+09-03-2020,48,M,Uttar Pradesh,Recovered,20-03-2020,11
+10-03-2020,40,M,Karnataka,Recovered,24-03-2020,14
+10-03-2020,47,F,Karnataka,Recovered,27-03-2020,17
+10-03-2020,13,F,Karnataka,Recovered,24-03-2020,14
+10-03-2020,96,M,Kerala,Recovered,31-03-2020,21
+10-03-2020,89,F,Kerala,Recovered,31-03-2020,21
+10-03-2020,3,F,Maharashtra,Hospitalized,10-03-2020,0
+10-03-2020,85,M,Rajasthan,Recovered,10-03-2020,0
+11-03-2020,46,M,Delhi,Hospitalized,24-03-2020,13
+11-03-2020,70,M,Maharashtra,Hospitalized,11-03-2020,0
+11-03-2020,68,F,Maharashtra,Hospitalized,11-03-2020,0
+11-03-2020,45,M,Maharashtra,Hospitalized,12-03-2020,1
+12-03-2020,27,M,Andhra Pradesh,Recovered,01-04-2020,20
+12-03-2020,69,F,Delhi,Deceased,12-03-2020,0
+12-03-2020,26,M,Karnataka,Recovered,20-03-2020,8
+12-03-2020,65,M,Maharashtra,Deceased,12-03-2020,0
+12-03-2020,33,M,Maharashtra,Hospitalized,12-03-2020,0
+12-03-2020,33,M,Maharashtra,Hospitalized,12-03-2020,0
+12-03-2020,27,M,Uttar Pradesh,Hospitalized,12-03-2020,0
+13-03-2020,76,M,Karnataka,Deceased,13-03-2020,0
+14-03-2020,37,M,Maharashtra,Hospitalized,14-03-2020,0
+14-03-2020,43,M,Maharashtra,Hospitalized,14-03-2020,0
+14-03-2020,24,M,Rajasthan,Hospitalized,14-03-2020,0
+15-03-2020,59,F,Maharashtra,Hospitalized,15-03-2020,0
+16-03-2020,45,F,Karnataka,Recovered,31-03-2020,15
+16-03-2020,33,F,Maharashtra,Hospitalized,16-03-2020,0
+16-03-2020,3,F,Maharashtra,Hospitalized,16-03-2020,0
+16-03-2020,44,F,Maharashtra,Hospitalized,16-03-2020,0
+16-03-2020,51,F,Maharashtra,Hospitalized,16-03-2020,0
+16-03-2020,31,M,Odisha,Hospitalized,27-03-2020,11
+17-03-2020,32,M,Karnataka,Recovered,31-03-2020,14
+17-03-2020,29,F,Haryana,Hospitalized,17-03-2020,0
+17-03-2020,20,F,Karnataka,Recovered,02-04-2020,16
+17-03-2020,67,F,Karnataka,Recovered,01-04-2020,15
+17-03-2020,63,M,Karnataka,Recovered,02-04-2020,16
+17-03-2020,49,M,Maharashtra,Hospitalized,17-03-2020,0
+17-03-2020,26,M,Maharashtra,Hospitalized,17-03-2020,0
+17-03-2020,68,F,Puducherry,Hospitalized,17-03-2020,0
+17-03-2020,52,M,Telangana,Hospitalized,17-03-2020,0
+17-03-2020,22,F,Uttar Pradesh,Hospitalized,17-03-2020,0
+17-03-2020,18,M,West Bengal,Recovered,17-03-2020,0
+17-03-2020,34,M,Ladakh,Hospitalized,17-03-2020,0
+18-03-2020,28,F,Maharashtra,Hospitalized,18-03-2020,0
+18-03-2020,25,M,Uttar Pradesh,Hospitalized,18-03-2020,0
+18-03-2020,22,M,Telangana,Hospitalized,18-03-2020,0
+18-03-2020,56,F,Karnataka,Recovered,06-04-2020,19
+18-03-2020,25,M,Karnataka,Recovered,30-03-2020,12
+18-03-2020,27,M,Uttar Pradesh,Hospitalized,18-03-2020,0
+18-03-2020,44,M,Haryana,Hospitalized,18-03-2020,0
+18-03-2020,20,M,Tamil Nadu,Hospitalized,18-03-2020,0
+18-03-2020,68,F,Maharashtra,Hospitalized,18-03-2020,0
+18-03-2020,35,M,Karnataka,Recovered,05-04-2020,18
+18-03-2020,21,M,Maharashtra,Hospitalized,18-03-2020,0
+18-03-2020,67,F,Jammu and Kashmir,Hospitalized,18-03-2020,0
+18-03-2020,33,M,Rajasthan,Hospitalized,18-03-2020,0
+18-03-2020,30,F,Rajasthan,Hospitalized,18-03-2020,0
+18-03-2020,3,F,Rajasthan,Hospitalized,18-03-2020,0
+18-03-2020,38,F,Delhi,Hospitalized,18-03-2020,0
+19-03-2020,23,F,Chandigarh,Hospitalized,19-03-2020,0
+19-03-2020,22,F,Maharashtra,Hospitalized,19-03-2020,0
+19-03-2020,49,F,Maharashtra,Hospitalized,19-03-2020,0
+19-03-2020,35,M,Karnataka,Recovered,19-03-2020,0
+19-03-2020,24,M,Andhra Pradesh,Hospitalized,19-03-2020,0
+19-03-2020,24,F,Chhattisgarh,Recovered,19-03-2020,0
+19-03-2020,21,M,Tamil Nadu,Recovered,28-03-2020,9
+19-03-2020,70,M,Punjab,Deceased,19-03-2020,0
+19-03-2020,47,M,Kerala,Hospitalized,19-03-2020,0
+19-03-2020,32,M,Gujarat,Hospitalized,19-03-2020,0
+19-03-2020,21,F,Gujarat,Hospitalized,19-03-2020,0
+19-03-2020,51,M,Maharashtra,Hospitalized,19-03-2020,0
+19-03-2020,19,M,Odisha,Hospitalized,19-03-2020,0
+19-03-2020,65,M,Andhra Pradesh,Recovered,29-03-2020,10
+19-03-2020,22,F,Delhi,Hospitalized,19-03-2020,0
+19-03-2020,22,M,Delhi,Hospitalized,19-03-2020,0
+19-03-2020,32,M,Delhi,Hospitalized,19-03-2020,0
+20-03-2020,22,M,West Bengal,Hospitalized,20-03-2020,0
+20-03-2020,69,F,Punjab,Hospitalized,20-03-2020,0
+20-03-2020,58,M,Delhi,Hospitalized,20-03-2020,0
+20-03-2020,24,M,Maharashtra,Hospitalized,20-03-2020,0
+20-03-2020,38,M,Maharashtra,Hospitalized,20-03-2020,0
+20-03-2020,20,M,Maharashtra,Hospitalized,20-03-2020,0
+20-03-2020,22,F,Gujarat,Hospitalized,20-03-2020,0
+20-03-2020,34,F,Gujarat,Recovered,20-03-2020,0
+20-03-2020,47,M,Gujarat,Hospitalized,20-03-2020,0
+20-03-2020,37,M,Uttar Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,35,M,Uttar Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,20,F,Uttar Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,41,F,Uttar Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,18,F,Telangana,Hospitalized,20-03-2020,0
+20-03-2020,69,F,Gujarat,Hospitalized,20-03-2020,0
+20-03-2020,27,M,Gujarat,Hospitalized,20-03-2020,0
+20-03-2020,26,F,Chandigarh,Hospitalized,20-03-2020,0
+20-03-2020,52,F,Haryana,Hospitalized,20-03-2020,0
+20-03-2020,21,M,Haryana,Hospitalized,20-03-2020,0
+20-03-2020,52,M,Kerala,Hospitalized,20-03-2020,0
+20-03-2020,27,M,Kerala,Hospitalized,20-03-2020,0
+20-03-2020,63,F,Himachal Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,32,M,Himachal Pradesh,Recovered,27-03-2020,7
+20-03-2020,59,M,Madhya Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,45,F,Madhya Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,22,F,Madhya Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,24,M,Madhya Pradesh,Hospitalized,20-03-2020,0
+20-03-2020,27,M,Telangana,Hospitalized,20-03-2020,0
+20-03-2020,60,M,Telangana,Hospitalized,20-03-2020,0
+20-03-2020,32,M,Delhi,Hospitalized,20-03-2020,0
+20-03-2020,20,M,Maharashtra,Hospitalized,20-03-2020,0
+21-03-2020,23,F,West Bengal,Recovered,21-03-2020,0
+21-03-2020,42,M,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,74,F,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,28,F,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,59,M,Gujarat,Hospitalized,21-03-2020,0
+21-03-2020,63,M,Maharashtra,Deceased,22-03-2020,1
+21-03-2020,41,F,Maharashtra,Hospitalized,21-03-2020,0
+21-03-2020,24,F,Delhi,Hospitalized,21-03-2020,0
+21-03-2020,26,F,Delhi,Hospitalized,21-03-2020,0
+21-03-2020,32,M,Karnataka,Recovered,19-04-2020,29
+21-03-2020,38,F,Haryana,Hospitalized,21-03-2020,0
+21-03-2020,67,M,Gujarat,Deceased,22-03-2020,1
+21-03-2020,26,M,Gujarat,Hospitalized,21-03-2020,0
+21-03-2020,53,F,Karnataka,Recovered,12-04-2020,22
+21-03-2020,39,M,Karnataka,Hospitalized,21-03-2020,0
+21-03-2020,19,F,Uttar Pradesh,Hospitalized,21-03-2020,0
+21-03-2020,35,M,Telangana,Hospitalized,21-03-2020,0
+21-03-2020,33,M,Telangana,Hospitalized,21-03-2020,0
+21-03-2020,69,M,Tamil Nadu,Hospitalized,21-03-2020,0
+21-03-2020,75,M,Tamil Nadu,Hospitalized,21-03-2020,0
+21-03-2020,65,M,Tamil Nadu,Hospitalized,21-03-2020,0
+21-03-2020,35,M,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,34,M,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,45,M,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,40,F,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,17,M,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,36,F,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,60,M,Punjab,Hospitalized,21-03-2020,0
+21-03-2020,54,M,Kerala,Hospitalized,21-03-2020,0
+21-03-2020,21,M,Karnataka,Hospitalized,21-03-2020,0
+21-03-2020,35,M,Karnataka,Recovered,07-04-2020,17
+21-03-2020,23,F,Haryana,Hospitalized,21-03-2020,0
+21-03-2020,57,M,West Bengal,Deceased,23-03-2020,2
+21-03-2020,59,F,Gujarat,Hospitalized,21-03-2020,0
+21-03-2020,22,M,Andhra Pradesh,Hospitalized,21-03-2020,0
+21-03-2020,24,M,Andhra Pradesh,Hospitalized,21-03-2020,0
+21-03-2020,31,M,Uttar Pradesh,Hospitalized,21-03-2020,0
+21-03-2020,30,M,Uttar Pradesh,Hospitalized,21-03-2020,0
+22-03-2020,33,M,Karnataka,Recovered,06-04-2020,15
+22-03-2020,32,M,Maharashtra,Hospitalized,22-03-2020,0
+22-03-2020,30,F,Maharashtra,Hospitalized,22-03-2020,0
+22-03-2020,21,M,Maharashtra,Hospitalized,22-03-2020,0
+22-03-2020,60,F,Maharashtra,Hospitalized,22-03-2020,0
+22-03-2020,64,F,Maharashtra,Hospitalized,22-03-2020,0
+22-03-2020,35,M,Maharashtra,Hospitalized,22-03-2020,0
+22-03-2020,25,F,Tamil Nadu,Hospitalized,22-03-2020,0
+22-03-2020,38,M,Bihar,Deceased,22-03-2020,0
+22-03-2020,24,M,Telangana,Hospitalized,22-03-2020,0
+22-03-2020,81,F,Gujarat,Hospitalized,22-03-2020,0
+22-03-2020,26,F,Madhya Pradesh,Hospitalized,22-03-2020,0
+22-03-2020,58,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,27,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,32,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,41,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,33,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,26,M,Telangana,Hospitalized,22-03-2020,0
+22-03-2020,34,M,Telangana,Hospitalized,22-03-2020,0
+22-03-2020,23,M,Telangana,Hospitalized,22-03-2020,0
+22-03-2020,23,M,Telangana,Hospitalized,22-03-2020,0
+22-03-2020,50,F,Telangana,Hospitalized,22-03-2020,0
+22-03-2020,22,M,Karnataka,Recovered,06-04-2020,15
+22-03-2020,32,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,24,M,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,41,F,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,27,M,Kerala,Recovered,31-03-2020,9
+22-03-2020,69,M,Kerala,Deceased,28-03-2020,6
+22-03-2020,21,F,Kerala,Hospitalized,22-03-2020,0
+22-03-2020,64,F,Karnataka,Recovered,11-04-2020,20
+22-03-2020,36,F,Karnataka,Recovered,22-03-2020,0
+22-03-2020,27,M,Karnataka,Recovered,06-04-2020,15
+22-03-2020,51,M,Karnataka,Recovered,22-03-2020,0
+22-03-2020,37,M,Uttar Pradesh,Hospitalized,22-03-2020,0
+22-03-2020,62,F,Uttar Pradesh,Hospitalized,22-03-2020,0
+22-03-2020,48,M,West Bengal,Recovered,22-03-2020,0
+22-03-2020,47,F,West Bengal,Hospitalized,22-03-2020,0
+22-03-2020,20,F,West Bengal,Hospitalized,22-03-2020,0
+22-03-2020,53,M,Madhya Pradesh,Hospitalized,22-03-2020,0
+22-03-2020,64,F,Tamil Nadu,Hospitalized,22-03-2020,0
+22-03-2020,43,M,Tamil Nadu,Hospitalized,22-03-2020,0
+22-03-2020,49,F,Andhra Pradesh,Hospitalized,22-03-2020,0
+22-03-2020,36,M,Rajasthan,Hospitalized,22-03-2020,0
+23-03-2020,46,M,Karnataka,Recovered,12-04-2020,20
+23-03-2020,45,M,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,58,M,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,57,F,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,27,F,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,29,F,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,24,F,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,33,M,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,49,M,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,46,F,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,61,M,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,85,F,Gujarat,Deceased,25-03-2020,2
+23-03-2020,21,M,Telangana,Hospitalized,23-03-2020,0
+23-03-2020,30,M,Telangana,Hospitalized,23-03-2020,0
+23-03-2020,23,M,Telangana,Hospitalized,23-03-2020,0
+23-03-2020,21,M,Chandigarh,Hospitalized,23-03-2020,0
+23-03-2020,20,M,Telangana,Hospitalized,23-03-2020,0
+23-03-2020,25,M,Telangana,Hospitalized,23-03-2020,0
+23-03-2020,56,M,Telangana,Hospitalized,23-03-2020,0
+23-03-2020,32,M,Gujarat,Hospitalized,23-03-2020,0
+23-03-2020,49,M,Uttarakhand,Hospitalized,23-03-2020,0
+23-03-2020,24,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,30,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,31,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,41,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,34,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,40,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,37,M,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,26,F,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,61,F,Kerala,Hospitalized,23-03-2020,0
+23-03-2020,38,M,Karnataka,Recovered,07-04-2020,15
+23-03-2020,41,M,Karnataka,Recovered,06-04-2020,14
+23-03-2020,30,F,Karnataka,Hospitalized,23-03-2020,0
+23-03-2020,24,M,Karnataka,Recovered,06-04-2020,14
+23-03-2020,60,M,Karnataka,Hospitalized,23-03-2020,0
+23-03-2020,22,M,Karnataka,Recovered,12-04-2020,20
+23-03-2020,73,F,Uttar Pradesh,Recovered,23-03-2020,0
+23-03-2020,69,M,Himachal Pradesh,Deceased,23-03-2020,0
+23-03-2020,2,M,Punjab,Hospitalized,23-03-2020,0
+23-03-2020,25,M,Andhra Pradesh,Hospitalized,23-03-2020,0
+23-03-2020,25,M,Tamil Nadu,Hospitalized,23-03-2020,0
+23-03-2020,48,M,Tamil Nadu,Hospitalized,23-03-2020,0
+23-03-2020,54,M,Tamil Nadu,Deceased,25-03-2020,2
+23-03-2020,24,M,Bihar,Hospitalized,23-03-2020,0
+23-03-2020,35,M,Uttar Pradesh,Hospitalized,23-03-2020,0
+23-03-2020,41,M,Uttar Pradesh,Hospitalized,23-03-2020,0
+24-03-2020,23,F,Manipur,Recovered,06-04-2020,13
+24-03-2020,41,F,Maharashtra,Recovered,09-04-2020,16
+24-03-2020,32,M,Karnataka,Recovered,07-04-2020,14
+24-03-2020,40,M,Karnataka,Recovered,11-04-2020,18
+24-03-2020,65,M,Karnataka,Recovered,11-04-2020,18
+24-03-2020,56,F,Karnataka,Recovered,24-03-2020,0
+24-03-2020,65,M,Gujarat,Hospitalized,24-03-2020,0
+24-03-2020,53,M,Gujarat,Hospitalized,24-03-2020,0
+24-03-2020,54,F,Gujarat,Hospitalized,24-03-2020,0
+24-03-2020,58,M,West Bengal,Hospitalized,24-03-2020,0
+24-03-2020,74,M,Tamil Nadu,Hospitalized,24-03-2020,0
+24-03-2020,52,F,Tamil Nadu,Hospitalized,24-03-2020,0
+24-03-2020,25,F,Tamil Nadu,Hospitalized,24-03-2020,0
+24-03-2020,49,M,Telangana,Hospitalized,24-03-2020,0
+24-03-2020,39,F,Telangana,Hospitalized,24-03-2020,0
+24-03-2020,61,F,Telangana,Hospitalized,24-03-2020,0
+24-03-2020,56,F,Karnataka,Hospitalized,24-03-2020,0
+24-03-2020,47,M,Karnataka,Recovered,07-04-2020,14
+24-03-2020,55,M,West Bengal,Hospitalized,24-03-2020,0
+24-03-2020,65,M,Jammu and Kashmir,Deceased,24-03-2020,0
+24-03-2020,57,M,Jammu and Kashmir,Hospitalized,24-03-2020,0
+24-03-2020,47,F,Uttar Pradesh,Hospitalized,24-03-2020,0
+24-03-2020,57,F,Kerala,Hospitalized,24-03-2020,0
+24-03-2020,70,F,Karnataka,Recovered,13-04-2020,20
+24-03-2020,23,M,Karnataka,Recovered,07-04-2020,14
+24-03-2020,25,M,Andhra Pradesh,Hospitalized,24-03-2020,0
+24-03-2020,65,M,Tamil Nadu,Hospitalized,24-03-2020,0
+24-03-2020,55,F,Tamil Nadu,Hospitalized,24-03-2020,0
+24-03-2020,25,M,Tamil Nadu,Hospitalized,24-03-2020,0
+24-03-2020,64,F,Telangana,Hospitalized,24-03-2020,0
+24-03-2020,57,M,Telangana,Hospitalized,25-03-2020,1
+25-03-2020,65,F,Madhya Pradesh,Deceased,25-03-2020,0
+25-03-2020,50,M,Mizoram,Hospitalized,25-03-2020,0
+25-03-2020,57,M,Maharashtra,Hospitalized,25-03-2020,0
+25-03-2020,27,M,Maharashtra,Hospitalized,25-03-2020,0
+25-03-2020,39,M,Maharashtra,Hospitalized,25-03-2020,0
+25-03-2020,38,M,Maharashtra,Hospitalized,25-03-2020,0
+25-03-2020,63,M,Tamil Nadu,Hospitalized,25-03-2020,0
+25-03-2020,34,M,Karnataka,Hospitalized,25-03-2020,0
+25-03-2020,21,F,Haryana,Hospitalized,25-03-2020,0
+25-03-2020,22,M,Kerala,Hospitalized,25-03-2020,0
+25-03-2020,23,M,Kerala,Hospitalized,25-03-2020,0
+25-03-2020,37,M,Kerala,Hospitalized,25-03-2020,0
+25-03-2020,37,F,Karnataka,Recovered,06-04-2020,12
+25-03-2020,63,M,Karnataka,Recovered,13-04-2020,19
+25-03-2020,59,F,Karnataka,Recovered,13-04-2020,19
+25-03-2020,26,M,Karnataka,Hospitalized,25-03-2020,0
+25-03-2020,26,M,Karnataka,Recovered,13-04-2020,19
+25-03-2020,63,F,Karnataka,Recovered,25-03-2020,0
+25-03-2020,69,M,Karnataka,Recovered,25-03-2020,0
+25-03-2020,9,F,Karnataka,Hospitalized,25-03-2020,0
+25-03-2020,7,F,Karnataka,Hospitalized,25-03-2020,0
+25-03-2020,55,F,Punjab,Hospitalized,25-03-2020,0
+25-03-2020,31,M,Punjab,Hospitalized,25-03-2020,0
+25-03-2020,26,M,Uttarakhand,Hospitalized,25-03-2020,0
+25-03-2020,23,M,Chhattisgarh,Recovered,25-03-2020,0
+25-03-2020,24,F,Chhattisgarh,Recovered,25-03-2020,0
+25-03-2020,33,M,Uttar Pradesh,Recovered,25-03-2020,0
+25-03-2020,43,F,Telangana,Hospitalized,25-03-2020,0
+25-03-2020,3,M,Telangana,Hospitalized,25-03-2020,0
+25-03-2020,22,M,Andhra Pradesh,Hospitalized,25-03-2020,0
+25-03-2020,18,M,Tamil Nadu,Hospitalized,25-03-2020,0
+25-03-2020,26,M,Tamil Nadu,Hospitalized,25-03-2020,0
+25-03-2020,63,M,Tamil Nadu,Hospitalized,27-03-2020,2
+25-03-2020,52,M,Andhra Pradesh,Hospitalized,25-03-2020,0
+25-03-2020,25,M,Goa,Hospitalized,25-03-2020,0
+25-03-2020,29,M,Goa,Hospitalized,25-03-2020,0
+25-03-2020,55,M,Goa,Hospitalized,25-03-2020,0
+26-03-2020,66,M,West Bengal,Hospitalized,26-03-2020,0
+26-03-2020,21,F,Uttar Pradesh,Hospitalized,26-03-2020,0
+26-03-2020,39,M,Uttar Pradesh,Hospitalized,26-03-2020,0
+26-03-2020,33,F,Uttar Pradesh,Hospitalized,26-03-2020,0
+26-03-2020,32,M,Uttar Pradesh,Hospitalized,26-03-2020,0
+26-03-2020,40,F,Bihar,Hospitalized,26-03-2020,0
+26-03-2020,12,M,Bihar,Hospitalized,26-03-2020,0
+26-03-2020,49,M,Telangana,Hospitalized,26-03-2020,0
+26-03-2020,36,F,Telangana,Hospitalized,26-03-2020,0
+26-03-2020,41,M,Telangana,Hospitalized,26-03-2020,0
+26-03-2020,45,M,Rajasthan,Hospitalized,26-03-2020,0
+26-03-2020,35,M,Rajasthan,Hospitalized,26-03-2020,0
+26-03-2020,35,M,Karnataka,Recovered,26-03-2020,0
+26-03-2020,70,F,Karnataka,Deceased,26-03-2020,0
+26-03-2020,64,M,Karnataka,Hospitalized,26-03-2020,0
+26-03-2020,45,M,Karnataka,Hospitalized,26-03-2020,0
+26-03-2020,42,M,Maharashtra,Hospitalized,26-03-2020,0
+26-03-2020,21,F,Haryana,Hospitalized,26-03-2020,0
+26-03-2020,24,M,Tamil Nadu,Hospitalized,26-03-2020,0
+26-03-2020,7,M,Jammu and Kashmir,Hospitalized,26-03-2020,0
+26-03-2020,1,M,Jammu and Kashmir,Hospitalized,26-03-2020,0
+26-03-2020,49,M,Kerala,Hospitalized,26-03-2020,0
+26-03-2020,39,M,Kerala,Hospitalized,26-03-2020,0
+26-03-2020,36,M,Kerala,Recovered,05-04-2020,10
+26-03-2020,32,M,Kerala,Hospitalized,26-03-2020,0
+26-03-2020,21,M,Kerala,Hospitalized,26-03-2020,0
+26-03-2020,24,M,Tamil Nadu,Hospitalized,26-03-2020,0
+26-03-2020,65,F,Tamil Nadu,Hospitalized,26-03-2020,0
+26-03-2020,20,M,Bihar,Hospitalized,26-03-2020,0
+26-03-2020,29,M,Andhra Pradesh,Hospitalized,26-03-2020,0
+26-03-2020,60,M,Odisha,Hospitalized,26-03-2020,0
+26-03-2020,45,M,Telangana,Hospitalized,27-03-2020,1
+26-03-2020,37,M,Gujarat,Hospitalized,27-03-2020,1
+27-03-2020,53,M,Andaman and Nicobar Islands,Recovered,27-03-2020,0
+27-03-2020,54,M,Andhra Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,35,M,Madhya Pradesh,Deceased,27-03-2020,0
+27-03-2020,22,M,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,44,F,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,42,M,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,46,M,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,23,M,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,25,F,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,1,M,Karnataka,Recovered,12-04-2020,16
+27-03-2020,20,M,Karnataka,Hospitalized,27-03-2020,0
+27-03-2020,25,F,Karnataka,Hospitalized,27-03-2020,0
+27-03-2020,35,F,Karnataka,Hospitalized,27-03-2020,0
+27-03-2020,60,M,Karnataka,Deceased,27-03-2020,0
+27-03-2020,33,F,Karnataka,Hospitalized,27-03-2020,0
+27-03-2020,22,M,Karnataka,Recovered,12-04-2020,16
+27-03-2020,53,F,Uttar Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,38,M,Uttar Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,30,M,Uttar Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,42,M,Madhya Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,41,M,Madhya Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,53,M,Madhya Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,18,F,Madhya Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,14,F,Madhya Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,47,M,Kerala,Hospitalized,27-03-2020,0
+27-03-2020,18,M,Karnataka,Recovered,27-03-2020,0
+27-03-2020,21,M,Karnataka,Recovered,27-03-2020,0
+27-03-2020,11,M,West Bengal,Hospitalized,27-03-2020,0
+27-03-2020,27,F,West Bengal,Hospitalized,27-03-2020,0
+27-03-2020,45,F,West Bengal,Hospitalized,27-03-2020,0
+27-03-2020,6,F,West Bengal,Hospitalized,27-03-2020,0
+27-03-2020,1,F,West Bengal,Hospitalized,27-03-2020,0
+27-03-2020,73,F,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,61,M,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,39,M,Tamil Nadu,Hospitalized,27-03-2020,0
+27-03-2020,45,F,Andhra Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,22,M,Chandigarh,Hospitalized,27-03-2020,0
+27-03-2020,50,M,Madhya Pradesh,Hospitalized,27-03-2020,0
+27-03-2020,37,M,Gujarat,Hospitalized,27-03-2020,0
+27-03-2020,39,M,Gujarat,Hospitalized,27-03-2020,0
+27-03-2020,33,F,Gujarat,Hospitalized,27-03-2020,0
+28-03-2020,25,M,Gujarat,Hospitalized,28-03-2020,0
+28-03-2020,65,M,Gujarat,Hospitalized,28-03-2020,0
+28-03-2020,42,M,Tamil Nadu,Hospitalized,28-03-2020,0
+28-03-2020,49,M,Tamil Nadu,Hospitalized,28-03-2020,0
+28-03-2020,66,M,Gujarat,Hospitalized,28-03-2020,0
+28-03-2020,23,M,Rajasthan,Hospitalized,28-03-2020,0
+28-03-2020,21,F,Rajasthan,Hospitalized,28-03-2020,0
+28-03-2020,54,F,Karnataka,Hospitalized,28-03-2020,0
+28-03-2020,28,F,Karnataka,Hospitalized,28-03-2020,0
+28-03-2020,23,F,Karnataka,Hospitalized,28-03-2020,0
+28-03-2020,21,M,Karnataka,Recovered,28-03-2020,0
+28-03-2020,23,M,Karnataka,Recovered,12-04-2020,15
+28-03-2020,70,M,Karnataka,Recovered,11-04-2020,14
+28-03-2020,32,F,Karnataka,Recovered,12-04-2020,15
+28-03-2020,38,M,Karnataka,Recovered,12-04-2020,15
+28-03-2020,18,M,Karnataka,Recovered,12-04-2020,15
+28-03-2020,63,F,Karnataka,Hospitalized,28-03-2020,0
+28-03-2020,21,M,Uttarakhand,Hospitalized,28-03-2020,0
+28-03-2020,45,M,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,40,F,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,56,M,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,29,M,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,30,M,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,32,M,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,35,M,Jammu and Kashmir,Hospitalized,28-03-2020,0
+28-03-2020,11,F,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,35,F,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,63,M,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,18,M,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,33,F,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,35,M,Kerala,Hospitalized,28-03-2020,0
+28-03-2020,60,M,Tamil Nadu,Hospitalized,28-03-2020,0
+28-03-2020,74,M,Telangana,Deceased,28-03-2020,0
+28-03-2020,21,M,Chhattisgarh,Recovered,28-03-2020,0
+28-03-2020,25,M,Tamil Nadu,Hospitalized,28-03-2020,0
+28-03-2020,20,M,Karnataka,Recovered,06-04-2020,9
+28-03-2020,24,M,Karnataka,Hospitalized,28-03-2020,0
+28-03-2020,76,F,West Bengal,Hospitalized,28-03-2020,0
+28-03-2020,56,F,West Bengal,Hospitalized,28-03-2020,0
+28-03-2020,54,F,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,36,M,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,52,M,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,31,M,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,50,M,Uttar Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,23,M,Andhra Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,58,M,Andhra Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,21,M,Andhra Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,60,M,Andhra Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,50,F,Andhra Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,65,M,Andhra Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,44,F,West Bengal,Deceased,28-03-2020,0
+28-03-2020,30,M,Bihar,Hospitalized,28-03-2020,0
+28-03-2020,21,M,Haryana,Hospitalized,28-03-2020,0
+28-03-2020,40,M,Madhya Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,48,M,Madhya Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,21,M,Madhya Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,38,M,Madhya Pradesh,Hospitalized,28-03-2020,0
+28-03-2020,17,F,Madhya Pradesh,Hospitalized,28-03-2020,0
+29-03-2020,38,M,Karnataka,Recovered,12-04-2020,14
+29-03-2020,21,M,Karnataka,Recovered,12-04-2020,14
+29-03-2020,42,M,Karnataka,Recovered,12-04-2020,14
+29-03-2020,53,F,Rajasthan,Hospitalized,29-03-2020,0
+29-03-2020,47,M,Gujarat,Hospitalized,29-03-2020,0
+29-03-2020,67,F,Gujarat,Hospitalized,29-03-2020,0
+29-03-2020,34,M,Gujarat,Hospitalized,29-03-2020,0
+29-03-2020,21,M,Rajasthan,Hospitalized,29-03-2020,0
+29-03-2020,19,F,Uttar Pradesh,Hospitalized,29-03-2020,0
+29-03-2020,53,M,Uttar Pradesh,Hospitalized,29-03-2020,0
+29-03-2020,35,F,Uttar Pradesh,Hospitalized,29-03-2020,0
+29-03-2020,34,M,Uttar Pradesh,Hospitalized,29-03-2020,0
+29-03-2020,37,M,Goa,Hospitalized,29-03-2020,0
+29-03-2020,19,M,Goa,Hospitalized,29-03-2020,0
+29-03-2020,68,M,Kerala,Deceased,31-03-2020,2
+29-03-2020,29,F,Tamil Nadu,Recovered,06-04-2020,8
+29-03-2020,58,F,Tamil Nadu,Recovered,06-04-2020,8
+29-03-2020,1,M,Tamil Nadu,Recovered,06-04-2020,8
+29-03-2020,51,F,Tamil Nadu,Recovered,06-04-2020,8
+29-03-2020,45,M,Tamil Nadu,Hospitalized,29-03-2020,0
+29-03-2020,48,M,Tamil Nadu,Hospitalized,29-03-2020,0
+29-03-2020,67,M,Tamil Nadu,Hospitalized,29-03-2020,0
+29-03-2020,62,M,Tamil Nadu,Hospitalized,29-03-2020,0
+29-03-2020,35,M,Karnataka,Hospitalized,29-03-2020,0
+29-03-2020,29,M,Karnataka,Hospitalized,29-03-2020,0
+29-03-2020,47,M,Uttarakhand,Hospitalized,29-03-2020,0
+29-03-2020,52,M,West Bengal,Hospitalized,29-03-2020,0
+29-03-2020,66,M,West Bengal,Hospitalized,29-03-2020,0
+29-03-2020,53,M,Rajasthan,Hospitalized,29-03-2020,0
+29-03-2020,40,F,Rajasthan,Hospitalized,29-03-2020,0
+29-03-2020,20,M,Rajasthan,Hospitalized,29-03-2020,0
+29-03-2020,35,M,Uttar Pradesh,Hospitalized,29-03-2020,0
+30-03-2020,41,M,Rajasthan,Hospitalized,30-03-2020,0
+30-03-2020,38,M,Gujarat,Hospitalized,30-03-2020,0
+30-03-2020,50,M,Gujarat,Hospitalized,30-03-2020,0
+30-03-2020,92,M,Gujarat,Hospitalized,30-03-2020,0
+30-03-2020,55,M,Gujarat,Hospitalized,30-03-2020,0
+30-03-2020,45,F,Gujarat,Deceased,30-03-2020,0
+30-03-2020,65,M,Gujarat,Hospitalized,30-03-2020,0
+30-03-2020,49,M,Andhra Pradesh,Hospitalized,30-03-2020,0
+30-03-2020,72,M,Andhra Pradesh,Hospitalized,30-03-2020,0
+30-03-2020,25,M,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,52,F,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,76,F,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,15,F,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,20,M,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,50,F,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,42,M,Tamil Nadu,Hospitalized,30-03-2020,0
+30-03-2020,77,M,West Bengal,Hospitalized,30-03-2020,0
+30-03-2020,32,M,Chandigarh,Hospitalized,30-03-2020,0
+30-03-2020,32,F,Chandigarh,Hospitalized,30-03-2020,0
+30-03-2020,23,M,Chandigarh,Hospitalized,30-03-2020,0
+30-03-2020,23,M,Chandigarh,Hospitalized,30-03-2020,0
+30-03-2020,40,F,Chandigarh,Hospitalized,30-03-2020,0
+30-03-2020,13,M,Karnataka,Hospitalized,30-03-2020,0
+30-03-2020,32,M,Karnataka,Recovered,12-04-2020,13
+30-03-2020,34,M,Karnataka,Recovered,12-04-2020,13
+30-03-2020,21,M,Karnataka,Hospitalized,30-03-2020,0
+30-03-2020,24,M,Karnataka,Recovered,12-04-2020,13
+30-03-2020,81,M,Uttar Pradesh,Hospitalized,30-03-2020,0
+31-03-2020,44,M,Rajasthan,Hospitalized,31-03-2020,0
+31-03-2020,17,F,Rajasthan,Hospitalized,31-03-2020,0
+31-03-2020,65,M,Rajasthan,Hospitalized,31-03-2020,0
+31-03-2020,60,M,Rajasthan,Hospitalized,31-03-2020,0
+31-03-2020,35,M,Bihar,Hospitalized,31-03-2020,0
+31-03-2020,55,M,Gujarat,Hospitalized,31-03-2020,0
+31-03-2020,48,F,West Bengal,Deceased,31-03-2020,0
+31-03-2020,43,M,Tamil Nadu,Hospitalized,31-03-2020,0
+31-03-2020,28,M,Tamil Nadu,Hospitalized,31-03-2020,0
+31-03-2020,10,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,34,F,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,31,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,32,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,28,F,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,28,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,39,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,65,F,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,42,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,39,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,32,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,59,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,44,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,28,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,46,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,35,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,65,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,40,M,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,19,M,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,40,F,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,35,M,Karnataka,Recovered,13-04-2020,13
+31-03-2020,41,M,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,34,M,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,26,M,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,57,M,West Bengal,Hospitalized,31-03-2020,0
+31-03-2020,22,F,Jharkhand,Hospitalized,31-03-2020,0
+31-03-2020,56,F,Kerala,Hospitalized,31-03-2020,0
+31-03-2020,23,M,Kerala,Hospitalized,31-03-2020,0
+31-03-2020,43,F,Kerala,Hospitalized,31-03-2020,0
+31-03-2020,52,M,Assam,Hospitalized,31-03-2020,0
+31-03-2020,60,F,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,40,M,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,62,F,Karnataka,Hospitalized,31-03-2020,0
+31-03-2020,35,M,Tamil Nadu,Hospitalized,31-03-2020,0
+31-03-2020,31,M,Bihar,Hospitalized,31-03-2020,0
+31-03-2020,36,M,Bihar,Hospitalized,31-03-2020,0
+31-03-2020,27,M,Bihar,Hospitalized,31-03-2020,0
+31-03-2020,35,M,Bihar,Hospitalized,31-03-2020,0
+31-03-2020,70,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,23,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,21,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,70,M,Andhra Pradesh,Hospitalized,31-03-2020,0
+31-03-2020,29,M,Odisha,Hospitalized,31-03-2020,0
+31-03-2020,31,M,Chandigarh,Hospitalized,31-03-2020,0
+31-03-2020,40,M,Chandigarh,Hospitalized,31-03-2020,0
+01-04-2020,58,M,Puducherry,Hospitalized,01-04-2020,0
+01-04-2020,31,M,Puducherry,Hospitalized,01-04-2020,0
+01-04-2020,52,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,18,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,45,F,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,65,F,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,68,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,54,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,58,F,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,67,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,54,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,41,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,25,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,20,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,54,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,36,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,26,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,41,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,46,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,53,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,36,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,35,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,36,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,27,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,45,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,34,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,47,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,48,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,44,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,54,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,45,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,30,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,33,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,20,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,53,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,46,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,31,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,35,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,80,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,35,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,72,F,Punjab,Hospitalized,01-04-2020,0
+01-04-2020,24,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,37,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,27,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,33,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,65,M,Rajasthan,Hospitalized,01-04-2020,0
+01-04-2020,28,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,34,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,36,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,41,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,38,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,30,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,45,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,57,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,32,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,34,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,45,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,52,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,46,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,37,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,47,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,33,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,21,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,44,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,38,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,55,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,31,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,51,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,34,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,43,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,33,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,38,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,37,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,26,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,54,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,60,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,63,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,55,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,56,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,66,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,52,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,63,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,27,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,48,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,54,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,71,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,31,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,48,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,68,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,36,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,47,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,55,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,22,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,55,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,35,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,35,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,48,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,42,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,48,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,38,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,58,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,42,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,27,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,39,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,41,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,38,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,25,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,42,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,66,M,Tamil Nadu,Hospitalized,01-04-2020,0
+01-04-2020,18,F,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,52,F,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,52,F,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,72,F,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,32,F,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,11,M,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,15,M,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,32,F,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,17,M,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,50,M,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,36,M,Kerala,Hospitalized,01-04-2020,0
+01-04-2020,27,F,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,42,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,27,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,36,F,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,78,M,Gujarat,Hospitalized,01-04-2020,0
+01-04-2020,49,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,26,M,Karnataka,Recovered,13-04-2020,12
+01-04-2020,63,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,63,M,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,27,F,Karnataka,Hospitalized,01-04-2020,0
+01-04-2020,25,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,36,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,18,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,16,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,42,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,43,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,43,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,72,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,72,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,61,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,36,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,52,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,52,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,31,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,10,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,10,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,10,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,40,M,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,53,F,Andhra Pradesh,Hospitalized,01-04-2020,0
+01-04-2020,61,F,Rajasthan,Hospitalized,01-04-2020,0
+02-04-2020,73,M,Maharashtra,Deceased,09-04-2020,7
+02-04-2020,43,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,34,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,42,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,43,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,32,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,47,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,31,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,36,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,35,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,37,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,39,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,46,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,33,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,43,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,23,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,52,M,Maharashtra,Hospitalized,02-04-2020,0
+02-04-2020,65,M,Punjab,Hospitalized,02-04-2020,0
+02-04-2020,48,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,30,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,41,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,66,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,59,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,39,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,60,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,63,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,73,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,45,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,60,F,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,60,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,38,M,Andhra Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,70,F,Kerala,Hospitalized,02-04-2020,0
+02-04-2020,35,F,Kerala,Hospitalized,02-04-2020,0
+02-04-2020,10,M,Kerala,Hospitalized,02-04-2020,0
+02-04-2020,7,M,Kerala,Hospitalized,02-04-2020,0
+02-04-2020,27,F,Kerala,Hospitalized,02-04-2020,0
+02-04-2020,1,F,Chandigarh,Hospitalized,02-04-2020,0
+02-04-2020,36,M,Madhya Pradesh,Hospitalized,02-04-2020,0
+02-04-2020,24,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,22,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,14,M,Karnataka,Hospitalized,02-04-2020,0
+02-04-2020,28,M,Gujarat,Hospitalized,02-04-2020,0
+03-04-2020,17,M,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,60,F,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,35,M,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,30,F,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,7,F,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,68,M,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,65,M,Gujarat,Hospitalized,03-04-2020,0
+03-04-2020,75,M,Karnataka,Deceased,04-04-2020,1
+03-04-2020,69,F,Punjab,Hospitalized,03-04-2020,0
+03-04-2020,51,M,Kerala,Hospitalized,03-04-2020,0
+03-04-2020,70,M,Karnataka,Hospitalized,03-04-2020,0
+03-04-2020,26,M,Karnataka,Hospitalized,03-04-2020,0
+03-04-2020,20,M,Karnataka,Hospitalized,03-04-2020,0
+03-04-2020,67,M,Maharashtra,Deceased,08-04-2020,5
+03-04-2020,67,M,Maharashtra,Deceased,08-04-2020,5
+03-04-2020,65,F,Maharashtra,Deceased,08-04-2020,5
+03-04-2020,79,M,Maharashtra,Hospitalized,03-04-2020,0
+03-04-2020,35,F,Maharashtra,Hospitalized,03-04-2020,0
+03-04-2020,37,M,Bihar,Hospitalized,03-04-2020,0
+04-04-2020,32,M,Goa,Hospitalized,04-04-2020,0
+04-04-2020,30,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+04-04-2020,58,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+04-04-2020,34,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+04-04-2020,56,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+04-04-2020,44,M,Maharashtra,Deceased,08-04-2020,4
+04-04-2020,62,M,Maharashtra,Deceased,09-04-2020,5
+04-04-2020,16,M,Chhattisgarh,Hospitalized,04-04-2020,0
+04-04-2020,21,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,57,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,43,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,78,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,60,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,38,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,19,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,39,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,39,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,54,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,40,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,34,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,47,F,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,63,F,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,43,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,52,M,Karnataka,Hospitalized,04-04-2020,0
+04-04-2020,60,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+04-04-2020,75,F,Punjab,Deceased,05-04-2020,1
+04-04-2020,35,M,Punjab,Hospitalized,04-04-2020,0
+04-04-2020,61,F,Gujarat,Hospitalized,04-04-2020,0
+04-04-2020,45,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+04-04-2020,60,M,Andhra Pradesh,Hospitalized,04-04-2020,0
+05-04-2020,33,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,47,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,45,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,33,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,34,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,32,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,52,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,35,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,36,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,40,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,45,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,25,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,35,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,17,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,27,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,37,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,45,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,28,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,30,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,37,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,43,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,37,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,35,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,65,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,48,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,45,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,48,F,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,33,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,27,F,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,50,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,65,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,55,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,17,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,42,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,56,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,16,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,18,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,41,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,55,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,75,F,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,34,F,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,26,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,60,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,54,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,40,F,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,34,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,68,M,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,62,F,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,60,M,Maharashtra,Deceased,08-04-2020,3
+05-04-2020,70,M,Odisha,Hospitalized,05-04-2020,0
+05-04-2020,29,M,Odisha,Hospitalized,05-04-2020,0
+05-04-2020,42,M,Punjab,Hospitalized,05-04-2020,0
+05-04-2020,44,F,Punjab,Hospitalized,05-04-2020,0
+05-04-2020,81,M,Kerala,Hospitalized,05-04-2020,0
+05-04-2020,7,M,Kerala,Hospitalized,05-04-2020,0
+05-04-2020,36,F,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,40,M,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,67,F,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,41,F,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,41,M,Karnataka,Hospitalized,05-04-2020,0
+05-04-2020,20,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,28,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,22,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,44,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,30,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,60,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,59,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,19,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,77,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,30,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,32,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,31,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,50,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,52,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,36,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,31,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,31,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,45,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,32,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,36,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,37,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,55,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,38,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,43,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,23,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,43,M,Andhra Pradesh,Hospitalized,05-04-2020,0
+05-04-2020,1,M,Gujarat,Deceased,05-04-2020,0
+05-04-2020,50,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,52,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,62,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,90,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,48,M,Gujarat,Hospitalized,05-04-2020,0
+05-04-2020,80,F,Andhra Pradesh,Hospitalized,06-04-2020,1
+05-04-2020,39,M,Andhra Pradesh,Hospitalized,06-04-2020,1
+05-04-2020,29,M,Andhra Pradesh,Hospitalized,06-04-2020,1
+05-04-2020,34,M,Andhra Pradesh,Hospitalized,06-04-2020,1
+06-04-2020,20,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,37,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,39,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,37,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,32,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,35,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,24,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,38,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,38,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,16,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,60,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,51,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,47,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,52,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,27,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,15,M,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,52,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,54,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,28,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,40,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,32,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,28,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,55,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,76,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,32,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,62,F,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,20,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,37,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,57,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,22,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,26,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,33,F,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,35,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,54,F,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,58,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,43,M,Karnataka,Hospitalized,06-04-2020,0
+06-04-2020,19,F,Kerala,Hospitalized,06-04-2020,0
+06-04-2020,26,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,32,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,25,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,62,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,32,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,32,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,46,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,38,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,47,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,45,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,34,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,40,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,42,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,30,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,30,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,50,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,21,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,43,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,12,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,65,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,53,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,50,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,18,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,35,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,11,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,41,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,34,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,50,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,54,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,47,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,57,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,38,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,13,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,21,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,44,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,41,F,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,35,M,Andhra Pradesh,Hospitalized,06-04-2020,0
+06-04-2020,80,F,Punjab,Hospitalized,06-04-2020,0
+06-04-2020,55,F,Punjab,Hospitalized,06-04-2020,0
+06-04-2020,17,M,Punjab,Hospitalized,06-04-2020,0
+06-04-2020,16,M,Punjab,Hospitalized,06-04-2020,0
+06-04-2020,52,F,Punjab,Hospitalized,06-04-2020,0
+06-04-2020,57,F,Punjab,Hospitalized,06-04-2020,0
+06-04-2020,45,F,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,70,F,Gujarat,Hospitalized,06-04-2020,0
+06-04-2020,32,M,Odisha,Hospitalized,06-04-2020,0
+07-04-2020,60,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,64,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,24,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,33,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,59,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,64,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,53,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,65,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,26,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,41,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,40,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,25,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,64,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,33,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,21,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,48,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,29,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,54,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,33,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,35,M,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,33,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,41,F,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,80,F,Karnataka,Deceased,07-04-2020,0
+07-04-2020,29,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,50,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,35,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,68,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,32,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,36,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,65,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,28,F,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,57,M,Karnataka,Hospitalized,07-04-2020,0
+07-04-2020,45,M,Odisha,Hospitalized,07-04-2020,0
+07-04-2020,72,M,Odisha,Deceased,07-04-2020,0
+07-04-2020,35,M,Punjab,Hospitalized,07-04-2020,0
+07-04-2020,77,M,Punjab,Hospitalized,07-04-2020,0
+07-04-2020,71,M,Kerala,Deceased,11-04-2020,4
+07-04-2020,31,M,Kerala,Hospitalized,07-04-2020,0
+07-04-2020,42,M,Kerala,Hospitalized,07-04-2020,0
+07-04-2020,45,F,Bihar,Hospitalized,07-04-2020,0
+07-04-2020,22,F,Bihar,Hospitalized,07-04-2020,0
+07-04-2020,36,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,27,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,46,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,28,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,51,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,27,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,67,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,40,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,42,F,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,40,M,Gujarat,Hospitalized,07-04-2020,0
+07-04-2020,63,F,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,43,M,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,53,F,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,70,M,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,33,M,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,80,F,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,16,F,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,63,M,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,41,F,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,24,M,Andhra Pradesh,Hospitalized,07-04-2020,0
+07-04-2020,26,M,Bihar,Hospitalized,07-04-2020,0
+07-04-2020,20,F,Bihar,Hospitalized,07-04-2020,0
+07-04-2020,15,M,Bihar,Hospitalized,07-04-2020,0
+07-04-2020,16,M,Bihar,Hospitalized,07-04-2020,0
+08-04-2020,70,F,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,22,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,43,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,38,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,19,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,10,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,47,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,17,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,19,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,24,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,55,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,55,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,21,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,43,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,24,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,32,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,26,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,30,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,56,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,26,F,Karnataka,Hospitalized,08-04-2020,0
+08-04-2020,65,M,Karnataka,Deceased,08-04-2020,0
+08-04-2020,72,F,Karnataka,Hospitalized,08-04-2020,0
+08-04-2020,35,M,Karnataka,Hospitalized,08-04-2020,0
+08-04-2020,23,M,Karnataka,Hospitalized,08-04-2020,0
+08-04-2020,27,F,Karnataka,Hospitalized,08-04-2020,0
+08-04-2020,50,M,Punjab,Hospitalized,08-04-2020,0
+08-04-2020,11,M,Kerala,Hospitalized,08-04-2020,0
+08-04-2020,55,M,Kerala,Hospitalized,08-04-2020,0
+08-04-2020,47,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,22,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,63,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,45,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,35,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,35,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,68,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,35,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,39,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,70,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,36,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,25,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,24,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,44,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,35,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,56,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,50,F,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,25,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,56,M,Andhra Pradesh,Hospitalized,08-04-2020,0
+08-04-2020,60,F,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,21,F,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,46,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,20,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,57,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,21,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,52,M,Gujarat,Hospitalized,08-04-2020,0
+08-04-2020,38,M,Bihar,Hospitalized,08-04-2020,0
+09-04-2020,26,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,18,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,12,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,29,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,52,M,Chhattisgarh,Hospitalized,09-04-2020,0
+09-04-2020,50,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,12,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,20,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,30,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,10,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,15,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,18,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,36,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,69,M,Odisha,Hospitalized,09-04-2020,0
+09-04-2020,51,F,Odisha,Hospitalized,09-04-2020,0
+09-04-2020,50,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,55,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,68,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,32,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,4,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,13,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,9,F,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,19,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,27,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,48,F,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,42,F,Punjab,Hospitalized,09-04-2020,0
+09-04-2020,74,F,Punjab,Hospitalized,09-04-2020,0
+09-04-2020,63,M,Punjab,Hospitalized,09-04-2020,0
+09-04-2020,40,F,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,22,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,27,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,66,M,Karnataka,Deceased,15-04-2020,6
+09-04-2020,42,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,27,M,Karnataka,Hospitalized,09-04-2020,0
+09-04-2020,13,M,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,75,F,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,21,F,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,35,F,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,19,M,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,14,M,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,8,F,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,46,M,Kerala,Hospitalized,09-04-2020,0
+09-04-2020,49,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,29,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,30,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,40,F,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,16,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,15,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,75,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,52,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,36,F,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,35,F,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,47,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,41,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,60,F,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,67,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,47,M,Andhra Pradesh,Hospitalized,09-04-2020,0
+09-04-2020,19,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,22,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,25,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,19,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,11,F,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,19,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,60,M,Bihar,Hospitalized,09-04-2020,0
+09-04-2020,20,M,Odisha,Hospitalized,09-04-2020,0
+09-04-2020,37,F,Odisha,Hospitalized,09-04-2020,0
+09-04-2020,9,F,Odisha,Hospitalized,09-04-2020,0
+09-04-2020,5,F,Odisha,Hospitalized,09-04-2020,0
+10-04-2020,10,F,Bihar,Hospitalized,10-04-2020,0
+10-04-2020,28,M,Bihar,Hospitalized,10-04-2020,0
+10-04-2020,44,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,58,M,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,48,M,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,57,M,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,8,M,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,48,F,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,33,M,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,28,F,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,48,F,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,55,M,Karnataka,Deceased,13-04-2020,3
+10-04-2020,35,M,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,11,F,Karnataka,Hospitalized,10-04-2020,0
+10-04-2020,40,M,Chandigarh,Hospitalized,10-04-2020,0
+10-04-2020,60,M,Kerala,Hospitalized,10-04-2020,0
+10-04-2020,59,F,Kerala,Hospitalized,10-04-2020,0
+10-04-2020,32,M,Tripura,Hospitalized,10-04-2020,0
+10-04-2020,41,M,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,47,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,28,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,27,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,71,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,65,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,51,M,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,8,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,29,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,3,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,50,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,25,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,35,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,55,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,17,F,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,20,M,Andhra Pradesh,Hospitalized,10-04-2020,0
+10-04-2020,35,F,Odisha,Hospitalized,10-04-2020,0
+10-04-2020,22,M,Odisha,Hospitalized,10-04-2020,0
+11-04-2020,32,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,46,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,43,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,50,F,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,27,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,31,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,26,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,45,M,Bihar,Hospitalized,11-04-2020,0
+11-04-2020,29,M,Kerala,Hospitalized,11-04-2020,0
+11-04-2020,33,M,Kerala,Hospitalized,11-04-2020,0
+11-04-2020,26,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,67,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,26,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,33,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,6,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,37,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,8,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,22,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,40,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,13,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,50,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,7,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,11,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,34,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,24,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,49,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,31,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,69,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,38,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,31,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,13,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,62,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,59,F,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,24,M,Andhra Pradesh,Hospitalized,11-04-2020,0
+11-04-2020,10,M,Karnataka,Hospitalized,11-04-2020,0
+11-04-2020,22,F,Maharashtra,Deceased,11-04-2020,0
+11-04-2020,16,F,Bihar,Hospitalized,11-04-2020,0
+11-04-2020,40,M,Bihar,Hospitalized,11-04-2020,0
+11-04-2020,63,M,Bihar,Hospitalized,11-04-2020,0
+11-04-2020,67,M,Odisha,Hospitalized,11-04-2020,0
+11-04-2020,18,M,Odisha,Hospitalized,11-04-2020,0
+11-04-2020,17,F,Odisha,Hospitalized,11-04-2020,0
+11-04-2020,46,F,Odisha,Hospitalized,11-04-2020,0
+12-04-2020,32,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,75,F,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,58,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,76,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,24,F,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,60,F,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,38,F,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,19,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,38,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,55,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,25,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,40,M,Kerala,Hospitalized,12-04-2020,0
+12-04-2020,8,F,Chandigarh,Hospitalized,12-04-2020,0
+12-04-2020,2,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,13,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,12,F,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,10,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,49,M,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,20,F,Karnataka,Hospitalized,12-04-2020,0
+12-04-2020,45,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,51,F,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,65,F,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,21,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,25,F,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,11,F,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,27,F,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,12,F,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,73,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,48,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,56,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,55,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,13,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,29,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+12-04-2020,63,M,Andhra Pradesh,Hospitalized,12-04-2020,0
+13-04-2020,30,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,24,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,65,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,6,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,29,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,41,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,50,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,22,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,30,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,9,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,50,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,48,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,55,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,36,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,74,F,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,37,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,60,F,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,8,F,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,18,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,27,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,16,F,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,35,F,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,20,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,14,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,45,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,39,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,62,M,Karnataka,Hospitalized,13-04-2020,0
+13-04-2020,34,M,Bihar,Hospitalized,13-04-2020,0
+13-04-2020,36,F,Kerala,Hospitalized,13-04-2020,0
+13-04-2020,74,M,Kerala,Hospitalized,13-04-2020,0
+13-04-2020,32,M,Kerala,Hospitalized,13-04-2020,0
+13-04-2020,35,M,Odisha,Hospitalized,13-04-2020,0
+13-04-2020,38,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,13,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,48,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,28,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,19,F,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,45,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,38,M,Andhra Pradesh,Hospitalized,13-04-2020,0
+13-04-2020,40,M,Bihar,Hospitalized,13-04-2020,0
+13-04-2020,69,M,Meghalaya,Hospitalized,13-04-2020,0
+14-04-2020,66,M,Odisha,Hospitalized,14-04-2020,0
+14-04-2020,7,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,28,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,55,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,24,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,8,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,5,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,57,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,43,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,66,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,40,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,47,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,14,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,17,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,20,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,29,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,21,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,28,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,23,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,25,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,31,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,49,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,30,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,26,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,20,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,29,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,6,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,18,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,80,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,3,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,5,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,40,M,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,48,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,32,F,Andhra Pradesh,Hospitalized,14-04-2020,0
+14-04-2020,43,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,32,F,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,65,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,39,F,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,65,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,26,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,10,F,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,51,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,35,F,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,69,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,33,M,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,50,M,Odisha,Hospitalized,14-04-2020,0
+14-04-2020,51,F,Odisha,Hospitalized,14-04-2020,0
+14-04-2020,75,M,Odisha,Hospitalized,14-04-2020,0
+14-04-2020,51,M,Odisha,Hospitalized,14-04-2020,0
+14-04-2020,29,M,Kerala,Hospitalized,14-04-2020,0
+14-04-2020,26,M,Kerala,Hospitalized,14-04-2020,0
+14-04-2020,35,M,Kerala,Hospitalized,14-04-2020,0
+14-04-2020,33,F,Kerala,Hospitalized,14-04-2020,0
+14-04-2020,35,F,Karnataka,Hospitalized,14-04-2020,0
+14-04-2020,36,M,Karnataka,Hospitalized,14-04-2020,0
+15-04-2020,59,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,52,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,39,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,41,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,30,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,27,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,35,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,26,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,23,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,35,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,28,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,32,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,72,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,1,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,38,F,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,25,M,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,32,F,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,35,F,Bihar,Hospitalized,15-04-2020,0
+15-04-2020,25,F,Bihar,Hospitalized,15-04-2020,0
+15-04-2020,60,M,Bihar,Hospitalized,15-04-2020,0
+15-04-2020,60,M,Bihar,Hospitalized,15-04-2020,0
+15-04-2020,50,M,Maharashtra,Deceased,17-04-2020,2
+15-04-2020,28,F,Karnataka,Hospitalized,15-04-2020,0
+15-04-2020,80,F,Karnataka,Deceased,15-04-2020,0
+15-04-2020,35,M,Bihar,Hospitalized,15-04-2020,0
+15-04-2020,60,M,Bihar,Hospitalized,15-04-2020,0
+16-04-2020,13,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,65,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,51,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,42,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,33,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,16,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,65,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,30,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,54,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,58,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,54,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,37,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,43,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,47,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,25,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,45,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,30,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,43,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,50,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,35,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,25,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,64,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,23,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,52,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,59,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,12,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,65,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,66,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,37,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,70,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,38,M,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,26,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,55,F,Karnataka,Hospitalized,16-04-2020,0
+16-04-2020,67,M,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,35,M,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,36,M,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,48,M,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,22,F,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,25,M,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,60,F,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,35,M,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,44,M,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,40,F,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,30,F,Andhra Pradesh,Hospitalized,16-04-2020,0
+16-04-2020,40,M,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,38,M,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,55,F,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,26,F,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,20,F,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,2,F,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,21,F,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,55,M,Bihar,Hospitalized,16-04-2020,0
+16-04-2020,1,F,Bihar,Hospitalized,16-04-2020,0
+17-04-2020,55,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,11,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,50,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,33,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,33,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,41,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,25,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,29,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,45,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,39,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,6,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,25,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,18,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,6,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,28,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,39,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,68,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,21,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,48,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,10,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,50,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,24,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,36,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,20,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,9,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,22,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,38,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,38,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,26,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,28,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,22,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,29,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,26,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,64,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,32,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,23,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,28,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,21,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,65,F,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,34,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,17,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,46,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,37,M,Karnataka,Hospitalized,17-04-2020,0
+17-04-2020,38,M,Karnataka,Hospitalized,17-04-2020,0
+18-04-2020,34,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,16,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,60,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,63,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,45,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,30,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,50,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,65,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,48,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,65,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,42,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,39,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,50,M,Chandigarh,Hospitalized,18-04-2020,0
+18-04-2020,30,M,Chandigarh,Hospitalized,18-04-2020,0
+18-04-2020,32,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,32,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,42,M,Karnataka,Deceased,18-04-2020,0
+18-04-2020,26,F,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,55,F,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,50,F,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,21,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,43,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,43,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,47,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,30,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,36,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,28,M,Karnataka,Hospitalized,18-04-2020,0
+18-04-2020,58,M,Odisha,Hospitalized,18-04-2020,0
+18-04-2020,32,F,Bihar,Hospitalized,18-04-2020,0
+19-04-2020,55,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,46,M,Karnataka,Hospitalized,19-04-2020,0
+19-04-2020,20,M,Karnataka,Hospitalized,19-04-2020,0
+19-04-2020,39,M,Karnataka,Hospitalized,19-04-2020,0
+19-04-2020,23,F,Karnataka,Hospitalized,19-04-2020,0
+19-04-2020,30,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,28,F,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,12,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,18,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,22,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,25,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,56,M,Chandigarh,Hospitalized,19-04-2020,0
+19-04-2020,24,M,Chandigarh,Hospitalized,19-04-2020,0
+19-04-2020,2,F,Chandigarh,Hospitalized,19-04-2020,0
+19-04-2020,30,F,Karnataka,Hospitalized,19-04-2020,0
+19-04-2020,50,F,Karnataka,Deceased,19-04-2020,0
+19-04-2020,30,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,36,M,Bihar,Hospitalized,19-04-2020,0
+19-04-2020,52,M,Bihar,Hospitalized,19-04-2020,0
+20-04-2020,48,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,55,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,57,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,58,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,66,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,32,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,2,F,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,17,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,13,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,30,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,50,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,19,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,40,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,28,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,32,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,50,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,58,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,64,M,Odisha,Hospitalized,20-04-2020,0
+20-04-2020,24,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,7,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,36,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,27,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,25,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,21,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,28,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,47,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,10,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,34,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,38,F,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,14,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,27,M,Karnataka,Hospitalized,20-04-2020,0
+20-04-2020,22,M,Kerala,Hospitalized,20-04-2020,0
+20-04-2020,25,M,Kerala,Hospitalized,20-04-2020,0
+20-04-2020,36,M,Kerala,Hospitalized,20-04-2020,0
+20-04-2020,27,M,Kerala,Hospitalized,20-04-2020,0
+20-04-2020,27,M,Kerala,Hospitalized,20-04-2020,0
+20-04-2020,34,F,Kerala,Hospitalized,20-04-2020,0
+20-04-2020,19,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,17,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,21,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,23,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,26,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,45,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,50,F,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,14,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,16,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,18,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,18,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,19,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,22,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,50,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,60,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,60,M,Bihar,Hospitalized,20-04-2020,0
+20-04-2020,60,M,Bihar,Hospitalized,20-04-2020,0
+21-04-2020,34,F,Odisha,Hospitalized,21-04-2020,0
+21-04-2020,38,M,Odisha,Hospitalized,21-04-2020,0
+21-04-2020,12,M,Odisha,Hospitalized,21-04-2020,0
+21-04-2020,34,F,Odisha,Hospitalized,21-04-2020,0
+21-04-2020,26,M,Odisha,Hospitalized,21-04-2020,0
+21-04-2020,67,F,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,18,F,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,30,F,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,29,M,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,61,M,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,80,M,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,18,F,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,26,M,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,26,M,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,25,F,Karnataka,Hospitalized,21-04-2020,0
+21-04-2020,32,M,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,12,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,12,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,39,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,31,M,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,60,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,28,M,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,34,M,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,36,M,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,20,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,28,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,34,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,37,F,Bihar,Hospitalized,21-04-2020,0
+21-04-2020,54,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,30,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,29,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,25,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,64,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,61,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,31,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,54,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,39,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,32,F,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,42,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,18,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,23,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,48,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,20,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,43,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,18,M,Kerala,Hospitalized,21-04-2020,0
+21-04-2020,35,M,Kerala,Hospitalized,21-04-2020,0
+22-04-2020,40,M,Odisha,Hospitalized,22-04-2020,0
+22-04-2020,55,M,Odisha,Hospitalized,22-04-2020,0
+22-04-2020,35,M,Odisha,Hospitalized,22-04-2020,0
+22-04-2020,28,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,32,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,45,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,42,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,35,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,54,M,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,28,F,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,46,F,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,57,M,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,35,F,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,26,F,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,38,M,Odisha,Hospitalized,22-04-2020,0
+22-04-2020,39,M,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,9,F,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,33,M,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,57,M,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,58,M,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,30,M,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,25,F,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,65,F,Kerala,Hospitalized,22-04-2020,0
+22-04-2020,56,M,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,32,M,Karnataka,Hospitalized,22-04-2020,0
+22-04-2020,12,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,36,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,40,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,16,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,66,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,24,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,26,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,34,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,43,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,55,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,32,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,32,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,42,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,24,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,28,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,35,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,32,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,50,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,31,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,68,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,25,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,49,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,37,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,36,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,25,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,29,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,34,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,45,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,22,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,40,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,58,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,54,M,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,47,F,Tamil Nadu,Hospitalized,22-04-2020,0
+22-04-2020,33,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,40,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,46,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,19,F,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,45,M,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,37,M,Punjab,Hospitalized,22-04-2020,0
+22-04-2020,70,M,Punjab,Hospitalized,22-04-2020,0
+22-04-2020,70,F,Bihar,Hospitalized,22-04-2020,0
+22-04-2020,24,M,Bihar,Hospitalized,22-04-2020,0
+23-04-2020,32,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,25,F,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,30,F,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,13,F,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,78,F,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,30,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,30,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,22,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,40,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,30,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,25,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,37,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,43,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,24,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,47,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,28,F,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,68,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,61,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,60,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,30,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,36,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,48,F,Odisha,Hospitalized,23-04-2020,0
+23-04-2020,70,F,Odisha,Hospitalized,23-04-2020,0
+23-04-2020,80,F,Odisha,Hospitalized,23-04-2020,0
+23-04-2020,21,M,Odisha,Hospitalized,23-04-2020,0
+23-04-2020,41,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,32,M,Karnataka,Hospitalized,23-04-2020,0
+23-04-2020,55,F,Odisha,Hospitalized,23-04-2020,0
+23-04-2020,36,M,Odisha,Hospitalized,23-04-2020,0
+23-04-2020,35,M,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,62,F,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,35,M,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,30,F,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,37,M,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,31,M,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,85,F,Kerala,Hospitalized,23-04-2020,0
+23-04-2020,23,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,46,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,46,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,3,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,28,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,65,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,42,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,24,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,88,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,34,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,50,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,26,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,19,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,17,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,5,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,30,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,7,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,33,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,25,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,27,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,58,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,4,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,38,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,44,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,39,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,47,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,40,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,34,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,35,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,40,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,28,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,44,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,60,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,70,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,61,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,41,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,30,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,26,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,27,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,33,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,35,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,24,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,60,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,33,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,46,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,60,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,44,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,23,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,23,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,48,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,45,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,30,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,11,M,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,29,F,Tamil Nadu,Hospitalized,23-04-2020,0
+23-04-2020,63,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,38,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,17,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,4,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,12,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,17,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,24,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,35,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,17,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,18,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,18,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,20,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,28,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,20,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,35,M,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,8,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,14,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,23,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,23,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,24,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,30,F,Bihar,Hospitalized,23-04-2020,0
+23-04-2020,57,F,Bihar,Hospitalized,23-04-2020,0
+24-04-2020,40,M,Odisha,Hospitalized,24-04-2020,0
+24-04-2020,10,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,52,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,70,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,18,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,48,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,60,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,49,F,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,32,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,10,F,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,30,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,22,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,39,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,35,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,32,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,23,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,28,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,46,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,17,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,26,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,35,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,31,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,32,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,24,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,15,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,36,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,28,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,38,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,55,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,6,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,60,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,14,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,18,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,30,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,30,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,46,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,10,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,10,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,12,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,20,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,23,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,25,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,30,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,35,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,37,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,38,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,40,M,Odisha,Hospitalized,24-04-2020,0
+24-04-2020,29,M,Odisha,Hospitalized,24-04-2020,0
+24-04-2020,41,M,Odisha,Hospitalized,24-04-2020,0
+24-04-2020,24,M,Odisha,Hospitalized,24-04-2020,0
+24-04-2020,38,F,Kerala,Hospitalized,24-04-2020,0
+24-04-2020,14,F,Kerala,Hospitalized,24-04-2020,0
+24-04-2020,26,F,Kerala,Hospitalized,24-04-2020,0
+24-04-2020,60,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,45,F,Karnataka,Hospitalized,26-04-2020,2
+24-04-2020,50,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,27,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,14,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,26,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,20,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,22,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,58,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,38,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,44,M,Karnataka,Hospitalized,24-04-2020,0
+24-04-2020,30,M,Punjab,Hospitalized,24-04-2020,0
+24-04-2020,55,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,32,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,65,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,17,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,22,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,41,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,65,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,35,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,14,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,12,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,98,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,40,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,29,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,38,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,15,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,30,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,25,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,11,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,57,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,75,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,20,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,45,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,17,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,19,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,15,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,22,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,21,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,29,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,32,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,52,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,38,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,35,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,32,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,58,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,32,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,22,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,50,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,29,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,39,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,21,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,49,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,72,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,44,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,58,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,67,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,43,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,66,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,45,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,24,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,58,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,46,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,30,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,33,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,42,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,42,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,20,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,53,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,44,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,37,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,36,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,46,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,50,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,34,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,59,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,23,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,78,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,19,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,60,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,21,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,43,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,52,M,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,33,F,Tamil Nadu,Hospitalized,24-04-2020,0
+24-04-2020,46,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,64,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,68,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,40,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,44,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,18,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,21,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,15,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,25,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,1,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,14,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,35,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,44,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,50,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,57,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,64,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,14,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,12,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,42,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,57,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,60,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,62,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,76,M,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,25,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,52,F,Bihar,Hospitalized,24-04-2020,0
+24-04-2020,55,F,Bihar,Hospitalized,24-04-2020,0
+25-04-2020,34,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,37,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,21,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,17,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,19,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,28,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,37,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,45,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,38,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,80,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,55,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,42,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,39,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,18,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,33,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,50,M,Kerala,Hospitalized,25-04-2020,0
+25-04-2020,55,F,Kerala,Hospitalized,25-04-2020,0
+25-04-2020,60,F,Kerala,Hospitalized,25-04-2020,0
+25-04-2020,51,M,Kerala,Hospitalized,25-04-2020,0
+25-04-2020,47,F,Kerala,Hospitalized,25-04-2020,0
+25-04-2020,20,M,Kerala,Hospitalized,25-04-2020,0
+25-04-2020,27,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,55,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,35,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,20,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,34,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,48,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,28,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,42,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,46,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,15,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,35,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,50,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,31,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,35,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,18,M,Puducherry,Hospitalized,25-04-2020,0
+25-04-2020,52,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,6,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,90,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,27,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,20,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,8,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,30,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,50,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,27,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,27,M,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,66,F,Karnataka,Hospitalized,25-04-2020,0
+25-04-2020,24,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,17,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,24,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,60,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,64,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,64,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,4,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,20,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,21,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,8,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,47,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,46,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,32,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,48,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,64,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,24,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,48,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,19,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,16,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,24,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,33,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,32,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,10,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,51,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,45,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,7,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,8,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,27,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,2,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,48,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,28,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,36,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,38,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,27,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,45,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,61,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,41,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,72,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,23,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,45,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,31,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,25,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,17,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,15,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,49,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,52,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,39,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,26,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,6,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,9,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,34,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,61,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,36,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,47,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,51,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,38,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,21,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,33,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,19,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,76,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,24,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,34,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,29,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,44,F,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,33,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,79,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,48,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,26,M,Tamil Nadu,Hospitalized,25-04-2020,0
+25-04-2020,45,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,15,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,6,F,Jharkhand,Hospitalized,25-04-2020,0
+25-04-2020,45,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,40,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,35,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,38,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,42,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,8,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,21,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,22,F,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,38,M,Bihar,Hospitalized,25-04-2020,0
+25-04-2020,52,M,Odisha,Hospitalized,25-04-2020,0
+25-04-2020,23,M,Odisha,Hospitalized,25-04-2020,0
+25-04-2020,49,M,Odisha,Hospitalized,25-04-2020,0
+25-04-2020,57,M,Odisha,Hospitalized,25-04-2020,0
+25-04-2020,39,M,Odisha,Hospitalized,25-04-2020,0
+25-04-2020,50,M,Odisha,Hospitalized,25-04-2020,0
+26-04-2020,23,M,Odisha,Hospitalized,26-04-2020,0
+26-04-2020,60,M,Odisha,Hospitalized,26-04-2020,0
+26-04-2020,57,F,Odisha,Hospitalized,26-04-2020,0
+26-04-2020,47,F,Karnataka,Hospitalized,26-04-2020,0
+26-04-2020,19,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,60,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,50,F,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,60,F,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,28,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,32,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,50,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,54,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,23,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,26,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,57,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,27,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,36,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,24,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,22,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,39,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,9,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,44,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,17,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,68,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,13,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,39,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,60,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,29,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,47,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,42,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,65,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,34,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,68,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,55,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,27,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,24,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,52,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,25,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,51,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,56,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,26,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,37,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,54,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,65,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,24,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,8,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,36,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,33,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,14,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,8,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,9,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,11,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,25,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,43,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,27,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,55,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,25,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,48,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,26,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,5,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,17,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,29,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,37,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,40,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,22,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,70,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,24,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,18,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,17,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,20,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,66,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,24,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,20,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,47,M,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,28,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,65,F,Tamil Nadu,Hospitalized,26-04-2020,0
+26-04-2020,65,F,Karnataka,Hospitalized,26-04-2020,0
+26-04-2020,7,M,Karnataka,Hospitalized,26-04-2020,0
+26-04-2020,28,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,20,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,21,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,37,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,6,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,17,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,20,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,66,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,30,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,41,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,45,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,60,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,65,M,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,32,F,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,35,F,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,26,F,Chandigarh,Hospitalized,26-04-2020,0
+26-04-2020,25,M,Chandigarh,Hospitalized,26-04-2020,0
+26-04-2020,12,F,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,13,F,Bihar,Hospitalized,26-04-2020,0
+26-04-2020,17,F,Bihar,Hospitalized,26-04-2020,0
+23-07-2020,41,M,Odisha,Deceased,,
+23-07-2020,86,F,Odisha,Deceased,,
+23-07-2020,63,M,Odisha,Deceased,,
+23-07-2020,51,F,Odisha,Deceased,,
+23-07-2020,69,M,Odisha,Deceased,,
+23-07-2020,57,M,Odisha,Deceased,,
+23-07-2020,73,F,Chandigarh,Hospitalized,,
+23-07-2020,21,M,Chandigarh,Hospitalized,,
+23-07-2020,12,F,Chandigarh,Hospitalized,,
+23-07-2020,14,F,Chandigarh,Hospitalized,,
+23-07-2020,51,M,Chandigarh,Hospitalized,,
+23-07-2020,43,M,Chandigarh,Hospitalized,,
+23-07-2020,22,M,Chandigarh,Hospitalized,,
+23-07-2020,23,F,Chandigarh,Hospitalized,,
+23-07-2020,80,F,Chandigarh,Hospitalized,,
+23-07-2020,52,M,Chandigarh,Hospitalized,,
+23-07-2020,62,M,Chandigarh,Hospitalized,,
+23-07-2020,63,F,Chandigarh,Hospitalized,,
+23-07-2020,23,F,Chandigarh,Hospitalized,,
+23-07-2020,28,M,Chandigarh,Hospitalized,,
+23-07-2020,40,M,Chandigarh,Hospitalized,,
+23-07-2020,35,F,Chandigarh,Hospitalized,,
+23-07-2020,5,M,Chandigarh,Hospitalized,,
+23-07-2020,41,F,Chandigarh,Hospitalized,,
+23-07-2020,30,M,Chandigarh,Hospitalized,,
+23-07-2020,50,M,Chandigarh,Hospitalized,,
+23-07-2020,47,M,Chandigarh,Recovered,,
+23-07-2020,26,F,Chandigarh,Recovered,,
+23-07-2020,47,M,Chandigarh,Recovered,,
+23-07-2020,37,M,Chandigarh,Recovered,,
+23-07-2020,47,M,Chandigarh,Recovered,,
+23-07-2020,57,,Kerala,Deceased,,
+23-07-2020,79,,Kerala,Deceased,,
+23-07-2020,73,,Kerala,Deceased,,
+23-07-2020,58,,Kerala,Deceased,,
+23-07-2020,60,,Kerala,Deceased,,
+23-07-2020,71,M,Goa,Deceased,,
+23-07-2020,70,F,Karnataka,Deceased,,
+23-07-2020,45,F,Karnataka,Deceased,,
+23-07-2020,56,M,Karnataka,Deceased,,
+23-07-2020,47,M,Karnataka,Deceased,,
+23-07-2020,45,M,Karnataka,Deceased,,
+23-07-2020,52,M,Karnataka,Deceased,,
+23-07-2020,30,M,Karnataka,Deceased,,
+23-07-2020,49,F,Karnataka,Deceased,,
+23-07-2020,54,F,Karnataka,Deceased,,
+23-07-2020,53,M,Karnataka,Deceased,,
+23-07-2020,53,M,Karnataka,Deceased,,
+23-07-2020,49,M,Karnataka,Deceased,,
+23-07-2020,45,F,Karnataka,Deceased,,
+23-07-2020,70,M,Karnataka,Deceased,,
+23-07-2020,54,M,Karnataka,Deceased,,
+23-07-2020,47,M,Karnataka,Deceased,,
+23-07-2020,68,M,Karnataka,Deceased,,
+23-07-2020,71,M,Karnataka,Deceased,,
+23-07-2020,57,M,Karnataka,Deceased,,
+23-07-2020,68,M,Karnataka,Deceased,,
+23-07-2020,65,M,Karnataka,Deceased,,
+23-07-2020,59,F,Karnataka,Deceased,,
+23-07-2020,62,M,Karnataka,Deceased,,
+23-07-2020,50,M,Karnataka,Deceased,,
+23-07-2020,40,M,Karnataka,Deceased,,
+23-07-2020,45,M,Karnataka,Deceased,,
+23-07-2020,65,F,Karnataka,Deceased,,
+23-07-2020,65,M,Karnataka,Deceased,,
+23-07-2020,71,M,Karnataka,Deceased,,
+23-07-2020,68,F,Karnataka,Deceased,,
+23-07-2020,74,M,Karnataka,Deceased,,
+23-07-2020,68,M,Karnataka,Deceased,,
+23-07-2020,69,M,Karnataka,Deceased,,
+23-07-2020,58,F,Karnataka,Deceased,,
+23-07-2020,54,M,Karnataka,Deceased,,
+23-07-2020,55,M,Karnataka,Deceased,,
+23-07-2020,39,F,Karnataka,Deceased,,
+23-07-2020,60,M,Karnataka,Deceased,,
+23-07-2020,47,M,Karnataka,Deceased,,
+23-07-2020,70,M,Karnataka,Deceased,,
+23-07-2020,75,M,Karnataka,Deceased,,
+23-07-2020,55,M,Karnataka,Deceased,,
+23-07-2020,63,M,Karnataka,Deceased,,
+23-07-2020,61,M,Karnataka,Deceased,,
+23-07-2020,84,F,Karnataka,Deceased,,
+23-07-2020,61,M,Karnataka,Deceased,,
+23-07-2020,48,M,Karnataka,Deceased,,
+23-07-2020,55,F,Karnataka,Deceased,,
+23-07-2020,52,F,Karnataka,Deceased,,
+23-07-2020,49,M,Karnataka,Deceased,,
+23-07-2020,68,F,Karnataka,Deceased,,
+23-07-2020,55,M,Karnataka,Deceased,,
+23-07-2020,50,F,Karnataka,Deceased,,
+23-07-2020,62,M,Karnataka,Deceased,,
+23-07-2020,71,F,Karnataka,Deceased,,
+23-07-2020,60,M,Karnataka,Deceased,,
+23-07-2020,60,M,Karnataka,Deceased,,
+23-07-2020,52,M,Karnataka,Deceased,,
+23-07-2020,55,F,Karnataka,Deceased,,
+23-07-2020,71,M,Karnataka,Deceased,,
+23-07-2020,61,M,Karnataka,Deceased,,
+23-07-2020,78,M,Karnataka,Deceased,,
+23-07-2020,62,M,Karnataka,Deceased,,
+23-07-2020,55,M,Karnataka,Deceased,,
+23-07-2020,51,F,Karnataka,Deceased,,
+23-07-2020,94,F,Karnataka,Deceased,,
+23-07-2020,75,F,Karnataka,Deceased,,
+23-07-2020,52,F,Karnataka,Deceased,,
+23-07-2020,61,M,Karnataka,Deceased,,
+23-07-2020,70,M,Karnataka,Deceased,,
+23-07-2020,60,F,Karnataka,Deceased,,
+23-07-2020,71,M,Karnataka,Deceased,,
+23-07-2020,54,M,Karnataka,Deceased,,
+23-07-2020,35,F,Karnataka,Deceased,,
+23-07-2020,50,F,Karnataka,Deceased,,
+23-07-2020,68,M,Karnataka,Deceased,,
+23-07-2020,36,F,Karnataka,Deceased,,
+23-07-2020,28,M,Karnataka,Deceased,,
+23-07-2020,42,M,Karnataka,Deceased,,
+23-07-2020,65,F,Karnataka,Deceased,,
+23-07-2020,55,M,Karnataka,Deceased,,
+23-07-2020,70,M,Karnataka,Deceased,,
+23-07-2020,64,M,Karnataka,Deceased,,
+23-07-2020,46,F,Karnataka,Deceased,,
+23-07-2020,70,M,Karnataka,Deceased,,
+23-07-2020,48,M,Karnataka,Deceased,,
+23-07-2020,90,M,Karnataka,Deceased,,
+23-07-2020,54,M,Karnataka,Deceased,,
+23-07-2020,72,F,Karnataka,Deceased,,
+23-07-2020,60,M,Karnataka,Deceased,,
+23-07-2020,70,F,Karnataka,Deceased,,
+23-07-2020,42,M,Karnataka,Deceased,,
+23-07-2020,58,M,Karnataka,Deceased,,
+23-07-2020,72,M,Karnataka,Deceased,,
+23-07-2020,65,M,Karnataka,Deceased,,
+23-07-2020,70,F,Karnataka,Deceased,,
+23-07-2020,70,M,Karnataka,Deceased,,
+23-07-2020,63,M,Uttarakhand,Deceased,,
+23-07-2020,80,F,Uttarakhand,Deceased,,
+23-07-2020,50,F,Uttarakhand,Deceased,,
+23-07-2020,75,M,Assam,Deceased,,
+23-07-2020,43,M,Assam,Deceased,,
+23-07-2020,40,M,Assam,Deceased,,
+23-07-2020,53,M,Assam,Deceased,,
+24-07-2020,44,M,Odisha,Deceased,,
+24-07-2020,71,M,Odisha,Deceased,,
+24-07-2020,53,M,Odisha,Deceased,,
+24-07-2020,59,F,Odisha,Deceased,,
+24-07-2020,50,F,Odisha,Deceased,,
+24-07-2020,60,M,Odisha,Deceased,,
+24-07-2020,75,M,Odisha,Deceased,,
+24-07-2020,40,M,Odisha,Deceased,,
+24-07-2020,35,F,Chandigarh,Hospitalized,,
+24-07-2020,10,M,Chandigarh,Hospitalized,,
+24-07-2020,30,M,Chandigarh,Hospitalized,,
+24-07-2020,50,M,Chandigarh,Hospitalized,,
+24-07-2020,52,M,Chandigarh,Hospitalized,,
+24-07-2020,54,F,Chandigarh,Hospitalized,,
+24-07-2020,23,M,Chandigarh,Hospitalized,,
+24-07-2020,25,M,Chandigarh,Hospitalized,,
+24-07-2020,47,M,Chandigarh,Hospitalized,,
+24-07-2020,26,F,Chandigarh,Hospitalized,,
+24-07-2020,52,M,Chandigarh,Hospitalized,,
+24-07-2020,24,M,Chandigarh,Hospitalized,,
+24-07-2020,75,M,Chandigarh,Hospitalized,,
+24-07-2020,39,M,Chandigarh,Hospitalized,,
+24-07-2020,60,F,Chandigarh,Hospitalized,,
+24-07-2020,11,M,Chandigarh,Hospitalized,,
+24-07-2020,42,F,Chandigarh,Hospitalized,,
+24-07-2020,28,M,Chandigarh,Hospitalized,,
+24-07-2020,54,M,Chandigarh,Hospitalized,,
+24-07-2020,28,M,Chandigarh,Hospitalized,,
+24-07-2020,38,F,Chandigarh,Hospitalized,,
+24-07-2020,62,F,Chandigarh,Hospitalized,,
+24-07-2020,25,M,Chandigarh,Hospitalized,,
+24-07-2020,35,F,Chandigarh,Recovered,,
+24-07-2020,50,F,Chandigarh,Recovered,,
+24-07-2020,6,M,Chandigarh,Recovered,,
+24-07-2020,45,M,Chandigarh,Recovered,,
+24-07-2020,67,M,Karnataka,Deceased,,
+24-07-2020,83,M,Karnataka,Deceased,,
+24-07-2020,40,M,Karnataka,Deceased,,
+24-07-2020,60,F,Karnataka,Deceased,,
+24-07-2020,47,M,Karnataka,Deceased,,
+24-07-2020,61,M,Karnataka,Deceased,,
+24-07-2020,59,M,Karnataka,Deceased,,
+24-07-2020,47,M,Karnataka,Deceased,,
+24-07-2020,67,M,Karnataka,Deceased,,
+24-07-2020,70,M,Karnataka,Deceased,,
+24-07-2020,64,M,Karnataka,Deceased,,
+24-07-2020,40,F,Karnataka,Deceased,,
+24-07-2020,55,F,Karnataka,Deceased,,
+24-07-2020,50,M,Karnataka,Deceased,,
+24-07-2020,57,M,Karnataka,Deceased,,
+24-07-2020,61,M,Karnataka,Deceased,,
+24-07-2020,85,M,Karnataka,Deceased,,
+24-07-2020,64,M,Karnataka,Deceased,,
+24-07-2020,58,M,Karnataka,Deceased,,
+24-07-2020,74,M,Karnataka,Deceased,,
+24-07-2020,65,M,Karnataka,Deceased,,
+24-07-2020,59,M,Karnataka,Deceased,,
+24-07-2020,54,M,Karnataka,Deceased,,
+24-07-2020,80,F,Karnataka,Deceased,,
+24-07-2020,65,M,Karnataka,Deceased,,
+24-07-2020,66,F,Karnataka,Deceased,,
+24-07-2020,58,M,Karnataka,Deceased,,
+24-07-2020,69,M,Karnataka,Deceased,,
+24-07-2020,69,F,Karnataka,Deceased,,
+24-07-2020,55,M,Karnataka,Deceased,,
+24-07-2020,56,F,Karnataka,Deceased,,
+24-07-2020,80,M,Karnataka,Deceased,,
+24-07-2020,59,F,Karnataka,Deceased,,
+24-07-2020,68,M,Karnataka,Deceased,,
+24-07-2020,51,M,Karnataka,Deceased,,
+24-07-2020,64,F,Karnataka,Deceased,,
+24-07-2020,54,F,Karnataka,Deceased,,
+24-07-2020,40,M,Karnataka,Deceased,,
+24-07-2020,49,M,Karnataka,Deceased,,
+24-07-2020,56,M,Karnataka,Deceased,,
+24-07-2020,54,M,Karnataka,Deceased,,
+24-07-2020,43,F,Karnataka,Deceased,,
+24-07-2020,70,M,Karnataka,Deceased,,
+24-07-2020,66,M,Karnataka,Deceased,,
+24-07-2020,83,M,Karnataka,Deceased,,
+24-07-2020,67,M,Karnataka,Deceased,,
+24-07-2020,58,F,Karnataka,Deceased,,
+24-07-2020,59,M,Karnataka,Deceased,,
+24-07-2020,60,M,Karnataka,Deceased,,
+24-07-2020,67,M,Karnataka,Deceased,,
+24-07-2020,63,M,Karnataka,Deceased,,
+24-07-2020,48,M,Karnataka,Deceased,,
+24-07-2020,54,M,Karnataka,Deceased,,
+24-07-2020,21,M,Karnataka,Deceased,,
+24-07-2020,59,M,Karnataka,Deceased,,
+24-07-2020,58,M,Karnataka,Deceased,,
+24-07-2020,58,M,Karnataka,Deceased,,
+24-07-2020,23,M,Karnataka,Deceased,,
+24-07-2020,63,M,Karnataka,Deceased,,
+24-07-2020,60,F,Karnataka,Deceased,,
+24-07-2020,40,F,Karnataka,Deceased,,
+24-07-2020,52,F,Karnataka,Deceased,,
+24-07-2020,61,M,Karnataka,Deceased,,
+24-07-2020,61,M,Karnataka,Deceased,,
+24-07-2020,71,F,Karnataka,Deceased,,
+24-07-2020,58,F,Karnataka,Deceased,,
+24-07-2020,65,M,Karnataka,Deceased,,
+24-07-2020,67,M,Karnataka,Deceased,,
+24-07-2020,44,M,Karnataka,Deceased,,
+24-07-2020,56,M,Karnataka,Deceased,,
+24-07-2020,42,M,Karnataka,Deceased,,
+24-07-2020,21,M,Karnataka,Deceased,,
+24-07-2020,55,M,Karnataka,Deceased,,
+24-07-2020,65,M,Karnataka,Deceased,,
+24-07-2020,51,F,Karnataka,Deceased,,
+24-07-2020,46,F,Karnataka,Deceased,,
+24-07-2020,63,F,Karnataka,Deceased,,
+24-07-2020,83,F,Karnataka,Deceased,,
+24-07-2020,55,M,Karnataka,Deceased,,
+24-07-2020,68,M,Karnataka,Deceased,,
+24-07-2020,52,M,Karnataka,Deceased,,
+24-07-2020,79,F,Karnataka,Deceased,,
+24-07-2020,65,M,Karnataka,Deceased,,
+24-07-2020,57,M,Karnataka,Deceased,,
+24-07-2020,73,M,Karnataka,Deceased,,
+24-07-2020,37,F,Karnataka,Deceased,,
+24-07-2020,40,M,Karnataka,Deceased,,
+24-07-2020,70,M,Karnataka,Deceased,,
+24-07-2020,52,F,Karnataka,Deceased,,
+24-07-2020,40,M,Karnataka,Deceased,,
+24-07-2020,32,M,Karnataka,Deceased,,
+24-07-2020,65,F,Karnataka,Deceased,,
+24-07-2020,61,M,Karnataka,Deceased,,
+24-07-2020,52,M,Karnataka,Deceased,,
+24-07-2020,26,F,Karnataka,Deceased,,
+24-07-2020,60,M,Karnataka,Deceased,,
+24-07-2020,67,M,Karnataka,Deceased,,
+24-07-2020,85,F,Karnataka,Deceased,,
+24-07-2020,59,M,Karnataka,Deceased,,
+24-07-2020,55,M,Karnataka,Deceased,,
+24-07-2020,59,F,Karnataka,Deceased,,
+24-07-2020,64,M,Karnataka,Deceased,,
+24-07-2020,45,M,Karnataka,Deceased,,
+24-07-2020,26,F,Karnataka,Deceased,,
+24-07-2020,65,F,Karnataka,Deceased,,
+24-07-2020,65,F,Karnataka,Deceased,,
+24-07-2020,59,M,Karnataka,Deceased,,
+24-07-2020,63,M,Karnataka,Deceased,,
+24-07-2020,65,M,Karnataka,Deceased,,
+24-07-2020,75,M,Karnataka,Deceased,,
+24-07-2020,75,M,Assam,Deceased,,
+24-07-2020,55,F,Assam,Deceased,,
+24-07-2020,54,M,Assam,Deceased,,
+24-07-2020,85,F,Assam,Deceased,,
+24-07-2020,60,M,Assam,Deceased,,
+24-07-2020,78,M,Assam,Deceased,,
+24-07-2020,47,M,Uttarakhand,Deceased,,
+24-07-2020,45,M,Uttarakhand,Deceased,,
+25-07-2020,54,M,Odisha,Deceased,,
+25-07-2020,37,M,Odisha,Deceased,,
+25-07-2020,37,M,Odisha,Deceased,,
+25-07-2020,30,M,Odisha,Deceased,,
+25-07-2020,60,M,Odisha,Deceased,,
+25-07-2020,61,M,Odisha,Deceased,,
+25-07-2020,60,M,Odisha,Deceased,,
+25-07-2020,60,M,Odisha,Deceased,,
+25-07-2020,60,F,Odisha,Deceased,,
+25-07-2020,47,M,Odisha,Deceased,,
+25-07-2020,63,F,Kerala,Deceased,,
+25-07-2020,67,F,Kerala,Deceased,,
+25-07-2020,58,M,Kerala,Deceased,,
+25-07-2020,40,F,Kerala,Deceased,,
+25-07-2020,65,M,Assam,Deceased,,
+25-07-2020,52,M,Chandigarh,Hospitalized,,
+25-07-2020,29,M,Chandigarh,Hospitalized,,
+25-07-2020,30,M,Chandigarh,Hospitalized,,
+25-07-2020,36,M,Chandigarh,Hospitalized,,
+25-07-2020,61,M,Chandigarh,Hospitalized,,
+25-07-2020,35,M,Chandigarh,Hospitalized,,
+25-07-2020,40,M,Chandigarh,Hospitalized,,
+25-07-2020,32,F,Chandigarh,Hospitalized,,
+25-07-2020,41,F,Chandigarh,Hospitalized,,
+25-07-2020,62,M,Chandigarh,Hospitalized,,
+25-07-2020,66,M,Chandigarh,Hospitalized,,
+25-07-2020,48,F,Chandigarh,Hospitalized,,
+25-07-2020,26,M,Chandigarh,Hospitalized,,
+25-07-2020,55,M,Chandigarh,Hospitalized,,
+25-07-2020,39,M,Chandigarh,Hospitalized,,
+25-07-2020,35,M,Chandigarh,Hospitalized,,
+25-07-2020,54,M,Chandigarh,Hospitalized,,
+25-07-2020,70,M,Chandigarh,Hospitalized,,
+25-07-2020,44,F,Chandigarh,Hospitalized,,
+25-07-2020,50,F,Chandigarh,Hospitalized,,
+25-07-2020,2,F,Chandigarh,Hospitalized,,
+25-07-2020,6,M,Chandigarh,Hospitalized,,
+25-07-2020,33,M,Chandigarh,Hospitalized,,
+25-07-2020,39,F,Chandigarh,Hospitalized,,
+25-07-2020,48,M,Chandigarh,Hospitalized,,
+25-07-2020,39,M,Chandigarh,Hospitalized,,
+25-07-2020,48,F,Chandigarh,Hospitalized,,
+25-07-2020,44,M,Chandigarh,Hospitalized,,
+25-07-2020,48,M,Chandigarh,Hospitalized,,
+25-07-2020,53,M,Chandigarh,Recovered,,
+25-07-2020,57,F,Chandigarh,Recovered,,
+25-07-2020,59,M,Chandigarh,Recovered,,
+25-07-2020,62,M,Chandigarh,Recovered,,
+25-07-2020,48,F,Chandigarh,Recovered,,
+25-07-2020,40,F,Chandigarh,Recovered,,
+25-07-2020,42,F,Chandigarh,Recovered,,
+25-07-2020,12,M,Chandigarh,Recovered,,
+25-07-2020,63,F,Chandigarh,Recovered,,
+25-07-2020,58,M,Chandigarh,Recovered,,
+25-07-2020,30,F,Chandigarh,Recovered,,
+25-07-2020,50,F,Chandigarh,Recovered,,
+25-07-2020,28,F,Chandigarh,Recovered,,
+25-07-2020,45,M,Chandigarh,Recovered,,
+25-07-2020,23,F,Chandigarh,Recovered,,
+25-07-2020,49,M,Chandigarh,Recovered,,
+25-07-2020,17,F,Chandigarh,Recovered,,
+25-07-2020,31,F,Chandigarh,Recovered,,
+25-07-2020,23,F,Chandigarh,Recovered,,
+25-07-2020,38,F,Chandigarh,Recovered,,
+25-07-2020,76,F,Kerala,Deceased,,
+25-07-2020,70,F,Uttarakhand,Deceased,,
+25-07-2020,65,F,Karnataka,Deceased,,
+25-07-2020,71,M,Karnataka,Deceased,,
+25-07-2020,59,F,Karnataka,Deceased,,
+25-07-2020,58,M,Karnataka,Deceased,,
+25-07-2020,83,M,Karnataka,Deceased,,
+25-07-2020,47,F,Karnataka,Deceased,,
+25-07-2020,80,F,Karnataka,Deceased,,
+25-07-2020,80,M,Karnataka,Deceased,,
+25-07-2020,76,F,Karnataka,Deceased,,
+25-07-2020,71,F,Karnataka,Deceased,,
+25-07-2020,66,M,Karnataka,Deceased,,
+25-07-2020,60,M,Karnataka,Deceased,,
+25-07-2020,65,M,Karnataka,Deceased,,
+25-07-2020,47,M,Karnataka,Deceased,,
+25-07-2020,60,M,Karnataka,Deceased,,
+25-07-2020,65,M,Karnataka,Deceased,,
+25-07-2020,72,M,Karnataka,Deceased,,
+25-07-2020,40,M,Karnataka,Deceased,,
+25-07-2020,75,M,Karnataka,Deceased,,
+25-07-2020,55,F,Karnataka,Deceased,,
+25-07-2020,64,F,Karnataka,Deceased,,
+25-07-2020,66,F,Karnataka,Deceased,,
+25-07-2020,40,M,Karnataka,Deceased,,
+25-07-2020,48,M,Karnataka,Deceased,,
+25-07-2020,59,M,Karnataka,Deceased,,
+25-07-2020,54,F,Karnataka,Deceased,,
+25-07-2020,41,M,Karnataka,Deceased,,
+25-07-2020,52,M,Karnataka,Deceased,,
+25-07-2020,50,F,Karnataka,Deceased,,
+25-07-2020,25,F,Karnataka,Deceased,,
+25-07-2020,42,M,Karnataka,Deceased,,
+25-07-2020,60,M,Karnataka,Deceased,,
+25-07-2020,67,M,Karnataka,Deceased,,
+25-07-2020,68,M,Karnataka,Deceased,,
+25-07-2020,72,M,Karnataka,Deceased,,
+25-07-2020,74,M,Karnataka,Deceased,,
+25-07-2020,76,M,Karnataka,Deceased,,
+25-07-2020,56,M,Karnataka,Deceased,,
+25-07-2020,37,M,Karnataka,Deceased,,
+25-07-2020,73,M,Karnataka,Deceased,,
+25-07-2020,63,M,Karnataka,Deceased,,
+25-07-2020,28,F,Karnataka,Deceased,,
+25-07-2020,49,F,Karnataka,Deceased,,
+25-07-2020,65,F,Karnataka,Deceased,,
+25-07-2020,70,F,Karnataka,Deceased,,
+25-07-2020,75,M,Karnataka,Deceased,,
+25-07-2020,81,M,Karnataka,Deceased,,
+25-07-2020,46,F,Karnataka,Deceased,,
+25-07-2020,65,M,Karnataka,Deceased,,
+25-07-2020,50,F,Karnataka,Deceased,,
+25-07-2020,68,M,Karnataka,Deceased,,
+25-07-2020,30,M,Karnataka,Deceased,,
+25-07-2020,58,M,Karnataka,Deceased,,
+25-07-2020,70,M,Karnataka,Deceased,,
+25-07-2020,65,F,Karnataka,Deceased,,
+25-07-2020,48,F,Karnataka,Deceased,,
+25-07-2020,66,M,Karnataka,Deceased,,
+25-07-2020,62,M,Karnataka,Deceased,,
+25-07-2020,67,M,Karnataka,Deceased,,
+25-07-2020,47,F,Karnataka,Deceased,,
+25-07-2020,53,M,Karnataka,Deceased,,
+25-07-2020,50,M,Karnataka,Deceased,,
+25-07-2020,44,M,Karnataka,Deceased,,
+25-07-2020,69,M,Karnataka,Deceased,,
+25-07-2020,60,F,Karnataka,Deceased,,
+25-07-2020,70,F,Karnataka,Deceased,,
+25-07-2020,49,M,Karnataka,Deceased,,
+25-07-2020,40,M,Karnataka,Deceased,,
+25-07-2020,46,M,Karnataka,Deceased,,
+25-07-2020,75,F,Karnataka,Deceased,,
+25-07-2020,55,F,Karnataka,Deceased,,
+25-07-2020,78,M,Karnataka,Deceased,,
+25-07-2020,80,F,Goa,Deceased,,
+25-07-2020,65,F,Goa,Deceased,,
+25-07-2020,80,M,Goa,Deceased,,
+25-07-2020,14,F,Goa,Deceased,,
+26-07-2020,63,M,Odisha,Deceased,,
+26-07-2020,63,M,Odisha,Deceased,,
+26-07-2020,55,M,Odisha,Deceased,,
+26-07-2020,60,M,Odisha,Deceased,,
+26-07-2020,64,M,Odisha,Deceased,,
+26-07-2020,60,M,Odisha,Deceased,,
+26-07-2020,35,M,Odisha,Deceased,,
+26-07-2020,51,F,Odisha,Deceased,,
+26-07-2020,69,M,Odisha,Deceased,,
+26-07-2020,10,F,Odisha,Deceased,,
+26-07-2020,23,F,Odisha,Deceased,,
+26-07-2020,71,M,Kerala,Deceased,,
+26-07-2020,71,M,Kerala,Deceased,,
+26-07-2020,63,M,Goa,Deceased,,
+26-07-2020,53,M,Goa,Deceased,,
+26-07-2020,74,M,Sikkim,Deceased,,
+26-07-2020,70,F,Karnataka,Deceased,,
+26-07-2020,65,F,Karnataka,Deceased,,
+26-07-2020,34,M,Karnataka,Deceased,,
+26-07-2020,59,M,Karnataka,Deceased,,
+26-07-2020,61,M,Karnataka,Deceased,,
+26-07-2020,48,M,Karnataka,Deceased,,
+26-07-2020,65,M,Karnataka,Deceased,,
+26-07-2020,60,M,Karnataka,Deceased,,
+26-07-2020,60,M,Karnataka,Deceased,,
+26-07-2020,60,F,Karnataka,Deceased,,
+26-07-2020,76,M,Karnataka,Deceased,,
+26-07-2020,55,M,Karnataka,Deceased,,
+26-07-2020,57,M,Karnataka,Deceased,,
+26-07-2020,49,F,Karnataka,Deceased,,
+26-07-2020,34,M,Karnataka,Deceased,,
+26-07-2020,58,M,Karnataka,Deceased,,
+26-07-2020,58,F,Karnataka,Deceased,,
+26-07-2020,45,M,Karnataka,Deceased,,
+26-07-2020,31,M,Karnataka,Deceased,,
+26-07-2020,78,M,Karnataka,Deceased,,
+26-07-2020,64,M,Karnataka,Deceased,,
+26-07-2020,44,M,Karnataka,Deceased,,
+26-07-2020,60,M,Karnataka,Deceased,,
+26-07-2020,78,F,Karnataka,Deceased,,
+26-07-2020,47,F,Karnataka,Deceased,,
+26-07-2020,66,F,Karnataka,Deceased,,
+26-07-2020,55,M,Karnataka,Deceased,,
+26-07-2020,50,F,Karnataka,Deceased,,
+26-07-2020,65,M,Karnataka,Deceased,,
+26-07-2020,72,M,Karnataka,Deceased,,
+26-07-2020,63,M,Karnataka,Deceased,,
+26-07-2020,25,M,Karnataka,Deceased,,
+26-07-2020,48,F,Karnataka,Deceased,,
+26-07-2020,70,M,Karnataka,Deceased,,
+26-07-2020,70,M,Karnataka,Deceased,,
+26-07-2020,55,F,Karnataka,Deceased,,
+26-07-2020,57,M,Karnataka,Deceased,,
+26-07-2020,45,F,Karnataka,Deceased,,
+26-07-2020,64,M,Karnataka,Deceased,,
+26-07-2020,54,M,Karnataka,Deceased,,
+26-07-2020,47,M,Karnataka,Deceased,,
+26-07-2020,21,M,Karnataka,Deceased,,
+26-07-2020,79,M,Karnataka,Deceased,,
+26-07-2020,65,F,Karnataka,Deceased,,
+26-07-2020,76,M,Karnataka,Deceased,,
+26-07-2020,58,M,Karnataka,Deceased,,
+26-07-2020,45,F,Karnataka,Deceased,,
+26-07-2020,68,M,Karnataka,Deceased,,
+26-07-2020,58,M,Karnataka,Deceased,,
+26-07-2020,64,M,Karnataka,Deceased,,
+26-07-2020,78,M,Karnataka,Deceased,,
+26-07-2020,67,M,Karnataka,Deceased,,
+26-07-2020,81,F,Karnataka,Deceased,,
+26-07-2020,55,M,Karnataka,Deceased,,
+26-07-2020,55,M,Karnataka,Deceased,,
+26-07-2020,55,F,Karnataka,Deceased,,
+26-07-2020,52,M,Karnataka,Deceased,,
+26-07-2020,63,M,Karnataka,Deceased,,
+26-07-2020,55,M,Karnataka,Deceased,,
+26-07-2020,65,M,Karnataka,Deceased,,
+26-07-2020,66,M,Karnataka,Deceased,,
+26-07-2020,65,M,Karnataka,Deceased,,
+26-07-2020,70,F,Karnataka,Deceased,,
+26-07-2020,49,M,Karnataka,Deceased,,
+26-07-2020,59,F,Karnataka,Deceased,,
+26-07-2020,64,F,Karnataka,Deceased,,
+26-07-2020,57,M,Karnataka,Deceased,,
+26-07-2020,66,M,Karnataka,Deceased,,
+26-07-2020,48,M,Karnataka,Deceased,,
+26-07-2020,70,M,Karnataka,Deceased,,
+26-07-2020,82,M,Karnataka,Deceased,,
+26-07-2020,76,M,Karnataka,Deceased,,
+26-07-2020,73,M,Karnataka,Deceased,,
+26-07-2020,40,F,Karnataka,Deceased,,
+26-07-2020,45,M,Karnataka,Deceased,,
+26-07-2020,73,M,Karnataka,Deceased,,
+26-07-2020,53,M,Karnataka,Deceased,,
+26-07-2020,80,F,Karnataka,Deceased,,
+26-07-2020,69,M,Karnataka,Deceased,,
+26-07-2020,41,M,Karnataka,Deceased,,
+26-07-2020,75,F,Karnataka,Deceased,,
+26-07-2020,70,M,Karnataka,Deceased,,
+27-07-2020,63,M,Odisha,Deceased,,
+27-07-2020,45,M,Odisha,Deceased,,
+27-07-2020,51,F,Odisha,Deceased,,
+27-07-2020,58,M,Odisha,Deceased,,
+27-07-2020,55,M,Odisha,Deceased,,
+27-07-2020,66,M,Odisha,Deceased,,
+27-07-2020,51,M,Odisha,Deceased,,
+27-07-2020,76,F,Chandigarh,Hospitalized,,
+27-07-2020,13,M,Chandigarh,Hospitalized,,
+27-07-2020,32,M,Chandigarh,Hospitalized,,
+27-07-2020,29,F,Chandigarh,Hospitalized,,
+27-07-2020,24,M,Chandigarh,Hospitalized,,
+27-07-2020,30,M,Chandigarh,Hospitalized,,
+27-07-2020,23,F,Chandigarh,Hospitalized,,
+27-07-2020,44,F,Chandigarh,Hospitalized,,
+27-07-2020,31,M,Chandigarh,Hospitalized,,
+27-07-2020,26,F,Chandigarh,Hospitalized,,
+27-07-2020,36,F,Chandigarh,Hospitalized,,
+27-07-2020,5,M,Chandigarh,Hospitalized,,
+27-07-2020,27,F,Chandigarh,Hospitalized,,
+27-07-2020,31,M,Chandigarh,Hospitalized,,
+27-07-2020,26,M,Chandigarh,Hospitalized,,
+27-07-2020,30,M,Chandigarh,Hospitalized,,
+27-07-2020,24,M,Chandigarh,Hospitalized,,
+27-07-2020,22,F,Chandigarh,Hospitalized,,
+27-07-2020,33,M,Chandigarh,Hospitalized,,
+27-07-2020,30,M,Chandigarh,Hospitalized,,
+27-07-2020,40,F,Chandigarh,Hospitalized,,
+27-07-2020,39,M,Chandigarh,Hospitalized,,
+27-07-2020,53,M,Chandigarh,Hospitalized,,
+27-07-2020,32,M,Chandigarh,Recovered,,
+27-07-2020,11,F,Chandigarh,Recovered,,
+27-07-2020,50,M,Chandigarh,Recovered,,
+27-07-2020,36,M,Chandigarh,Recovered,,
+27-07-2020,67,M,Chandigarh,Deceased,,
+27-07-2020,59,,Assam,Deceased,,
+27-07-2020,59,,Assam,Deceased,,
+27-07-2020,26,,Assam,Deceased,,
+27-07-2020,72,,Assam,Deceased,,
+27-07-2020,35,,Assam,Deceased,,
+27-07-2020,75,,Assam,Deceased,,
+27-07-2020,50,,Assam,Deceased,,
+27-07-2020,61,M,Kerala,Deceased,,
+27-07-2020,85,M,Kerala,Deceased,,
+27-07-2020,58,M,Goa,Deceased,,
+27-07-2020,28,M,Uttarakhand,Deceased,,
+27-07-2020,30,M,Uttarakhand,Deceased,,
+27-07-2020,70,M,Uttarakhand,Deceased,,
+28-07-2020,55,M,Odisha,Deceased,,
+28-07-2020,72,M,Odisha,Deceased,,
+28-07-2020,31,M,Odisha,Deceased,,
+28-07-2020,56,M,Odisha,Deceased,,
+28-07-2020,45,M,Odisha,Deceased,,
+28-07-2020,39,M,Odisha,Deceased,,
+28-07-2020,5,M,Odisha,Deceased,,
+28-07-2020,16,F,Odisha,Deceased,,
+28-07-2020,70,F,Assam,Deceased,,
+28-07-2020,50,M,Assam,Deceased,,
+28-07-2020,37,M,Chandigarh,Hospitalized,,
+28-07-2020,64,M,Chandigarh,Hospitalized,,
+28-07-2020,54,F,Chandigarh,Hospitalized,,
+28-07-2020,26,M,Chandigarh,Hospitalized,,
+28-07-2020,30,M,Chandigarh,Hospitalized,,
+28-07-2020,28,M,Chandigarh,Hospitalized,,
+28-07-2020,53,M,Chandigarh,Hospitalized,,
+28-07-2020,60,F,Chandigarh,Hospitalized,,
+28-07-2020,36,M,Chandigarh,Hospitalized,,
+28-07-2020,34,M,Chandigarh,Hospitalized,,
+28-07-2020,28,F,Chandigarh,Hospitalized,,
+28-07-2020,31,M,Chandigarh,Hospitalized,,
+28-07-2020,44,F,Chandigarh,Hospitalized,,
+28-07-2020,46,M,Chandigarh,Hospitalized,,
+28-07-2020,67,M,Chandigarh,Hospitalized,,
+28-07-2020,50,M,Chandigarh,Hospitalized,,
+28-07-2020,18,F,Chandigarh,Hospitalized,,
+28-07-2020,24,M,Chandigarh,Hospitalized,,
+28-07-2020,28,M,Chandigarh,Hospitalized,,
+28-07-2020,85,F,Chandigarh,Hospitalized,,
+28-07-2020,53,F,Chandigarh,Hospitalized,,
+28-07-2020,50,F,Chandigarh,Hospitalized,,
+28-07-2020,52,F,Chandigarh,Hospitalized,,
+28-07-2020,26,M,Chandigarh,Hospitalized,,
+28-07-2020,45,M,Chandigarh,Recovered,,
+28-07-2020,26,M,Chandigarh,Recovered,,
+28-07-2020,45,F,Chandigarh,Recovered,,
+28-07-2020,22,M,Chandigarh,Recovered,,
+28-07-2020,60,M,Chandigarh,Recovered,,
+28-07-2020,55,F,Chandigarh,Recovered,,
+28-07-2020,17,M,Chandigarh,Recovered,,
+28-07-2020,32,M,Chandigarh,Recovered,,
+28-07-2020,40,F,Chandigarh,Recovered,,
+28-07-2020,39,F,Chandigarh,Recovered,,
+28-07-2020,68,M,Chandigarh,Recovered,,
+28-07-2020,38,M,Chandigarh,Recovered,,
+28-07-2020,67,F,Chandigarh,Recovered,,
+28-07-2020,36,F,Chandigarh,Recovered,,
+28-07-2020,64,M,Chandigarh,Recovered,,
+28-07-2020,22,M,Chandigarh,Recovered,,
+28-07-2020,62,F,Chandigarh,Recovered,,
+28-07-2020,1,F,Chandigarh,Recovered,,
+28-07-2020,65,F,Chandigarh,Recovered,,
+28-07-2020,18,F,Chandigarh,Recovered,,
+28-07-2020,21,F,Chandigarh,Recovered,,
+28-07-2020,18,M,Chandigarh,Recovered,,
+28-07-2020,40,M,Chandigarh,Recovered,,
+28-07-2020,52,F,Chandigarh,Recovered,,
+28-07-2020,89,M,Karnataka,Deceased,,
+28-07-2020,46,M,Karnataka,Deceased,,
+28-07-2020,56,M,Karnataka,Deceased,,
+28-07-2020,52,F,Karnataka,Deceased,,
+28-07-2020,62,M,Karnataka,Deceased,,
+28-07-2020,58,M,Karnataka,Deceased,,
+28-07-2020,65,F,Karnataka,Deceased,,
+28-07-2020,63,M,Karnataka,Deceased,,
+28-07-2020,63,F,Karnataka,Deceased,,
+28-07-2020,67,M,Karnataka,Deceased,,
+28-07-2020,55,M,Karnataka,Deceased,,
+28-07-2020,38,M,Karnataka,Deceased,,
+28-07-2020,65,M,Karnataka,Deceased,,
+28-07-2020,60,M,Karnataka,Deceased,,
+28-07-2020,60,F,Karnataka,Deceased,,
+28-07-2020,75,F,Karnataka,Deceased,,
+28-07-2020,46,M,Karnataka,Deceased,,
+28-07-2020,74,M,Karnataka,Deceased,,
+28-07-2020,72,M,Karnataka,Deceased,,
+28-07-2020,68,M,Karnataka,Deceased,,
+28-07-2020,62,M,Karnataka,Deceased,,
+28-07-2020,51,M,Karnataka,Deceased,,
+28-07-2020,55,F,Karnataka,Deceased,,
+28-07-2020,60,F,Karnataka,Deceased,,
+28-07-2020,65,F,Karnataka,Deceased,,
+28-07-2020,66,F,Karnataka,Deceased,,
+28-07-2020,43,M,Karnataka,Deceased,,
+28-07-2020,58,F,Karnataka,Deceased,,
+28-07-2020,82,M,Karnataka,Deceased,,
+28-07-2020,63,M,Karnataka,Deceased,,
+28-07-2020,84,M,Karnataka,Deceased,,
+28-07-2020,65,F,Karnataka,Deceased,,
+28-07-2020,65,M,Karnataka,Deceased,,
+28-07-2020,68,M,Karnataka,Deceased,,
+28-07-2020,64,M,Karnataka,Deceased,,
+28-07-2020,46,M,Karnataka,Deceased,,
+28-07-2020,60,F,Karnataka,Deceased,,
+28-07-2020,48,M,Karnataka,Deceased,,
+28-07-2020,44,M,Karnataka,Deceased,,
+28-07-2020,61,F,Karnataka,Deceased,,
+28-07-2020,78,F,Karnataka,Deceased,,
+28-07-2020,55,M,Karnataka,Deceased,,
+28-07-2020,72,M,Karnataka,Deceased,,
+28-07-2020,58,M,Karnataka,Deceased,,
+28-07-2020,70,M,Karnataka,Deceased,,
+28-07-2020,56,M,Karnataka,Deceased,,
+28-07-2020,47,M,Karnataka,Deceased,,
+28-07-2020,52,M,Karnataka,Deceased,,
+28-07-2020,62,F,Karnataka,Deceased,,
+28-07-2020,74,F,Karnataka,Deceased,,
+28-07-2020,59,F,Karnataka,Deceased,,
+28-07-2020,38,F,Karnataka,Deceased,,
+28-07-2020,60,M,Karnataka,Deceased,,
+28-07-2020,68,F,Karnataka,Deceased,,
+28-07-2020,75,M,Karnataka,Deceased,,
+28-07-2020,70,M,Karnataka,Deceased,,
+28-07-2020,55,M,Karnataka,Deceased,,
+28-07-2020,50,M,Karnataka,Deceased,,
+28-07-2020,72,F,Karnataka,Deceased,,
+28-07-2020,64,F,Karnataka,Deceased,,
+28-07-2020,62,F,Karnataka,Deceased,,
+28-07-2020,58,F,Karnataka,Deceased,,
+28-07-2020,58,F,Karnataka,Deceased,,
+28-07-2020,69,M,Karnataka,Deceased,,
+28-07-2020,60,F,Karnataka,Deceased,,
+28-07-2020,76,F,Karnataka,Deceased,,
+28-07-2020,31,F,Karnataka,Deceased,,
+28-07-2020,40,F,Karnataka,Deceased,,
+28-07-2020,56,M,Karnataka,Deceased,,
+28-07-2020,59,F,Karnataka,Deceased,,
+28-07-2020,55,M,Karnataka,Deceased,,
+28-07-2020,71,F,Karnataka,Deceased,,
+28-07-2020,45,M,Karnataka,Deceased,,
+28-07-2020,53,M,Karnataka,Deceased,,
+28-07-2020,60,M,Karnataka,Deceased,,
+28-07-2020,50,M,Karnataka,Deceased,,
+28-07-2020,31,M,Karnataka,Deceased,,
+28-07-2020,50,F,Karnataka,Deceased,,
+28-07-2020,46,M,Karnataka,Deceased,,
+28-07-2020,60,M,Karnataka,Deceased,,
+28-07-2020,40,M,Karnataka,Deceased,,
+28-07-2020,62,F,Karnataka,Deceased,,
+28-07-2020,57,M,Karnataka,Deceased,,
+28-07-2020,60,F,Karnataka,Deceased,,
+28-07-2020,66,M,Karnataka,Deceased,,
+28-07-2020,55,F,Karnataka,Deceased,,
+28-07-2020,65,M,Karnataka,Deceased,,
+28-07-2020,63,M,Karnataka,Deceased,,
+28-07-2020,56,F,Karnataka,Deceased,,
+28-07-2020,60,M,Karnataka,Deceased,,
+28-07-2020,40,M,Karnataka,Deceased,,
+28-07-2020,50,F,Karnataka,Deceased,,
+28-07-2020,38,F,Karnataka,Deceased,,
+28-07-2020,65,M,Karnataka,Deceased,,
+28-07-2020,80,M,Karnataka,Deceased,,
+28-07-2020,55,M,Karnataka,Deceased,,
+28-07-2020,72,F,Karnataka,Deceased,,
+28-07-2020,50,M,Karnataka,Deceased,,
+28-07-2020,47,M,Karnataka,Deceased,,
+28-07-2020,47,M,Karnataka,Deceased,,
+28-07-2020,54,M,Karnataka,Deceased,,
+28-07-2020,65,F,Karnataka,Deceased,,
+27-07-2020,72,M,Karnataka,Deceased,,
+27-07-2020,41,F,Karnataka,Deceased,,
+27-07-2020,38,F,Karnataka,Deceased,,
+27-07-2020,72,M,Karnataka,Deceased,,
+27-07-2020,45,M,Karnataka,Deceased,,
+27-07-2020,65,F,Karnataka,Deceased,,
+27-07-2020,58,M,Karnataka,Deceased,,
+27-07-2020,56,M,Karnataka,Deceased,,
+27-07-2020,59,F,Karnataka,Deceased,,
+27-07-2020,75,M,Karnataka,Deceased,,
+27-07-2020,80,M,Karnataka,Deceased,,
+27-07-2020,65,F,Karnataka,Deceased,,
+27-07-2020,73,M,Karnataka,Deceased,,
+27-07-2020,36,M,Karnataka,Deceased,,
+27-07-2020,47,M,Karnataka,Deceased,,
+27-07-2020,88,M,Karnataka,Deceased,,
+27-07-2020,53,F,Karnataka,Deceased,,
+27-07-2020,75,F,Karnataka,Deceased,,
+27-07-2020,50,M,Karnataka,Deceased,,
+27-07-2020,60,M,Karnataka,Deceased,,
+27-07-2020,65,M,Karnataka,Deceased,,
+27-07-2020,70,M,Karnataka,Deceased,,
+27-07-2020,93,M,Karnataka,Deceased,,
+27-07-2020,70,M,Karnataka,Deceased,,
+27-07-2020,70,F,Karnataka,Deceased,,
+27-07-2020,72,M,Karnataka,Deceased,,
+27-07-2020,75,M,Karnataka,Deceased,,
+27-07-2020,68,M,Karnataka,Deceased,,
+27-07-2020,54,M,Karnataka,Deceased,,
+27-07-2020,55,M,Karnataka,Deceased,,
+27-07-2020,71,M,Karnataka,Deceased,,
+27-07-2020,75,F,Karnataka,Deceased,,
+27-07-2020,55,M,Karnataka,Deceased,,
+27-07-2020,48,M,Karnataka,Deceased,,
+27-07-2020,76,F,Karnataka,Deceased,,
+27-07-2020,60,M,Karnataka,Deceased,,
+27-07-2020,71,F,Karnataka,Deceased,,
+27-07-2020,75,M,Karnataka,Deceased,,
+27-07-2020,63,F,Karnataka,Deceased,,
+27-07-2020,83,M,Karnataka,Deceased,,
+27-07-2020,76,M,Karnataka,Deceased,,
+27-07-2020,82,M,Karnataka,Deceased,,
+27-07-2020,65,F,Karnataka,Deceased,,
+27-07-2020,70,M,Karnataka,Deceased,,
+27-07-2020,60,M,Karnataka,Deceased,,
+27-07-2020,51,M,Karnataka,Deceased,,
+27-07-2020,65,F,Karnataka,Deceased,,
+27-07-2020,61,F,Karnataka,Deceased,,
+27-07-2020,64,M,Karnataka,Deceased,,
+27-07-2020,60,F,Karnataka,Deceased,,
+27-07-2020,65,M,Karnataka,Deceased,,
+27-07-2020,41,M,Karnataka,Deceased,,
+27-07-2020,35,M,Karnataka,Deceased,,
+27-07-2020,43,M,Karnataka,Deceased,,
+27-07-2020,63,M,Karnataka,Deceased,,
+27-07-2020,74,F,Karnataka,Deceased,,
+27-07-2020,60,M,Karnataka,Deceased,,
+27-07-2020,61,M,Karnataka,Deceased,,
+27-07-2020,75,M,Karnataka,Deceased,,
+27-07-2020,75,M,Karnataka,Deceased,,
+27-07-2020,35,M,Karnataka,Deceased,,
+27-07-2020,50,F,Karnataka,Deceased,,
+27-07-2020,73,M,Karnataka,Deceased,,
+27-07-2020,48,M,Karnataka,Deceased,,
+27-07-2020,75,F,Karnataka,Deceased,,
+27-07-2020,52,M,Karnataka,Deceased,,
+27-07-2020,63,M,Karnataka,Deceased,,
+27-07-2020,65,M,Karnataka,Deceased,,
+27-07-2020,65,M,Karnataka,Deceased,,
+27-07-2020,67,M,Karnataka,Deceased,,
+27-07-2020,65,M,Karnataka,Deceased,,
+27-07-2020,50,M,Karnataka,Deceased,,
+27-07-2020,55,M,Karnataka,Deceased,,
+27-07-2020,51,M,Karnataka,Deceased,,
+27-07-2020,39,M,Karnataka,Deceased,,
+28-07-2020,80,M,Uttarakhand,Deceased,,
+28-07-2020,57,M,Uttarakhand,Deceased,,
+28-07-2020,50,M,Uttarakhand,Deceased,,
+28-07-2020,50,M,Uttarakhand,Deceased,,
+29-07-2020,46,M,Odisha,Deceased,,
+29-07-2020,2,F,Odisha,Deceased,,
+29-07-2020,60,F,Odisha,Deceased,,
+29-07-2020,50,M,Odisha,Deceased,,
+29-07-2020,62,F,Odisha,Deceased,,
+29-07-2020,55,F,Odisha,Deceased,,
+29-07-2020,78,M,Assam,Deceased,,
+29-07-2020,77,F,Assam,Deceased,,
+29-07-2020,85,M,Assam,Deceased,,
+29-07-2020,40,F,Assam,Deceased,,
+29-07-2020,35,F,Chandigarh,Hospitalized,,
+29-07-2020,46,F,Chandigarh,Hospitalized,,
+29-07-2020,21,M,Chandigarh,Hospitalized,,
+29-07-2020,14,F,Chandigarh,Hospitalized,,
+29-07-2020,40,F,Chandigarh,Hospitalized,,
+29-07-2020,18,M,Chandigarh,Hospitalized,,
+29-07-2020,29,F,Chandigarh,Hospitalized,,
+29-07-2020,30,F,Chandigarh,Hospitalized,,
+29-07-2020,65,F,Chandigarh,Hospitalized,,
+29-07-2020,50,F,Chandigarh,Hospitalized,,
+29-07-2020,47,F,Chandigarh,Hospitalized,,
+29-07-2020,16,F,Chandigarh,Hospitalized,,
+29-07-2020,41,F,Chandigarh,Hospitalized,,
+29-07-2020,46,M,Chandigarh,Hospitalized,,
+29-07-2020,65,M,Chandigarh,Hospitalized,,
+29-07-2020,39,M,Chandigarh,Hospitalized,,
+29-07-2020,26,F,Chandigarh,Hospitalized,,
+29-07-2020,52,F,Chandigarh,Hospitalized,,
+29-07-2020,37,M,Chandigarh,Hospitalized,,
+29-07-2020,40,M,Chandigarh,Hospitalized,,
+29-07-2020,62,M,Chandigarh,Hospitalized,,
+29-07-2020,22,F,Chandigarh,Hospitalized,,
+29-07-2020,80,F,Chandigarh,Hospitalized,,
+29-07-2020,19,F,Chandigarh,Hospitalized,,
+29-07-2020,24,M,Chandigarh,Hospitalized,,
+29-07-2020,71,F,Chandigarh,Hospitalized,,
+29-07-2020,12,M,Chandigarh,Hospitalized,,
+29-07-2020,11,F,Chandigarh,Hospitalized,,
+29-07-2020,2,F,Chandigarh,Hospitalized,,
+29-07-2020,24,F,Chandigarh,Hospitalized,,
+29-07-2020,28,M,Chandigarh,Hospitalized,,
+29-07-2020,52,F,Chandigarh,Hospitalized,,
+29-07-2020,63,F,Chandigarh,Hospitalized,,
+29-07-2020,14,M,Chandigarh,Hospitalized,,
+29-07-2020,63,M,Chandigarh,Hospitalized,,
+29-07-2020,8,M,Chandigarh,Hospitalized,,
+29-07-2020,53,F,Chandigarh,Hospitalized,,
+29-07-2020,27,M,Chandigarh,Hospitalized,,
+29-07-2020,17,M,Chandigarh,Hospitalized,,
+29-07-2020,25,F,Chandigarh,Hospitalized,,
+29-07-2020,73,M,Chandigarh,Hospitalized,,
+29-07-2020,54,M,Chandigarh,Hospitalized,,
+29-07-2020,49,F,Chandigarh,Hospitalized,,
+29-07-2020,21,M,Chandigarh,Hospitalized,,
+29-07-2020,50,M,Uttarakhand,Deceased,,
+29-07-2020,23,F,Uttarakhand,Deceased,,
+30-07-2020,67,M,Odisha,Deceased,,
+30-07-2020,60,F,Odisha,Deceased,,
+30-07-2020,43,M,Odisha,Deceased,,
+30-07-2020,47,M,Odisha,Deceased,,
+30-07-2020,65,M,Odisha,Deceased,,
+30-07-2020,33,M,Odisha,Deceased,,
+30-07-2020,65,F,Odisha,Deceased,,
+30-07-2020,71,M,Odisha,Deceased,,
+30-07-2020,60,M,Odisha,Deceased,,
+30-07-2020,50,M,Odisha,Deceased,,
+30-07-2020,28,M,Chandigarh,Hospitalized,,
+30-07-2020,40,M,Chandigarh,Hospitalized,,
+30-07-2020,69,F,Chandigarh,Hospitalized,,
+30-07-2020,46,F,Chandigarh,Hospitalized,,
+30-07-2020,24,M,Chandigarh,Hospitalized,,
+30-07-2020,32,M,Chandigarh,Hospitalized,,
+30-07-2020,33,F,Chandigarh,Hospitalized,,
+30-07-2020,50,F,Chandigarh,Hospitalized,,
+30-07-2020,50,M,Chandigarh,Hospitalized,,
+30-07-2020,25,M,Chandigarh,Hospitalized,,
+30-07-2020,4,M,Chandigarh,Hospitalized,,
+30-07-2020,45,F,Chandigarh,Hospitalized,,
+30-07-2020,1,M,Chandigarh,Hospitalized,,
+30-07-2020,32,F,Chandigarh,Hospitalized,,
+30-07-2020,55,M,Chandigarh,Hospitalized,,
+30-07-2020,65,F,Chandigarh,Hospitalized,,
+30-07-2020,29,M,Chandigarh,Hospitalized,,
+30-07-2020,24,M,Chandigarh,Hospitalized,,
+30-07-2020,28,F,Chandigarh,Hospitalized,,
+30-07-2020,68,F,Chandigarh,Hospitalized,,
+30-07-2020,13,M,Chandigarh,Hospitalized,,
+30-07-2020,39,F,Chandigarh,Hospitalized,,
+30-07-2020,40,M,Chandigarh,Hospitalized,,
+30-07-2020,31,M,Chandigarh,Hospitalized,,
+30-07-2020,26,F,Chandigarh,Hospitalized,,
+30-07-2020,39,F,Chandigarh,Hospitalized,,
+30-07-2020,28,F,Chandigarh,Hospitalized,,
+30-07-2020,43,F,Chandigarh,Hospitalized,,
+30-07-2020,24,M,Chandigarh,Hospitalized,,
+30-07-2020,25,M,Chandigarh,Hospitalized,,
+30-07-2020,28,F,Chandigarh,Hospitalized,,
+30-07-2020,25,M,Chandigarh,Hospitalized,,
+30-07-2020,24,F,Chandigarh,Hospitalized,,
+30-07-2020,37,F,Chandigarh,Hospitalized,,
+30-07-2020,20,M,Chandigarh,Hospitalized,,
+30-07-2020,26,F,Chandigarh,Hospitalized,,
+30-07-2020,27,M,Chandigarh,Hospitalized,,
+30-07-2020,54,F,Chandigarh,Recovered,,
+30-07-2020,71,M,Chandigarh,Recovered,,
+30-07-2020,32,M,Chandigarh,Recovered,,
+30-07-2020,76,M,Chandigarh,Recovered,,
+30-07-2020,34,M,Chandigarh,Recovered,,
+30-07-2020,61,M,Chandigarh,Recovered,,
+30-07-2020,46,F,Chandigarh,Recovered,,
+30-07-2020,41,M,Chandigarh,Recovered,,
+30-07-2020,39,M,Chandigarh,Recovered,,
+30-07-2020,60,M,Chandigarh,Recovered,,
+30-07-2020,22,M,Chandigarh,Recovered,,
+30-07-2020,30,M,Chandigarh,Recovered,,
+30-07-2020,22,M,Chandigarh,Recovered,,
+30-07-2020,48,F,Chandigarh,Recovered,,
+30-07-2020,47,M,Chandigarh,Recovered,,
+30-07-2020,43,M,Chandigarh,Recovered,,
+30-07-2020,43,F,Chandigarh,Recovered,,
+30-07-2020,60,M,Chandigarh,Recovered,,
+30-07-2020,45,M,Chandigarh,Recovered,,
+30-07-2020,51,F,Chandigarh,Recovered,,
+30-07-2020,72,M,Chandigarh,Recovered,,
+30-07-2020,28,M,Chandigarh,Recovered,,
+30-07-2020,49,M,Chandigarh,Recovered,,
+30-07-2020,45,M,Chandigarh,Recovered,,
+30-07-2020,57,M,Chandigarh,Recovered,,
+30-07-2020,45,F,Chandigarh,Recovered,,
+30-07-2020,16,M,Chandigarh,Recovered,,
+30-07-2020,2,M,Chandigarh,Recovered,,
+30-07-2020,53,F,Chandigarh,Recovered,,
+30-07-2020,45,F,Chandigarh,Recovered,,
+30-07-2020,35,F,Chandigarh,Recovered,,
+30-07-2020,75,F,Chandigarh,Recovered,,
+30-07-2020,11,F,Chandigarh,Recovered,,
+30-07-2020,66,F,Chandigarh,Recovered,,
+30-07-2020,32,F,Chandigarh,Recovered,,
+30-07-2020,80,M,Goa,Deceased,,
+30-07-2020,71,M,Goa,Deceased,,
+30-07-2020,62,M,Goa,Deceased,,
+30-07-2020,21,M,Uttarakhand,Deceased,,
+30-07-2020,36,F,Uttarakhand,Deceased,,
+30-07-2020,53,M,Uttarakhand,Deceased,,
+30-07-2020,64,F,Uttarakhand,Deceased,,
+30-07-2020,70,F,Karnataka,Deceased,,
+30-07-2020,66,M,Karnataka,Deceased,,
+30-07-2020,73,M,Karnataka,Deceased,,
+30-07-2020,68,F,Karnataka,Deceased,,
+30-07-2020,46,M,Karnataka,Deceased,,
+30-07-2020,60,F,Karnataka,Deceased,,
+30-07-2020,55,M,Karnataka,Deceased,,
+30-07-2020,59,M,Karnataka,Deceased,,
+30-07-2020,46,M,Karnataka,Deceased,,
+30-07-2020,72,F,Karnataka,Deceased,,
+30-07-2020,84,F,Karnataka,Deceased,,
+30-07-2020,74,F,Karnataka,Deceased,,
+30-07-2020,58,F,Karnataka,Deceased,,
+30-07-2020,70,F,Karnataka,Deceased,,
+30-07-2020,46,F,Karnataka,Deceased,,
+30-07-2020,71,M,Karnataka,Deceased,,
+30-07-2020,88,M,Karnataka,Deceased,,
+30-07-2020,68,M,Karnataka,Deceased,,
+30-07-2020,75,M,Karnataka,Deceased,,
+30-07-2020,52,M,Karnataka,Deceased,,
+30-07-2020,68,M,Karnataka,Deceased,,
+30-07-2020,60,M,Karnataka,Deceased,,
+30-07-2020,64,F,Karnataka,Deceased,,
+30-07-2020,67,M,Karnataka,Deceased,,
+30-07-2020,64,M,Karnataka,Deceased,,
+30-07-2020,58,M,Karnataka,Deceased,,
+30-07-2020,67,M,Karnataka,Deceased,,
+30-07-2020,52,M,Karnataka,Deceased,,
+30-07-2020,68,M,Karnataka,Deceased,,
+30-07-2020,50,M,Karnataka,Deceased,,
+30-07-2020,56,M,Karnataka,Deceased,,
+30-07-2020,85,F,Karnataka,Deceased,,
+30-07-2020,60,F,Karnataka,Deceased,,
+30-07-2020,66,M,Karnataka,Deceased,,
+30-07-2020,80,M,Karnataka,Deceased,,
+30-07-2020,65,F,Karnataka,Deceased,,
+30-07-2020,62,M,Karnataka,Deceased,,
+30-07-2020,87,M,Karnataka,Deceased,,
+30-07-2020,82,M,Karnataka,Deceased,,
+30-07-2020,66,M,Karnataka,Deceased,,
+30-07-2020,80,F,Karnataka,Deceased,,
+30-07-2020,85,F,Karnataka,Deceased,,
+30-07-2020,50,F,Karnataka,Deceased,,
+30-07-2020,54,M,Karnataka,Deceased,,
+30-07-2020,50,M,Karnataka,Deceased,,
+30-07-2020,56,F,Karnataka,Deceased,,
+30-07-2020,80,M,Karnataka,Deceased,,
+30-07-2020,80,F,Karnataka,Deceased,,
+30-07-2020,68,M,Karnataka,Deceased,,
+30-07-2020,65,F,Karnataka,Deceased,,
+30-07-2020,58,M,Karnataka,Deceased,,
+30-07-2020,55,M,Karnataka,Deceased,,
+30-07-2020,35,M,Karnataka,Deceased,,
+30-07-2020,55,M,Karnataka,Deceased,,
+30-07-2020,65,F,Karnataka,Deceased,,
+30-07-2020,58,M,Karnataka,Deceased,,
+30-07-2020,40,F,Karnataka,Deceased,,
+30-07-2020,67,M,Karnataka,Deceased,,
+30-07-2020,24,M,Karnataka,Deceased,,
+30-07-2020,36,F,Karnataka,Deceased,,
+30-07-2020,40,M,Karnataka,Deceased,,
+30-07-2020,39,M,Karnataka,Deceased,,
+30-07-2020,52,M,Karnataka,Deceased,,
+30-07-2020,66,F,Karnataka,Deceased,,
+30-07-2020,36,M,Karnataka,Deceased,,
+30-07-2020,55,M,Karnataka,Deceased,,
+30-07-2020,65,F,Karnataka,Deceased,,
+30-07-2020,42,M,Karnataka,Deceased,,
+30-07-2020,47,F,Karnataka,Deceased,,
+30-07-2020,55,M,Karnataka,Deceased,,
+30-07-2020,55,F,Karnataka,Deceased,,
+30-07-2020,73,F,Karnataka,Deceased,,
+30-07-2020,80,F,Karnataka,Deceased,,
+30-07-2020,39,M,Karnataka,Deceased,,
+30-07-2020,56,M,Karnataka,Deceased,,
+30-07-2020,52,M,Karnataka,Deceased,,
+30-07-2020,26,F,Karnataka,Deceased,,
+30-07-2020,63,F,Karnataka,Deceased,,
+30-07-2020,76,M,Karnataka,Deceased,,
+30-07-2020,50,M,Karnataka,Deceased,,
+30-07-2020,55,F,Karnataka,Deceased,,
+30-07-2020,58,F,Karnataka,Deceased,,
+30-07-2020,72,M,Karnataka,Deceased,,
+31-07-2020,58,F,Odisha,Deceased,,
+31-07-2020,81,M,Odisha,Deceased,,
+31-07-2020,49,M,Odisha,Deceased,,
+31-07-2020,45,M,Odisha,Deceased,,
+31-07-2020,73,M,Odisha,Deceased,,
+31-07-2020,79,M,Odisha,Deceased,,
+31-07-2020,82,F,Odisha,Deceased,,
+31-07-2020,52,M,Odisha,Deceased,,
+31-07-2020,12,F,Odisha,Deceased,,
+31-07-2020,24,F,Chandigarh,Hospitalized,,
+31-07-2020,61,M,Chandigarh,Hospitalized,,
+31-07-2020,24,F,Chandigarh,Hospitalized,,
+31-07-2020,46,F,Chandigarh,Hospitalized,,
+31-07-2020,24,M,Chandigarh,Hospitalized,,
+31-07-2020,52,M,Chandigarh,Hospitalized,,
+31-07-2020,62,M,Chandigarh,Hospitalized,,
+31-07-2020,33,M,Chandigarh,Hospitalized,,
+31-07-2020,46,M,Chandigarh,Hospitalized,,
+31-07-2020,28,F,Chandigarh,Hospitalized,,
+31-07-2020,31,M,Chandigarh,Hospitalized,,
+31-07-2020,25,F,Chandigarh,Hospitalized,,
+31-07-2020,21,F,Chandigarh,Hospitalized,,
+31-07-2020,24,M,Chandigarh,Hospitalized,,
+31-07-2020,37,F,Chandigarh,Hospitalized,,
+31-07-2020,15,F,Chandigarh,Hospitalized,,
+31-07-2020,55,F,Chandigarh,Hospitalized,,
+31-07-2020,14,M,Chandigarh,Hospitalized,,
+31-07-2020,10,M,Chandigarh,Hospitalized,,
+31-07-2020,65,F,Chandigarh,Hospitalized,,
+31-07-2020,42,M,Chandigarh,Hospitalized,,
+31-07-2020,15,F,Chandigarh,Hospitalized,,
+31-07-2020,58,M,Chandigarh,Hospitalized,,
+31-07-2020,59,F,Chandigarh,Hospitalized,,
+31-07-2020,27,M,Chandigarh,Hospitalized,,
+31-07-2020,47,F,Chandigarh,Hospitalized,,
+31-07-2020,67,F,Chandigarh,Hospitalized,,
+31-07-2020,25,M,Chandigarh,Hospitalized,,
+31-07-2020,30,M,Chandigarh,Hospitalized,,
+31-07-2020,20,F,Chandigarh,Hospitalized,,
+31-07-2020,23,F,Chandigarh,Hospitalized,,
+31-07-2020,47,F,Chandigarh,Hospitalized,,
+31-07-2020,18,M,Chandigarh,Hospitalized,,
+31-07-2020,47,M,Chandigarh,Hospitalized,,
+31-07-2020,46,M,Chandigarh,Recovered,,
+31-07-2020,58,M,Chandigarh,Recovered,,
+31-07-2020,25,F,Chandigarh,Recovered,,
+31-07-2020,26,F,Chandigarh,Recovered,,
+31-07-2020,25,F,Chandigarh,Recovered,,
+31-07-2020,9,M,Chandigarh,Recovered,,
+31-07-2020,55,M,Chandigarh,Recovered,,
+31-07-2020,29,F,Chandigarh,Recovered,,
+31-07-2020,66,F,Chandigarh,Recovered,,
+31-07-2020,45,F,Chandigarh,Recovered,,
+31-07-2020,4,M,Chandigarh,Recovered,,
+31-07-2020,35,M,Chandigarh,Recovered,,
+31-07-2020,35,M,Chandigarh,Recovered,,
+31-07-2020,32,M,Chandigarh,Recovered,,
+31-07-2020,36,M,Chandigarh,Recovered,,
+31-07-2020,72,M,Chandigarh,Recovered,,
+31-07-2020,71,F,Chandigarh,Recovered,,
+31-07-2020,24,F,Chandigarh,Recovered,,
+31-07-2020,38,M,Chandigarh,Recovered,,
+31-07-2020,35,F,Chandigarh,Recovered,,
+31-07-2020,46,F,Chandigarh,Deceased,,
+31-07-2020,68,,Assam,Deceased,,
+31-07-2020,30,,Assam,Deceased,,
+31-07-2020,68,,Assam,Deceased,,
+31-07-2020,59,,Assam,Deceased,,
+31-07-2020,59,,Kerala,Deceased,,
+31-07-2020,85,F,Kerala,Deceased,,
+31-07-2020,56,F,Kerala,Deceased,,
+31-07-2020,53,F,Karnataka,Deceased,,
+31-07-2020,62,F,Karnataka,Deceased,,
+31-07-2020,30,F,Karnataka,Deceased,,
+31-07-2020,72,M,Karnataka,Deceased,,
+31-07-2020,91,M,Karnataka,Deceased,,
+31-07-2020,59,M,Karnataka,Deceased,,
+31-07-2020,22,M,Karnataka,Deceased,,
+31-07-2020,81,F,Karnataka,Deceased,,
+31-07-2020,73,F,Karnataka,Deceased,,
+31-07-2020,53,M,Karnataka,Deceased,,
+31-07-2020,65,M,Karnataka,Deceased,,
+31-07-2020,67,M,Karnataka,Deceased,,
+31-07-2020,70,M,Karnataka,Deceased,,
+31-07-2020,87,F,Karnataka,Deceased,,
+31-07-2020,50,F,Karnataka,Deceased,,
+31-07-2020,60,M,Karnataka,Deceased,,
+31-07-2020,65,M,Karnataka,Deceased,,
+31-07-2020,30,M,Karnataka,Deceased,,
+31-07-2020,54,F,Karnataka,Deceased,,
+31-07-2020,72,F,Karnataka,Deceased,,
+31-07-2020,71,F,Karnataka,Deceased,,
+31-07-2020,52,F,Karnataka,Deceased,,
+31-07-2020,8,F,Karnataka,Deceased,,
+31-07-2020,64,F,Karnataka,Deceased,,
+31-07-2020,86,F,Karnataka,Deceased,,
+31-07-2020,86,M,Karnataka,Deceased,,
+31-07-2020,65,F,Karnataka,Deceased,,
+31-07-2020,77,M,Karnataka,Deceased,,
+31-07-2020,69,M,Karnataka,Deceased,,
+31-07-2020,54,F,Karnataka,Deceased,,
+31-07-2020,70,M,Karnataka,Deceased,,
+31-07-2020,60,M,Karnataka,Deceased,,
+31-07-2020,52,M,Karnataka,Deceased,,
+31-07-2020,70,M,Karnataka,Deceased,,
+31-07-2020,50,M,Karnataka,Deceased,,
+31-07-2020,80,F,Karnataka,Deceased,,
+31-07-2020,88,M,Karnataka,Deceased,,
+31-07-2020,76,M,Karnataka,Deceased,,
+31-07-2020,60,F,Karnataka,Deceased,,
+31-07-2020,41,M,Karnataka,Deceased,,
+31-07-2020,58,M,Karnataka,Deceased,,
+31-07-2020,54,M,Karnataka,Deceased,,
+31-07-2020,45,F,Karnataka,Deceased,,
+31-07-2020,60,M,Karnataka,Deceased,,
+31-07-2020,48,F,Karnataka,Deceased,,
+31-07-2020,63,M,Karnataka,Deceased,,
+31-07-2020,60,M,Karnataka,Deceased,,
+31-07-2020,92,M,Karnataka,Deceased,,
+31-07-2020,46,M,Karnataka,Deceased,,
+31-07-2020,65,F,Karnataka,Deceased,,
+31-07-2020,85,M,Karnataka,Deceased,,
+31-07-2020,55,F,Karnataka,Deceased,,
+31-07-2020,85,M,Karnataka,Deceased,,
+31-07-2020,64,F,Karnataka,Deceased,,
+31-07-2020,65,F,Karnataka,Deceased,,
+31-07-2020,38,M,Karnataka,Deceased,,
+31-07-2020,64,M,Karnataka,Deceased,,
+31-07-2020,69,M,Karnataka,Deceased,,
+31-07-2020,65,F,Karnataka,Deceased,,
+31-07-2020,51,F,Karnataka,Deceased,,
+31-07-2020,84,F,Karnataka,Deceased,,
+31-07-2020,57,F,Karnataka,Deceased,,
+31-07-2020,57,M,Karnataka,Deceased,,
+31-07-2020,49,M,Karnataka,Deceased,,
+31-07-2020,60,Femal e,Karnataka,Deceased,,
+31-07-2020,63,F,Karnataka,Deceased,,
+31-07-2020,58,F,Karnataka,Deceased,,
+31-07-2020,56,M,Karnataka,Deceased,,
+31-07-2020,62,F,Karnataka,Deceased,,
+31-07-2020,83,F,Karnataka,Deceased,,
+31-07-2020,63,F,Karnataka,Deceased,,
+31-07-2020,55,M,Karnataka,Deceased,,
+31-07-2020,74,M,Karnataka,Deceased,,
+31-07-2020,56,F,Karnataka,Deceased,,
+31-07-2020,52,M,Karnataka,Deceased,,
+31-07-2020,78,M,Karnataka,Deceased,,
+31-07-2020,54,F,Karnataka,Deceased,,
+31-07-2020,53,M,Karnataka,Deceased,,
+31-07-2020,45,M,Karnataka,Deceased,,
+31-07-2020,19,M,Karnataka,Deceased,,
+31-07-2020,82,M,Karnataka,Deceased,,
+31-07-2020,58,M,Karnataka,Deceased,,
+31-07-2020,47,M,Karnataka,Deceased,,
+31-07-2020,65,M,Karnataka,Deceased,,
+01-08-2020,54,M,Odisha,Deceased,,
+01-08-2020,62,M,Odisha,Deceased,,
+01-08-2020,70,M,Odisha,Deceased,,
+01-08-2020,44,M,Odisha,Deceased,,
+01-08-2020,56,M,Odisha,Deceased,,
+01-08-2020,63,M,Odisha,Deceased,,
+01-08-2020,56,F,Odisha,Deceased,,
+01-08-2020,70,M,Odisha,Deceased,,
+01-08-2020,40,M,Odisha,Deceased,,
+01-08-2020,49,M,Odisha,Deceased,,
+01-08-2020,30,M,Odisha,Deceased,,
+01-08-2020,62,M,Kerala,Deceased,,
+01-08-2020,59,M,Kerala,Deceased,,
+01-08-2020,82,M,Kerala,Deceased,,
+01-08-2020,72,M,Kerala,Deceased,,
+01-08-2020,81,F,Kerala,Deceased,,
+01-08-2020,52,M,Kerala,Deceased,,
+01-08-2020,49,M,Kerala,Deceased,,
+01-08-2020,73,F,Kerala,Deceased,,
+01-08-2020,35,F,Chandigarh,Hospitalized,,
+01-08-2020,30,M,Chandigarh,Hospitalized,,
+01-08-2020,32,M,Chandigarh,Hospitalized,,
+01-08-2020,58,M,Chandigarh,Hospitalized,,
+01-08-2020,11,M,Chandigarh,Hospitalized,,
+01-08-2020,33,F,Chandigarh,Hospitalized,,
+01-08-2020,47,M,Chandigarh,Hospitalized,,
+01-08-2020,22,M,Chandigarh,Hospitalized,,
+01-08-2020,37,M,Chandigarh,Hospitalized,,
+01-08-2020,33,F,Chandigarh,Hospitalized,,
+01-08-2020,39,M,Chandigarh,Hospitalized,,
+01-08-2020,6,M,Chandigarh,Hospitalized,,
+01-08-2020,13,F,Chandigarh,Hospitalized,,
+01-08-2020,25,M,Chandigarh,Hospitalized,,
+01-08-2020,42,M,Chandigarh,Hospitalized,,
+01-08-2020,75,F,Chandigarh,Hospitalized,,
+01-08-2020,96,M,Chandigarh,Hospitalized,,
+01-08-2020,63,M,Chandigarh,Hospitalized,,
+01-08-2020,63,M,Chandigarh,Hospitalized,,
+01-08-2020,26,M,Chandigarh,Hospitalized,,
+01-08-2020,37,F,Chandigarh,Hospitalized,,
+01-08-2020,36,M,Chandigarh,Hospitalized,,
+01-08-2020,33,M,Chandigarh,Hospitalized,,
+01-08-2020,55,M,Chandigarh,Hospitalized,,
+01-08-2020,47,M,Chandigarh,Hospitalized,,
+01-08-2020,29,M,Chandigarh,Hospitalized,,
+01-08-2020,55,F,Chandigarh,Hospitalized,,
+01-08-2020,45,M,Chandigarh,Hospitalized,,
+01-08-2020,68,F,Chandigarh,Recovered,,
+01-08-2020,13,M,Chandigarh,Recovered,,
+01-08-2020,32,M,Chandigarh,Recovered,,
+01-08-2020,45,M,Chandigarh,Recovered,,
+01-08-2020,57,F,Chandigarh,Recovered,,
+01-08-2020,32,F,Chandigarh,Recovered,,
+01-08-2020,10,M,Chandigarh,Recovered,,
+01-08-2020,10,M,Chandigarh,Recovered,,
+01-08-2020,34,F,Chandigarh,Recovered,,
+01-08-2020,56,M,Chandigarh,Recovered,,
+01-08-2020,30,F,Chandigarh,Recovered,,
+01-08-2020,58,F,Chandigarh,Recovered,,
+01-08-2020,37,M,Chandigarh,Recovered,,
+01-08-2020,57,M,Chandigarh,Recovered,,
+01-08-2020,53,F,Chandigarh,Recovered,,
+01-08-2020,21,M,Chandigarh,Recovered,,
+01-08-2020,55,F,Chandigarh,Deceased,,
+01-08-2020,75,F,Chandigarh,Deceased,,
+01-08-2020,96,M,Chandigarh,Deceased,,
+01-08-2020,77,M,Goa,Deceased,,
+01-08-2020,64,M,Goa,Deceased,,
+01-08-2020,71,F,Goa,Deceased,,
+01-08-2020,42,M,Uttarakhand,Deceased,,
+01-08-2020,42,M,Uttarakhand,Deceased,,
+01-08-2020,49,M,Uttarakhand,Deceased,,
+01-08-2020,40,F,Karnataka,Deceased,,
+01-08-2020,60,F,Karnataka,Deceased,,
+01-08-2020,78,F,Karnataka,Deceased,,
+01-08-2020,66,M,Karnataka,Deceased,,
+01-08-2020,73,M,Karnataka,Deceased,,
+01-08-2020,60,F,Karnataka,Deceased,,
+01-08-2020,52,M,Karnataka,Deceased,,
+01-08-2020,74,M,Karnataka,Deceased,,
+01-08-2020,62,M,Karnataka,Deceased,,
+01-08-2020,65,M,Karnataka,Deceased,,
+01-08-2020,63,M,Karnataka,Deceased,,
+01-08-2020,60,M,Karnataka,Deceased,,
+01-08-2020,55,M,Karnataka,Deceased,,
+01-08-2020,52,M,Karnataka,Deceased,,
+01-08-2020,76,M,Karnataka,Deceased,,
+01-08-2020,73,M,Karnataka,Deceased,,
+01-08-2020,68,M,Karnataka,Deceased,,
+01-08-2020,62,M,Karnataka,Deceased,,
+01-08-2020,65,F,Karnataka,Deceased,,
+01-08-2020,72,M,Karnataka,Deceased,,
+01-08-2020,65,M,Karnataka,Deceased,,
+01-08-2020,52,M,Karnataka,Deceased,,
+01-08-2020,72,M,Karnataka,Deceased,,
+01-08-2020,62,M,Karnataka,Deceased,,
+01-08-2020,34,M,Karnataka,Deceased,,
+01-08-2020,72,M,Karnataka,Deceased,,
+01-08-2020,61,M,Karnataka,Deceased,,
+01-08-2020,36,M,Karnataka,Deceased,,
+01-08-2020,53,M,Karnataka,Deceased,,
+01-08-2020,39,M,Karnataka,Deceased,,
+01-08-2020,52,M,Karnataka,Deceased,,
+01-08-2020,96,M,Karnataka,Deceased,,
+01-08-2020,65,F,Karnataka,Deceased,,
+01-08-2020,45,M,Karnataka,Deceased,,
+01-08-2020,55,M,Karnataka,Deceased,,
+01-08-2020,56,M,Karnataka,Deceased,,
+01-08-2020,70,M,Karnataka,Deceased,,
+01-08-2020,81,F,Karnataka,Deceased,,
+01-08-2020,75,M,Karnataka,Deceased,,
+01-08-2020,61,M,Karnataka,Deceased,,
+01-08-2020,45,M,Karnataka,Deceased,,
+01-08-2020,57,M,Karnataka,Deceased,,
+01-08-2020,55,F,Karnataka,Deceased,,
+01-08-2020,56,M,Karnataka,Deceased,,
+01-08-2020,40,M,Karnataka,Deceased,,
+01-08-2020,66,M,Karnataka,Deceased,,
+01-08-2020,65,F,Karnataka,Deceased,,
+01-08-2020,70,M,Karnataka,Deceased,,
+01-08-2020,42,F,Karnataka,Deceased,,
+01-08-2020,50,M,Karnataka,Deceased,,
+01-08-2020,60,M,Karnataka,Deceased,,
+01-08-2020,63,M,Karnataka,Deceased,,
+01-08-2020,56,M,Karnataka,Deceased,,
+01-08-2020,56,M,Karnataka,Deceased,,
+01-08-2020,63,M,Karnataka,Deceased,,
+01-08-2020,60,F,Karnataka,Deceased,,
+01-08-2020,36,F,Karnataka,Deceased,,
+01-08-2020,59,M,Karnataka,Deceased,,
+01-08-2020,70,M,Karnataka,Deceased,,
+01-08-2020,58,F,Karnataka,Deceased,,
+01-08-2020,75,F,Karnataka,Deceased,,
+01-08-2020,90,M,Karnataka,Deceased,,
+01-08-2020,70,F,Karnataka,Deceased,,
+01-08-2020,49,F,Karnataka,Deceased,,
+01-08-2020,84,M,Karnataka,Deceased,,
+01-08-2020,60,M,Karnataka,Deceased,,
+01-08-2020,80,F,Karnataka,Deceased,,
+01-08-2020,72,M,Karnataka,Deceased,,
+01-08-2020,53,M,Karnataka,Deceased,,
+01-08-2020,69,M,Karnataka,Deceased,,
+01-08-2020,55,F,Karnataka,Deceased,,
+01-08-2020,87,M,Karnataka,Deceased,,
+01-08-2020,63,M,Karnataka,Deceased,,
+01-08-2020,56,M,Karnataka,Deceased,,
+01-08-2020,67,F,Karnataka,Deceased,,
+01-08-2020,65,F,Karnataka,Deceased,,
+01-08-2020,62,F,Karnataka,Deceased,,
+01-08-2020,51,M,Karnataka,Deceased,,
+01-08-2020,31,M,Karnataka,Deceased,,
+01-08-2020,65,M,Karnataka,Deceased,,
+01-08-2020,64,M,Karnataka,Deceased,,
+01-08-2020,94,M,Karnataka,Deceased,,
+01-08-2020,62,M,Karnataka,Deceased,,
+01-08-2020,35,M,Karnataka,Deceased,,
+01-08-2020,75,M,Karnataka,Deceased,,
+01-08-2020,70,F,Karnataka,Deceased,,
+01-08-2020,65,M,Karnataka,Deceased,,
+01-08-2020,60,F,Karnataka,Deceased,,
+01-08-2020,60,F,Karnataka,Deceased,,
+01-08-2020,59,M,Karnataka,Deceased,,
+01-08-2020,61,M,Karnataka,Deceased,,
+01-08-2020,65,M,Karnataka,Deceased,,
+01-08-2020,72,M,Karnataka,Deceased,,
+01-08-2020,60,F,Karnataka,Deceased,,
+01-08-2020,32,M,Karnataka,Deceased,,
+01-08-2020,78,F,Karnataka,Deceased,,
+01-08-2020,40,F,Karnataka,Deceased,,
+01-08-2020,55,F,Karnataka,Deceased,,
+02-08-2020,73,M,Odisha,Deceased,,
+02-08-2020,58,M,Odisha,Deceased,,
+02-08-2020,57,M,Odisha,Deceased,,
+02-08-2020,78,F,Odisha,Deceased,,
+02-08-2020,80,M,Odisha,Deceased,,
+02-08-2020,94,F,Odisha,Deceased,,
+02-08-2020,45,F,Odisha,Deceased,,
+02-08-2020,60,F,Odisha,Deceased,,
+02-08-2020,57,M,Odisha,Deceased,,
+02-08-2020,62,M,Odisha,Deceased,,
+02-08-2020,65,M,Odisha,Deceased,,
+02-08-2020,62,F,Chandigarh,Hospitalized,,
+02-08-2020,63,M,Chandigarh,Hospitalized,,
+02-08-2020,25,F,Chandigarh,Hospitalized,,
+02-08-2020,26,M,Chandigarh,Hospitalized,,
+02-08-2020,27,F,Chandigarh,Hospitalized,,
+02-08-2020,24,M,Chandigarh,Hospitalized,,
+02-08-2020,70,M,Chandigarh,Hospitalized,,
+02-08-2020,56,M,Chandigarh,Hospitalized,,
+02-08-2020,47,F,Chandigarh,Hospitalized,,
+02-08-2020,29,F,Chandigarh,Hospitalized,,
+02-08-2020,9,M,Chandigarh,Hospitalized,,
+02-08-2020,32,F,Chandigarh,Hospitalized,,
+02-08-2020,30,M,Chandigarh,Hospitalized,,
+02-08-2020,26,F,Chandigarh,Hospitalized,,
+02-08-2020,28,M,Chandigarh,Hospitalized,,
+02-08-2020,35,M,Chandigarh,Hospitalized,,
+02-08-2020,45,M,Chandigarh,Hospitalized,,
+02-08-2020,77,M,Chandigarh,Hospitalized,,
+02-08-2020,48,M,Chandigarh,Hospitalized,,
+02-08-2020,50,F,Chandigarh,Hospitalized,,
+02-08-2020,32,F,Chandigarh,Hospitalized,,
+02-08-2020,12,F,Chandigarh,Hospitalized,,
+02-08-2020,26,M,Chandigarh,Hospitalized,,
+02-08-2020,80,F,Chandigarh,Hospitalized,,
+02-08-2020,56,F,Chandigarh,Hospitalized,,
+02-08-2020,16,M,Chandigarh,Hospitalized,,
+02-08-2020,26,M,Chandigarh,Hospitalized,,
+02-08-2020,29,M,Chandigarh,Hospitalized,,
+02-08-2020,44,M,Chandigarh,Hospitalized,,
+02-08-2020,65,M,Chandigarh,Hospitalized,,
+02-08-2020,34,M,Chandigarh,Hospitalized,,
+02-08-2020,24,M,Chandigarh,Hospitalized,,
+02-08-2020,26,M,Chandigarh,Hospitalized,,
+02-08-2020,53,F,Chandigarh,Hospitalized,,
+02-08-2020,25,M,Chandigarh,Hospitalized,,
+02-08-2020,44,M,Chandigarh,Hospitalized,,
+02-08-2020,28,M,Chandigarh,Hospitalized,,
+02-08-2020,58,M,Chandigarh,Hospitalized,,
+02-08-2020,30,F,Chandigarh,Recovered,,
+02-08-2020,54,F,Chandigarh,Recovered,,
+02-08-2020,55,M,Chandigarh,Recovered,,
+02-08-2020,14,M,Chandigarh,Recovered,,
+02-08-2020,20,F,Chandigarh,Recovered,,
+02-08-2020,43,F,Chandigarh,Recovered,,
+02-08-2020,55,F,Chandigarh,Recovered,,
+02-08-2020,11,F,Chandigarh,Recovered,,
+02-08-2020,13,M,Chandigarh,Recovered,,
+02-08-2020,69,M,Chandigarh,Recovered,,
+02-08-2020,48,F,Chandigarh,Recovered,,
+02-08-2020,56,M,Chandigarh,Recovered,,
+02-08-2020,33,F,Chandigarh,Recovered,,
+02-08-2020,36,M,Chandigarh,Recovered,,
+02-08-2020,30,M,Chandigarh,Recovered,,
+02-08-2020,63,M,Chandigarh,Deceased,,
+02-08-2020,62,M,Chandigarh,Migrated_Other,,
+02-08-2020,77,F,Uttarakhand,Deceased,,
+02-08-2020,68,M,Uttarakhand,Deceased,,
+02-08-2020,44,M,Uttarakhand,Deceased,,
+02-08-2020,72,M,Goa,Deceased,,
+02-08-2020,54,M,Goa,Deceased,,
+02-08-2020,72,F,Goa,Deceased,,
+02-08-2020,54,M,Goa,Deceased,,
+02-08-2020,45,F,Goa,Deceased,,
+02-08-2020,59,M,Karnataka,Deceased,,
+02-08-2020,80,M,Karnataka,Deceased,,
+02-08-2020,80,F,Karnataka,Deceased,,
+02-08-2020,67,M,Karnataka,Deceased,,
+02-08-2020,72,M,Karnataka,Deceased,,
+02-08-2020,87,M,Karnataka,Deceased,,
+02-08-2020,69,F,Karnataka,Deceased,,
+02-08-2020,65,M,Karnataka,Deceased,,
+02-08-2020,52,M,Karnataka,Deceased,,
+02-08-2020,65,M,Karnataka,Deceased,,
+02-08-2020,28,M,Karnataka,Deceased,,
+02-08-2020,61,M,Karnataka,Deceased,,
+02-08-2020,80,M,Karnataka,Deceased,,
+02-08-2020,68,M,Karnataka,Deceased,,
+02-08-2020,55,F,Karnataka,Deceased,,
+02-08-2020,65,M,Karnataka,Deceased,,
+02-08-2020,57,M,Karnataka,Deceased,,
+02-08-2020,65,F,Karnataka,Deceased,,
+02-08-2020,80,M,Karnataka,Deceased,,
+02-08-2020,50,M,Karnataka,Deceased,,
+02-08-2020,73,F,Karnataka,Deceased,,
+02-08-2020,78,M,Karnataka,Deceased,,
+02-08-2020,74,M,Karnataka,Deceased,,
+02-08-2020,82,M,Karnataka,Deceased,,
+02-08-2020,83,M,Karnataka,Deceased,,
+02-08-2020,72,M,Karnataka,Deceased,,
+02-08-2020,46,M,Karnataka,Deceased,,
+02-08-2020,36,M,Karnataka,Deceased,,
+02-08-2020,70,M,Karnataka,Deceased,,
+02-08-2020,75,M,Karnataka,Deceased,,
+02-08-2020,85,F,Karnataka,Deceased,,
+02-08-2020,85,M,Karnataka,Deceased,,
+02-08-2020,69,M,Karnataka,Deceased,,
+02-08-2020,70,M,Karnataka,Deceased,,
+02-08-2020,47,M,Karnataka,Deceased,,
+02-08-2020,66,M,Karnataka,Deceased,,
+02-08-2020,69,M,Karnataka,Deceased,,
+02-08-2020,70,F,Karnataka,Deceased,,
+02-08-2020,78,M,Karnataka,Deceased,,
+02-08-2020,56,M,Karnataka,Deceased,,
+02-08-2020,45,F,Karnataka,Deceased,,
+02-08-2020,61,M,Karnataka,Deceased,,
+02-08-2020,70,M,Karnataka,Deceased,,
+02-08-2020,51,M,Karnataka,Deceased,,
+02-08-2020,52,M,Karnataka,Deceased,,
+02-08-2020,42,F,Karnataka,Deceased,,
+02-08-2020,67,M,Karnataka,Deceased,,
+02-08-2020,77,F,Karnataka,Deceased,,
+02-08-2020,68,M,Karnataka,Deceased,,
+02-08-2020,45,F,Karnataka,Deceased,,
+02-08-2020,40,M,Karnataka,Deceased,,
+02-08-2020,68,M,Karnataka,Deceased,,
+02-08-2020,54,M,Karnataka,Deceased,,
+02-08-2020,67,M,Karnataka,Deceased,,
+02-08-2020,66,M,Karnataka,Deceased,,
+02-08-2020,66,M,Karnataka,Deceased,,
+02-08-2020,72,M,Karnataka,Deceased,,
+02-08-2020,75,M,Karnataka,Deceased,,
+02-08-2020,62,F,Karnataka,Deceased,,
+02-08-2020,57,M,Karnataka,Deceased,,
+02-08-2020,62,M,Karnataka,Deceased,,
+02-08-2020,72,F,Karnataka,Deceased,,
+02-08-2020,85,F,Karnataka,Deceased,,
+02-08-2020,58,M,Karnataka,Deceased,,
+02-08-2020,55,F,Karnataka,Deceased,,
+02-08-2020,57,F,Karnataka,Deceased,,
+02-08-2020,58,M,Karnataka,Deceased,,
+02-08-2020,75,M,Karnataka,Deceased,,
+02-08-2020,80,M,Karnataka,Deceased,,
+02-08-2020,84,M,Karnataka,Deceased,,
+02-08-2020,70,F,Karnataka,Deceased,,
+02-08-2020,66,M,Karnataka,Deceased,,
+02-08-2020,50,F,Karnataka,Deceased,,
+02-08-2020,54,F,Karnataka,Deceased,,
+02-08-2020,60,M,Karnataka,Deceased,,
+02-08-2020,80,M,Karnataka,Deceased,,
+02-08-2020,31,M,Karnataka,Deceased,,
+02-08-2020,80,M,Karnataka,Deceased,,
+02-08-2020,20,F,Karnataka,Deceased,,
+02-08-2020,40,M,Karnataka,Deceased,,
+02-08-2020,55,M,Karnataka,Deceased,,
+02-08-2020,81,M,Karnataka,Deceased,,
+02-08-2020,78,F,Karnataka,Deceased,,
+02-08-2020,62,M,Karnataka,Deceased,,
+03-08-2020,34,M,Odisha,Deceased,,
+03-08-2020,48,M,Odisha,Deceased,,
+03-08-2020,48,M,Odisha,Deceased,,
+03-08-2020,54,M,Odisha,Deceased,,
+03-08-2020,54,F,Odisha,Deceased,,
+03-08-2020,48,F,Odisha,Deceased,,
+03-08-2020,66,M,Odisha,Deceased,,
+03-08-2020,63,M,Odisha,Deceased,,
+03-08-2020,85,M,Odisha,Deceased,,
+03-08-2020,70,M,Odisha,Deceased,,
+03-08-2020,64,M,Odisha,Deceased,,
+03-08-2020,61,M,Odisha,Deceased,,
+03-08-2020,45,,Assam,Deceased,,
+03-08-2020,65,,Assam,Deceased,,
+03-08-2020,53,,Assam,Deceased,,
+03-08-2020,80,,Assam,Deceased,,
+03-08-2020,68,M,Kerala,Deceased,,
+03-08-2020,52,M,Kerala,Deceased,,
+03-08-2020,15,M,Chandigarh,Hospitalized,,
+03-08-2020,7,M,Chandigarh,Hospitalized,,
+03-08-2020,42,F,Chandigarh,Hospitalized,,
+03-08-2020,30,F,Chandigarh,Hospitalized,,
+03-08-2020,28,M,Chandigarh,Hospitalized,,
+03-08-2020,40,M,Chandigarh,Hospitalized,,
+03-08-2020,23,F,Chandigarh,Hospitalized,,
+03-08-2020,53,F,Chandigarh,Hospitalized,,
+03-08-2020,5,F,Chandigarh,Hospitalized,,
+03-08-2020,7,M,Chandigarh,Hospitalized,,
+03-08-2020,29,M,Chandigarh,Hospitalized,,
+03-08-2020,20,M,Chandigarh,Hospitalized,,
+03-08-2020,29,M,Chandigarh,Hospitalized,,
+03-08-2020,22,F,Chandigarh,Hospitalized,,
+03-08-2020,19,F,Chandigarh,Hospitalized,,
+03-08-2020,17,M,Chandigarh,Hospitalized,,
+03-08-2020,43,F,Chandigarh,Hospitalized,,
+03-08-2020,34,F,Chandigarh,Hospitalized,,
+03-08-2020,70,M,Chandigarh,Hospitalized,,
+03-08-2020,65,F,Chandigarh,Hospitalized,,
+03-08-2020,27,M,Chandigarh,Hospitalized,,
+03-08-2020,27,M,Chandigarh,Hospitalized,,
+03-08-2020,23,M,Chandigarh,Hospitalized,,
+03-08-2020,50,F,Chandigarh,Hospitalized,,
+03-08-2020,23,F,Chandigarh,Hospitalized,,
+03-08-2020,52,M,Chandigarh,Hospitalized,,
+03-08-2020,50,F,Chandigarh,Hospitalized,,
+03-08-2020,29,F,Chandigarh,Hospitalized,,
+03-08-2020,43,M,Chandigarh,Hospitalized,,
+03-08-2020,22,M,Chandigarh,Hospitalized,,
+03-08-2020,25,F,Chandigarh,Hospitalized,,
+03-08-2020,28,M,Chandigarh,Hospitalized,,
+03-08-2020,28,M,Chandigarh,Hospitalized,,
+03-08-2020,28,F,Chandigarh,Hospitalized,,
+03-08-2020,31,M,Chandigarh,Hospitalized,,
+03-08-2020,26,M,Chandigarh,Hospitalized,,
+03-08-2020,29,F,Chandigarh,Hospitalized,,
+03-08-2020,51,M,Chandigarh,Hospitalized,,
+03-08-2020,27,F,Chandigarh,Hospitalized,,
+03-08-2020,66,M,Chandigarh,Hospitalized,,
+03-08-2020,46,M,Chandigarh,Hospitalized,,
+03-08-2020,16,M,Chandigarh,Hospitalized,,
+03-08-2020,60,M,Chandigarh,Recovered,,
+03-08-2020,29,M,Chandigarh,Recovered,,
+03-08-2020,46,M,Chandigarh,Recovered,,
+03-08-2020,29,F,Chandigarh,Recovered,,
+03-08-2020,50,M,Chandigarh,Recovered,,
+03-08-2020,75,M,Chandigarh,Recovered,,
+03-08-2020,60,F,Chandigarh,Recovered,,
+03-08-2020,35,F,Chandigarh,Recovered,,
+03-08-2020,72,,Goa,Deceased,,
+03-08-2020,70,,Goa,Deceased,,
+03-08-2020,68,,Goa,Deceased,,
+03-08-2020,55,F,Uttarakhand,Deceased,,
+03-08-2020,46,M,Uttarakhand,Deceased,,
+03-08-2020,64,F,Uttarakhand,Deceased,,
+03-08-2020,35,M,Uttarakhand,Deceased,,
+04-08-2020,40,M,Odisha,Deceased,,
+04-08-2020,57,M,Odisha,Deceased,,
+04-08-2020,50,M,Odisha,Deceased,,
+04-08-2020,40,M,Odisha,Deceased,,
+04-08-2020,46,M,Odisha,Deceased,,
+04-08-2020,60,M,Odisha,Deceased,,
+04-08-2020,75,F,Odisha,Deceased,,
+04-08-2020,55,M,Odisha,Deceased,,
+04-08-2020,60,F,Odisha,Deceased,,
+04-08-2020,66,M,Odisha,Deceased,,
+03-08-2020,68,F,Karnataka,Deceased,,
+03-08-2020,73,M,Karnataka,Deceased,,
+03-08-2020,50,M,Karnataka,Deceased,,
+03-08-2020,31,F,Karnataka,Deceased,,
+03-08-2020,72,M,Karnataka,Deceased,,
+03-08-2020,54,M,Karnataka,Deceased,,
+03-08-2020,26,F,Karnataka,Deceased,,
+03-08-2020,35,M,Karnataka,Deceased,,
+03-08-2020,52,M,Karnataka,Deceased,,
+03-08-2020,58,M,Karnataka,Deceased,,
+03-08-2020,66,M,Karnataka,Deceased,,
+03-08-2020,70,F,Karnataka,Deceased,,
+03-08-2020,72,F,Karnataka,Deceased,,
+03-08-2020,64,M,Karnataka,Deceased,,
+03-08-2020,45,M,Karnataka,Deceased,,
+03-08-2020,86,M,Karnataka,Deceased,,
+03-08-2020,75,M,Karnataka,Deceased,,
+03-08-2020,60,M,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,75,M,Karnataka,Deceased,,
+03-08-2020,48,M,Karnataka,Deceased,,
+03-08-2020,50,M,Karnataka,Deceased,,
+03-08-2020,60,F,Karnataka,Deceased,,
+03-08-2020,80,F,Karnataka,Deceased,,
+03-08-2020,60,M,Karnataka,Deceased,,
+03-08-2020,33,M,Karnataka,Deceased,,
+03-08-2020,77,F,Karnataka,Deceased,,
+03-08-2020,54,M,Karnataka,Deceased,,
+03-08-2020,58,F,Karnataka,Deceased,,
+03-08-2020,55,F,Karnataka,Deceased,,
+03-08-2020,83,F,Karnataka,Deceased,,
+03-08-2020,64,M,Karnataka,Deceased,,
+03-08-2020,50,M,Karnataka,Deceased,,
+03-08-2020,58,M,Karnataka,Deceased,,
+03-08-2020,51,F,Karnataka,Deceased,,
+03-08-2020,74,F,Karnataka,Deceased,,
+03-08-2020,71,M,Karnataka,Deceased,,
+03-08-2020,36,M,Karnataka,Deceased,,
+03-08-2020,54,M,Karnataka,Deceased,,
+03-08-2020,58,M,Karnataka,Deceased,,
+03-08-2020,65,F,Karnataka,Deceased,,
+03-08-2020,61,F,Karnataka,Deceased,,
+03-08-2020,29,M,Karnataka,Deceased,,
+03-08-2020,62,F,Karnataka,Deceased,,
+03-08-2020,81,F,Karnataka,Deceased,,
+03-08-2020,47,F,Karnataka,Deceased,,
+03-08-2020,51,F,Karnataka,Deceased,,
+03-08-2020,64,M,Karnataka,Deceased,,
+03-08-2020,53,F,Karnataka,Deceased,,
+03-08-2020,47,M,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,76,F,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,76,M,Karnataka,Deceased,,
+03-08-2020,46,F,Karnataka,Deceased,,
+03-08-2020,51,M,Karnataka,Deceased,,
+03-08-2020,35,F,Karnataka,Deceased,,
+03-08-2020,56,M,Karnataka,Deceased,,
+03-08-2020,48,F,Karnataka,Deceased,,
+03-08-2020,40,M,Karnataka,Deceased,,
+03-08-2020,85,F,Karnataka,Deceased,,
+03-08-2020,53,F,Karnataka,Deceased,,
+03-08-2020,55,M,Karnataka,Deceased,,
+03-08-2020,85,M,Karnataka,Deceased,,
+03-08-2020,78,M,Karnataka,Deceased,,
+03-08-2020,54,F,Karnataka,Deceased,,
+03-08-2020,75,M,Karnataka,Deceased,,
+03-08-2020,59,M,Karnataka,Deceased,,
+03-08-2020,51,F,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,65,M,Karnataka,Deceased,,
+03-08-2020,68,M,Karnataka,Deceased,,
+03-08-2020,70,F,Karnataka,Deceased,,
+03-08-2020,74,F,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,54,M,Karnataka,Deceased,,
+03-08-2020,66,M,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,75,M,Karnataka,Deceased,,
+03-08-2020,79,M,Karnataka,Deceased,,
+03-08-2020,50,M,Karnataka,Deceased,,
+03-08-2020,68,F,Karnataka,Deceased,,
+03-08-2020,49,M,Karnataka,Deceased,,
+03-08-2020,60,M,Karnataka,Deceased,,
+03-08-2020,70,F,Karnataka,Deceased,,
+03-08-2020,55,F,Karnataka,Deceased,,
+03-08-2020,69,F,Karnataka,Deceased,,
+03-08-2020,70,F,Karnataka,Deceased,,
+03-08-2020,58,M,Karnataka,Deceased,,
+03-08-2020,86,M,Karnataka,Deceased,,
+03-08-2020,50,M,Karnataka,Deceased,,
+03-08-2020,70,M,Karnataka,Deceased,,
+03-08-2020,56,M,Karnataka,Deceased,,
+03-08-2020,51,M,Karnataka,Deceased,,
+03-08-2020,65,M,Karnataka,Deceased,,
+03-08-2020,68,M,Karnataka,Deceased,,
+04-08-2020,29,M,Goa,Deceased,,
+04-08-2020,79,F,Goa,Deceased,,
+04-08-2020,54,M,Goa,Deceased,,
+04-08-2020,80,M,Goa,Deceased,,
+04-08-2020,53,M,Kerala,Deceased,,
+04-08-2020,45,M,Kerala,Deceased,,
+04-08-2020,69,M,Kerala,Deceased,,
+04-08-2020,80,M,Uttarakhand,Deceased,,
+04-08-2020,55,F,Uttarakhand,Deceased,,
+04-08-2020,52,M,Uttarakhand,Deceased,,
+04-08-2020,37,F,Uttarakhand,Deceased,,
+04-08-2020,56,M,Uttarakhand,Deceased,,
+05-08-2020,42,M,Odisha,Deceased,,
+05-08-2020,55,M,Odisha,Deceased,,
+05-08-2020,52,F,Odisha,Deceased,,
+05-08-2020,59,M,Odisha,Deceased,,
+05-08-2020,27,M,Odisha,Deceased,,
+05-08-2020,53,M,Odisha,Deceased,,
+05-08-2020,21,M,Odisha,Deceased,,
+05-08-2020,60,F,Odisha,Deceased,,
+05-08-2020,63,M,Odisha,Deceased,,
+05-08-2020,54,M,Odisha,Deceased,,
+05-08-2020,1,M,Odisha,Deceased,,
+05-08-2020,50,M,Uttarakhand,Deceased,,
+05-08-2020,29,M,Uttarakhand,Deceased,,
+05-08-2020,62,M,Uttarakhand,Deceased,,
+04-08-2020,82,M,Karnataka,Deceased,,
+04-08-2020,62,M,Karnataka,Deceased,,
+04-08-2020,66,M,Karnataka,Deceased,,
+04-08-2020,62,M,Karnataka,Deceased,,
+04-08-2020,70,M,Karnataka,Deceased,,
+04-08-2020,49,F,Karnataka,Deceased,,
+04-08-2020,50,M,Karnataka,Deceased,,
+04-08-2020,55,F,Karnataka,Deceased,,
+04-08-2020,73,M,Karnataka,Deceased,,
+04-08-2020,70,F,Karnataka,Deceased,,
+04-08-2020,60,M,Karnataka,Deceased,,
+04-08-2020,62,M,Karnataka,Deceased,,
+04-08-2020,64,M,Karnataka,Deceased,,
+04-08-2020,55,F,Karnataka,Deceased,,
+04-08-2020,79,M,Karnataka,Deceased,,
+04-08-2020,65,M,Karnataka,Deceased,,
+04-08-2020,56,M,Karnataka,Deceased,,
+04-08-2020,67,M,Karnataka,Deceased,,
+04-08-2020,65,M,Karnataka,Deceased,,
+04-08-2020,55,F,Karnataka,Deceased,,
+04-08-2020,60,M,Karnataka,Deceased,,
+04-08-2020,58,M,Karnataka,Deceased,,
+04-08-2020,68,M,Karnataka,Deceased,,
+04-08-2020,52,M,Karnataka,Deceased,,
+04-08-2020,58,M,Karnataka,Deceased,,
+04-08-2020,80,F,Karnataka,Deceased,,
+04-08-2020,67,M,Karnataka,Deceased,,
+04-08-2020,57,M,Karnataka,Deceased,,
+04-08-2020,63,F,Karnataka,Deceased,,
+04-08-2020,68,M,Karnataka,Deceased,,
+04-08-2020,68,F,Karnataka,Deceased,,
+04-08-2020,38,M,Karnataka,Deceased,,
+04-08-2020,40,M,Karnataka,Deceased,,
+04-08-2020,54,M,Karnataka,Deceased,,
+04-08-2020,70,M,Karnataka,Deceased,,
+04-08-2020,45,M,Karnataka,Deceased,,
+04-08-2020,68,F,Karnataka,Deceased,,
+04-08-2020,65,M,Karnataka,Deceased,,
+04-08-2020,19,F,Karnataka,Deceased,,
+04-08-2020,40,F,Karnataka,Deceased,,
+04-08-2020,63,M,Karnataka,Deceased,,
+04-08-2020,56,F,Karnataka,Deceased,,
+04-08-2020,58,M,Karnataka,Deceased,,
+04-08-2020,61,M,Karnataka,Deceased,,
+04-08-2020,40,M,Karnataka,Deceased,,
+04-08-2020,52,F,Karnataka,Deceased,,
+04-08-2020,74,M,Karnataka,Deceased,,
+04-08-2020,78,F,Karnataka,Deceased,,
+04-08-2020,45,F,Karnataka,Deceased,,
+04-08-2020,55,F,Karnataka,Deceased,,
+04-08-2020,80,F,Karnataka,Deceased,,
+04-08-2020,55,F,Karnataka,Deceased,,
+04-08-2020,39,M,Karnataka,Deceased,,
+04-08-2020,74,M,Karnataka,Deceased,,
+04-08-2020,60,F,Karnataka,Deceased,,
+04-08-2020,81,F,Karnataka,Deceased,,
+04-08-2020,52,M,Karnataka,Deceased,,
+04-08-2020,60,F,Karnataka,Deceased,,
+04-08-2020,57,M,Karnataka,Deceased,,
+04-08-2020,54,M,Karnataka,Deceased,,
+04-08-2020,38,M,Karnataka,Deceased,,
+04-08-2020,45,M,Karnataka,Deceased,,
+04-08-2020,55,M,Karnataka,Deceased,,
+04-08-2020,84,M,Karnataka,Deceased,,
+04-08-2020,41,M,Karnataka,Deceased,,
+04-08-2020,68,F,Karnataka,Deceased,,
+04-08-2020,42,M,Karnataka,Deceased,,
+04-08-2020,40,M,Karnataka,Deceased,,
+04-08-2020,62,M,Karnataka,Deceased,,
+04-08-2020,65,M,Karnataka,Deceased,,
+04-08-2020,45,M,Karnataka,Deceased,,
+04-08-2020,35,F,Karnataka,Deceased,,
+04-08-2020,48,M,Karnataka,Deceased,,
+04-08-2020,62,M,Karnataka,Deceased,,
+04-08-2020,69,M,Karnataka,Deceased,,
+04-08-2020,70,M,Karnataka,Deceased,,
+04-08-2020,85,F,Karnataka,Deceased,,
+04-08-2020,60,F,Karnataka,Deceased,,
+04-08-2020,64,M,Karnataka,Deceased,,
+04-08-2020,45,F,Karnataka,Deceased,,
+04-08-2020,54,M,Karnataka,Deceased,,
+04-08-2020,67,M,Karnataka,Deceased,,
+04-08-2020,69,M,Karnataka,Deceased,,
+04-08-2020,62,F,Karnataka,Deceased,,
+04-08-2020,45,F,Karnataka,Deceased,,
+04-08-2020,65,M,Karnataka,Deceased,,
+04-08-2020,85,M,Karnataka,Deceased,,
+04-08-2020,68,F,Karnataka,Deceased,,
+04-08-2020,72,M,Karnataka,Deceased,,
+04-08-2020,44,M,Karnataka,Deceased,,
+04-08-2020,60,F,Karnataka,Deceased,,
+04-08-2020,57,F,Karnataka,Deceased,,
+04-08-2020,40,M,Karnataka,Deceased,,
+04-08-2020,76,F,Karnataka,Deceased,,
+04-08-2020,58,M,Karnataka,Deceased,,
+04-08-2020,60,M,Karnataka,Deceased,,
+04-08-2020,60,F,Karnataka,Deceased,,
+04-08-2020,69,M,Karnataka,Deceased,,
+04-08-2020,79,M,Karnataka,Deceased,,
+04-08-2020,68,F,Karnataka,Deceased,,
+04-08-2020,54,M,Karnataka,Deceased,,
+04-08-2020,60,M,Karnataka,Deceased,,
+04-08-2020,58,M,Karnataka,Deceased,,
+04-08-2020,70,M,Karnataka,Deceased,,
+04-08-2020,46,M,Karnataka,Deceased,,
+04-08-2020,60,M,Karnataka,Deceased,,
+04-08-2020,3,F,Karnataka,Deceased,,
+04-08-2020,23,F,Karnataka,Deceased,,
+04-08-2020,52,F,Karnataka,Deceased,,
+04-08-2020,55,F,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,40,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,39,M,Karnataka,Deceased,,
+05-08-2020,75,F,Karnataka,Deceased,,
+05-08-2020,66,Non-Binary,Karnataka,Deceased,,
+05-08-2020,62,F,Karnataka,Deceased,,
+05-08-2020,69,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,45,F,Karnataka,Deceased,,
+05-08-2020,54,M,Karnataka,Deceased,,
+05-08-2020,77,M,Karnataka,Deceased,,
+05-08-2020,58,F,Karnataka,Deceased,,
+05-08-2020,85,F,Karnataka,Deceased,,
+05-08-2020,48,F,Karnataka,Deceased,,
+05-08-2020,48,M,Karnataka,Deceased,,
+05-08-2020,35,M,Karnataka,Deceased,,
+05-08-2020,77,M,Karnataka,Deceased,,
+05-08-2020,75,M,Karnataka,Deceased,,
+05-08-2020,56,M,Karnataka,Deceased,,
+05-08-2020,73,M,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,58,M,Karnataka,Deceased,,
+05-08-2020,88,M,Karnataka,Deceased,,
+05-08-2020,63,M,Karnataka,Deceased,,
+05-08-2020,76,F,Karnataka,Deceased,,
+05-08-2020,80,F,Karnataka,Deceased,,
+05-08-2020,64,F,Karnataka,Deceased,,
+05-08-2020,72,M,Karnataka,Deceased,,
+05-08-2020,30,F,Karnataka,Deceased,,
+05-08-2020,30,M,Karnataka,Deceased,,
+05-08-2020,73,F,Karnataka,Deceased,,
+05-08-2020,62,F,Karnataka,Deceased,,
+05-08-2020,46,M,Karnataka,Deceased,,
+05-08-2020,66,F,Karnataka,Deceased,,
+05-08-2020,74,F,Karnataka,Deceased,,
+05-08-2020,55,F,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,50,M,Karnataka,Deceased,,
+05-08-2020,60,F,Karnataka,Deceased,,
+05-08-2020,75,F,Karnataka,Deceased,,
+05-08-2020,68,M,Karnataka,Deceased,,
+05-08-2020,62,M,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,58,F,Karnataka,Deceased,,
+05-08-2020,53,F,Karnataka,Deceased,,
+05-08-2020,60,F,Karnataka,Deceased,,
+05-08-2020,23,F,Karnataka,Deceased,,
+05-08-2020,38,M,Karnataka,Deceased,,
+05-08-2020,53,M,Karnataka,Deceased,,
+05-08-2020,36,F,Karnataka,Deceased,,
+05-08-2020,49,M,Karnataka,Deceased,,
+05-08-2020,82,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,43,M,Karnataka,Deceased,,
+05-08-2020,67,M,Karnataka,Deceased,,
+05-08-2020,38,F,Karnataka,Deceased,,
+05-08-2020,62,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,42,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,68,M,Karnataka,Deceased,,
+05-08-2020,73,M,Karnataka,Deceased,,
+05-08-2020,40,M,Karnataka,Deceased,,
+05-08-2020,83,M,Karnataka,Deceased,,
+05-08-2020,58,F,Karnataka,Deceased,,
+05-08-2020,48,F,Karnataka,Deceased,,
+05-08-2020,75,M,Karnataka,Deceased,,
+05-08-2020,80,M,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,40,M,Karnataka,Deceased,,
+05-08-2020,67,M,Karnataka,Deceased,,
+05-08-2020,50,F,Karnataka,Deceased,,
+05-08-2020,71,F,Karnataka,Deceased,,
+05-08-2020,61,M,Karnataka,Deceased,,
+05-08-2020,58,M,Karnataka,Deceased,,
+05-08-2020,46,M,Karnataka,Deceased,,
+05-08-2020,64,F,Karnataka,Deceased,,
+05-08-2020,44,M,Karnataka,Deceased,,
+05-08-2020,65,F,Karnataka,Deceased,,
+05-08-2020,93,M,Karnataka,Deceased,,
+05-08-2020,50,M,Karnataka,Deceased,,
+05-08-2020,52,F,Karnataka,Deceased,,
+05-08-2020,60,M,Karnataka,Deceased,,
+05-08-2020,90,M,Karnataka,Deceased,,
+05-08-2020,72,F,Karnataka,Deceased,,
+05-08-2020,74,F,Karnataka,Deceased,,
+05-08-2020,90,M,Karnataka,Deceased,,
+05-08-2020,63,M,Karnataka,Deceased,,
+05-08-2020,70,F,Karnataka,Deceased,,
+05-08-2020,82,F,Karnataka,Deceased,,
+05-08-2020,67,M,Karnataka,Deceased,,
+05-08-2020,65,F,Karnataka,Deceased,,
+05-08-2020,79,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,65,M,Karnataka,Deceased,,
+05-08-2020,70,M,Karnataka,Deceased,,
+05-08-2020,70,F,Karnataka,Deceased,,
+06-08-2020,52,M,Odisha,Deceased,,
+06-08-2020,40,M,Odisha,Deceased,,
+06-08-2020,28,F,Odisha,Deceased,,
+06-08-2020,40,M,Odisha,Deceased,,
+06-08-2020,39,M,Odisha,Deceased,,
+06-08-2020,54,M,Odisha,Deceased,,
+06-08-2020,55,M,Odisha,Deceased,,
+06-08-2020,53,F,Odisha,Deceased,,
+06-08-2020,61,M,Odisha,Deceased,,
+06-08-2020,52,M,Odisha,Deceased,,
+06-08-2020,45,F,Odisha,Deceased,,
+06-08-2020,64,M,Karnataka,Deceased,,
+06-08-2020,73,F,Karnataka,Deceased,,
+06-08-2020,50,M,Karnataka,Deceased,,
+06-08-2020,66,F,Karnataka,Deceased,,
+06-08-2020,87,F,Karnataka,Deceased,,
+06-08-2020,70,M,Karnataka,Deceased,,
+06-08-2020,50,M,Karnataka,Deceased,,
+06-08-2020,62,F,Karnataka,Deceased,,
+06-08-2020,65,F,Karnataka,Deceased,,
+06-08-2020,70,F,Karnataka,Deceased,,
+06-08-2020,59,M,Karnataka,Deceased,,
+06-08-2020,73,M,Karnataka,Deceased,,
+06-08-2020,78,F,Karnataka,Deceased,,
+06-08-2020,38,M,Karnataka,Deceased,,
+06-08-2020,62,F,Karnataka,Deceased,,
+06-08-2020,82,M,Karnataka,Deceased,,
+06-08-2020,82,M,Karnataka,Deceased,,
+06-08-2020,45,F,Karnataka,Deceased,,
+06-08-2020,65,M,Karnataka,Deceased,,
+06-08-2020,55,F,Karnataka,Deceased,,
+06-08-2020,40,M,Karnataka,Deceased,,
+06-08-2020,41,F,Karnataka,Deceased,,
+06-08-2020,55,M,Karnataka,Deceased,,
+06-08-2020,70,F,Karnataka,Deceased,,
+06-08-2020,70,F,Karnataka,Deceased,,
+06-08-2020,45,M,Karnataka,Deceased,,
+06-08-2020,46,F,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,72,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,67,F,Karnataka,Deceased,,
+06-08-2020,70,M,Karnataka,Deceased,,
+06-08-2020,65,M,Karnataka,Deceased,,
+06-08-2020,70,F,Karnataka,Deceased,,
+06-08-2020,86,M,Karnataka,Deceased,,
+06-08-2020,70,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,43,M,Karnataka,Deceased,,
+06-08-2020,78,M,Karnataka,Deceased,,
+06-08-2020,36,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,59,M,Karnataka,Deceased,,
+06-08-2020,65,M,Karnataka,Deceased,,
+06-08-2020,56,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,45,F,Karnataka,Deceased,,
+06-08-2020,63,M,Karnataka,Deceased,,
+06-08-2020,46,M,Karnataka,Deceased,,
+06-08-2020,68,M,Karnataka,Deceased,,
+06-08-2020,40,M,Karnataka,Deceased,,
+06-08-2020,68,F,Karnataka,Deceased,,
+06-08-2020,62,F,Karnataka,Deceased,,
+06-08-2020,45,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,69,M,Karnataka,Deceased,,
+06-08-2020,65,M,Karnataka,Deceased,,
+06-08-2020,65,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,75,M,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,74,M,Karnataka,Deceased,,
+06-08-2020,67,M,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,36,M,Karnataka,Deceased,,
+06-08-2020,75,M,Karnataka,Deceased,,
+06-08-2020,80,M,Karnataka,Deceased,,
+06-08-2020,62,M,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,77,M,Karnataka,Deceased,,
+06-08-2020,59,M,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,43,M,Karnataka,Deceased,,
+06-08-2020,70,M,Karnataka,Deceased,,
+06-08-2020,72,M,Karnataka,Deceased,,
+06-08-2020,49,F,Karnataka,Deceased,,
+06-08-2020,80,F,Karnataka,Deceased,,
+06-08-2020,60,M,Karnataka,Deceased,,
+06-08-2020,52,M,Karnataka,Deceased,,
+06-08-2020,67,M,Karnataka,Deceased,,
+06-08-2020,67,M,Karnataka,Deceased,,
+06-08-2020,48,F,Karnataka,Deceased,,
+06-08-2020,56,F,Karnataka,Deceased,,
+06-08-2020,65,F,Karnataka,Deceased,,
+06-08-2020,52,M,Karnataka,Deceased,,
+06-08-2020,43,M,Karnataka,Deceased,,
+06-08-2020,70,F,Karnataka,Deceased,,
+06-08-2020,55,M,Karnataka,Deceased,,
+06-08-2020,58,F,Karnataka,Deceased,,
+06-08-2020,69,M,Karnataka,Deceased,,
+06-08-2020,80,F,Karnataka,Deceased,,
+06-08-2020,52,M,Karnataka,Deceased,,
+06-08-2020,65,M,Karnataka,Deceased,,
