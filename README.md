@@ -8,8 +8,8 @@ dataset 1 and dataset2 is the input files for the analysis.  <br/>
 We have preprocessed the original data and initialized some labels according to the category. <br/>
 
 **Label for Dataset1 :** Data Dictionary of the dataset is mentioned below:<br/>
-1.sex: Patient’s gender (male means 2, female means 1).<br/>
-2.date_symptoms: Date of the appearance of covid19 symptoms.<br/>
+**1. sex:** Patient’s gender (male means 2, female means 1).<br/>
+**2. date_symptoms:** Date of the appearance of covid19 symptoms.<br/>
 3.entry_date: Date of the patient’s first hospital visit.<br/>
 4.date_died: Date of the patient’s death, “9999-99-99” means the recovery of the patient. <br/>
 5.pneumonia: Air sacs inflammation of a patient, already existed or not (yes means 1, no means 2). <br/>
