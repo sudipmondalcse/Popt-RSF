@@ -41,9 +41,7 @@ Also download from- https://www.kaggle.com/tanmoyx/covid19-patient-precondition-
 *********************
 
 ***To start a run :*** <br/>
-bvhgjhjh.py for RSF
-
-gfhg.py & gg.py for Popt-RSF
+rsf_default _and_optimized.py for RSF and Popt-RSF
  <br/>
 
 
