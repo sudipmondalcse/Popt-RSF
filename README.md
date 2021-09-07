@@ -4,11 +4,11 @@
 The required dependencies for the analysis is Python programming ***version 3***
 and is tested to work under windows as well as Ubuntu.<br/>
 
-*********************
 
 ***Dataset preparation*** <br/>
-dataset 1 and dataset2 is the input files for the analysis.  <br/>
-We have preprocessed the original data and initialized some labels according to the category. <br/>
+dataset 1 and dataset2 is the input files for the analysis. We have preprocessed the original data after the removal of missing and unspecified values and initialized some labels according to the category. <br/>
+
+*********************
 
 **Label for Dataset1 :** Data Dictionary of the dataset is mentioned below:<br/>
 **1. sex:** Patient’s gender (male means 2, female means 1).<br/>
