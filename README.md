@@ -1,7 +1,7 @@
 # Popt-RSF
 
 ***Prerequisites :*** <br/>
-The required dependencies for the analysis is Python programming ***R version >= 3.6***
+The required dependencies for the analysis is Python programming ***version 3***
 and is tested to work under windows as well as Ubuntu.<br/>
 ***Dataset preparation*** <br/>
 xx.txt and xy.txt is the input files for the analysis.  <br/>
