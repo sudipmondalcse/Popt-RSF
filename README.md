@@ -20,9 +20,22 @@ We have preprocessed the original data and initialized some labels according to 
 **10. other_disease:** The patient has another disease or not (yes means 1, no means 2). <br/>
 **11. renal_chronic:** The patient has renal chronic or not (yes means 1, no means 2). <br/>
 **12. tobacco:** If the patient uses tobacco or not (yes means 1, no means 2). <br/>
+**13. Duration:** Number of days in between date_symptoms and entry_date. <br/>
 
 Also download from- https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
-*******************************
+*********************
+
+The Data Dictionary of the dataset is mentioned below:
+1.Patient Number: Patient identification number.
+2.Date Announced:Date of being covid19 positive.
+3.Age Bracket: Patient’s age.
+4.Gender: Patient’s gender (male means 2, female means 1)
+5.Detected State: State in which case got detected
+6.Current Status: Status of the patient, i.e. Hospitalized or Recovered or Died.
+7.Status Change Date: Date on which the current status is evaluated. 
+8.Duration:Number of days in between Date Announced and Status Change Date.
+
+*********************
 
 ***To start a run :*** <br/>
 bvhgjhjh.py for RSF
