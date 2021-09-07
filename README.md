@@ -17,7 +17,7 @@ We have preprocessed the original data and initialized some labels according to 
 **7. diabetes:** The patient is diabetic or not (yes means 1, no means 2). <br/>
 **8. asthma:** the patient has asthma or not (yes means 1, no means 2). <br/>
 **9. hypertension:** The patient has hypertension or not (yes means 1, no means 2). <br/>
-**10. other_disease:**The patient has another disease or not (yes means 1, no means 2). <br/>
+**10. other_disease:** The patient has another disease or not (yes means 1, no means 2). <br/>
 **11. renal_chronic:** The patient has renal chronic or not (yes means 1, no means 2). <br/>
 **12. tobacco:** If the patient uses tobacco or not (yes means 1, no means 2). <br/>
 
