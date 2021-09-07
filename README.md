@@ -25,15 +25,15 @@ We have preprocessed the original data and initialized some labels according to 
 Also download from- https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
 *********************
 
-The Data Dictionary of the dataset is mentioned below:
-1.Patient Number: Patient identification number.
-2.Date Announced:Date of being covid19 positive.
-3.Age Bracket: Patient’s age.
-4.Gender: Patient’s gender (male means 2, female means 1)
-5.Detected State: State in which case got detected
-6.Current Status: Status of the patient, i.e. Hospitalized or Recovered or Died.
-7.Status Change Date: Date on which the current status is evaluated. 
-8.Duration:Number of days in between Date Announced and Status Change Date.
+**Label for Dataset1 :** The Data Dictionary of the dataset is mentioned below: <br/>
+**1. Patient Number:** Patient identification number. <br/>
+**2. Date Announced:** Date of being covid19 positive. <br/>
+**3. Age Bracket:** Patient’s age. <br/>
+**4. Gender:** Patient’s gender (male means 2, female means 1) <br/>
+**5. Detected State:** State in which case got detected <br/>
+**6. Current Status:** Status of the patient, i.e. Hospitalized or Recovered or Died. <br/>
+**7. Status Change Date:** Date on which the current status is evaluated.  <br/>
+**8. Duration:** Number of days in between Date Announced and Status Change Date. <br/>
 
 *********************
 
