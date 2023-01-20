@@ -48,4 +48,4 @@ rsf_default _and_optimized.py for RSF and Popt-RSF
 
 ***Feedback*** <br/>
 Any further information contact at <br/> 
-sudipmondal@soa.ac.in, ananyaghosh15299@gmail.com
+sudipmondalcs@gmail.com, ananyaghosh15299@gmail.com
